@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+SpeechRecognition
+langchain-chroma
+langchain-huggingface
+langchain-google-genai
+python-dotenv
+requests

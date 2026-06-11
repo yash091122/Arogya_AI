@@ -1,0 +1,17 @@
+# Credentials & Keys
+.env
+
+# Vector Database Caches (Builds locally from text files)
+chroma_db/
+
+# Temporary Audio Dumps
+temp_audio/
+
+# Python Runtime Overhead
+__pycache__/
+*.pyc
+
+# Local Test Files
+sample_voice.wav
+test_client.py
+test_audio_client.py

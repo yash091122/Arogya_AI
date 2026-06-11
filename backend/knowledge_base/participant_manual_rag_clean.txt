@@ -1,0 +1,3222 @@
+
+
+
+Emergency Triage
+Assessment
+and
+Treatment
+(ETAT)
+Manual for
+For further information, please contact:
+Department of Child and Adolescent Health and Development (CAH)
+World Health Organization
+participants
+20, Avenue Appia
+1211 Geneva 27
+Switzerland
+Tel: +41 22 791 2632
+Fax: +41 22 791 4853
+E-mail: cah@who.int
+Web site: http://www.who.int/child-adolescent-health
+ISBN 92 4 154687 5
+World Health
+Organization
+mergency
+Triage
+Assessment
+and
+Treatment
+(ETAT)
+Manual
+for
+participants
+WH
+
+
+
+Emergency Triage
+Assessment
+and
+Treatment
+(ETAT)
+Manual for
+participants
+World Health
+Organization
+
+
+
+The WHO Department of Child and Adolescent Health and Development wishes to acknowledge the
+help and support of Professor Elizabeth Molyneux, who developed the training course for the Emergency
+Triage Assessment and Treatment on which these course materials are based. We would like to extend our
+thanks to Patricia Whitesell, ACT, USA, who wrote a first draft of the materials, and to Dr. Jan Eshuis,
+Royal Tropical Institute, Amsterdam, who developed the training materials further. In addition, we are
+grateful to the participants and facilitators of several field tests of these materials for their comments. We
+wish to thank Dr Carolyn Maclennan, Melbourne, Australia, Dr. Diana Silimperi and Lauri Winter,
+Quality Assurance Project, Bethesda, USA for providing substantial comments and revisions during these
+field tests, and the WHO Regional Offices for Africa, Southeast Asia and the Western Pacific for their
+support.
+WHO Library Cataloguing-in-Publication Data
+Emergency triage assessment and treatment (ETAT).
+Contents: Manual for participants — Facilitator guide.
+1. Triage. 2. Emergency treatment. 3. Child health services. 4. Teaching materials. I. World Health
+Organization.
+ISBN 92 4 154687 5 (participants) (NLM classification: WS 205)
+ISBN 92 4 154688 3 (facilitator)
+© World Health Organization 2005
+All rights reserved. Publications of the World Health Organization can be obtained from WHO Press,
+World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel: +41 22 791 2476; fax:
++41 22 791 4857; email: bookorders@who.int). Requests for permission to reproduce or translate WHO
+publications – whether for sale or for noncommercial distribution – should be addressed to WHO Press,
+at the above address (fax: +41 22 791 4806; email: permissions@who.int).
+The designations employed and the presentation of the material in this publication do not imply the
+expression of any opinion whatsoever on the part of the World Health Organization concerning the legal
+status of any country, territory, city or area or of its authorities, or concerning the delimitation of its
+frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not
+yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are
+endorsed or recommended by the World Health Organization in preference to others of a similar nature
+that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished
+by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication.
+However, the published material is being distributed without warranty of any kind, either express or
+implied. The responsibility for the interpretation and use of the material lies with the reader. In no event
+shall the World Health Organization be liable for damages arising from its use.
+Printed in
+
+
+
+Table of contents
+Introduction 1
+Learning objectives for the training course 2
+Module One: Triage and the “ABCD” concept 3
+The “ABCD” concept 4
+Priority signs 4
+The triaging process 4
+When and where should triaging takes place? 5
+Who should triage? 5
+How to triage? 5
+Assessing priority signs 6
+General treatment for priority signs 8
+The need for frequent reassessment 9
+Assessment questions: Triage 10
+Module Two: Airway and breathing 13
+Assessment of the airway 13
+Is the child breathing? Is the airway obstructed? 13
+Management of the airway 14
+Management of the choking child 14
+Positioning to improve the airway 15
+Is trauma of the neck a possibility? 16
+Assessment breathing 17
+Is the child breathing? 17
+Does the child show central cyanosis? 17
+Does the child have severe respiratory distress? 18
+Management of breathing problems 18
+Ventilate with bag and mask 18
+Insertion of an oropharyngeal (Guedel) airway 19
+Give oxygen 20
+Assessment questions: Airway and breathing 23
+Module Three: Circulation 25
+Assess the circulation 26
+Are the child’s hands warm? 26
+Is the capillary refill longer than 3 seconds? 26
+Is the pulse weak and fast? 27
+Shock 27
+Treatment of shock 27
+Assessment questions: Circulation 32
+
+
+
+Assess the child’s neurological status 35
+Is the child in coma? 35
+Is the child convulsing now? 36
+Treatment of coma and convulsion 36
+Manage the airway 37
+Position the child 37
+Check blood sugar 37
+Give IV glucose 38
+Give an anticonvulsant 39
+Assessment questions: Coma and convulsion 41
+Module Five: Dehydration 43
+Assess for severe dehydration 43
+Is the child lethargic 44
+Does the child have sunken eyes? 44
+Does a skin pinch go back very slowly (longer than 2 seconds)? 44
+Treatment of severe dehydration in an emergency setting 45
+Severe dehydration (without shock or severe malnutrition) 45
+Give fluids by nasogastric tube if you cannot set up an intravenous infusion 45
+Severe dehydration with severe malnutrition 47
+Assessment questions: Dehydration 49
+Module Six: Case management scenarios 53
+Module Seven: Implementing ETAT 55
+Objectives of the chapter/session 55
+Implementing ETAT in your hospital 56
+Advocacy 56
+Patient flow and tasks 57
+Material resources 57
+Developing individual plans of actions 57
+Annexes
+Annex 1. Practical procedures 59
+Giving parenteral fluids 59
+Insertion of a nasogastric tube 63
+Annex 2. Resources required to implement emergegncy care of children in hospitals 65
+Annex 3. ETAT charts 67
+Chart 2: Triage of all sick children 67
+Chart 3: How to manage a choking child 69
+Chart 4: How to manage the airway in a child with obstructed breathing
+(or who has just stopped breathing) 70
+Chart 5: How to give oxygen 71
+Chart 6: How to position the unconscious child 72
+Chart 7: How to give IV fluids rapidly for shock in a child without severe
+malnutrition 73
+Chart 8: How to give IV fluids for shock in a child with severe malnutrition 74
+Chart 9: How to give diazepam (or paraldehyde) rectally 75
+Chart 10: How to give IV glucose 76
+Chart 11: How to treat severe dehydration in an emergency setting 77
+
+
+
+Introduction
+A nine-month old baby boy is carried into the children’s section of the outpatient
+department in his mother’s arms. He appears to be asleep. At the triage desk he
+is seen by a nurse and found to have lips and tongue that are grey/blue in colour,
+and he is taken straight into the resuscitation room as an emergency.
+In the resuscitation room he is given oxygen from an oxygen concentrator. He is
+noted to be grunting and breathing very fast. His hands are cold to touch and
+the capillary refill time is prolonged to four seconds. An intravenous cannula is
+placed. A blood sample is taken at the same time for blood glucose, haematocrit
+and other investigations. An intravenous infusion of normal saline is commenced
+at 20ml/kg to run as fast as it can go.
+Other treatments are given, depending on the result of the investigations and
+the response to the treatment he receives. It is now 18 minutes since the baby
+came through the outpatient department’s door, and his situation is stable. It is
+now time to take a full history and carry out a full examination to make a
+definitive diagnosis. He is diagnosed as having very severe pneumonia, and
+receives specific treatment for this. However, before coming to this diagnosis,
+no time was wasted, his status was stabilized, based on a few leading signs and
+symptoms, even when the medical staff did not know exactly what was wrong
+with him.
+This was good triage and emergency management. Would it have happened like
+this in your hospital? In this training course, you are going to acquire the necessary
+knowledge and skills for the triage and emergency management of sick children,
+and you will consider what is needed to introduce this to your hospital.
+Deaths in hospital often occur within 24 hours of admission. Many of these
+deaths could be prevented if very sick children are identified soon after their
+arrival in the health facility, and treatment is started immediately. Therefore, a
+process of rapid triage for all children presenting to hospital needs to be put in
+place, to determine whether any emergency or priority signs are present. Triage
+may be done in 15-20 seconds by medical staff or by non-medical staff (after
+appropriate training) as soon as the child arrives, and no special equipment is
+needed for this. Once emergency signs are identified, prompt emergency treatment
+needs to be given to stabilize the condition of the child.
+
+
+
+guidelines. These are adapted from the Advanced Paediatric Life Support
+guidelines used in western countries, and they identify children with immediately
+life-threatening conditions which are most frequently seen in developing
+countries, such as obstruction of the airway and other breathing problems caused
+by infections, shock, severely altered central nervous system function (coma or
+convulsions), and severe dehydration.
+These guidelines were developed in Malawi, and were field-tested in several
+other countries including Angola, Brazil, Cambodia, Indonesia, Kenya and Niger.
+The guidelines are contained in the manual “Management of the child with a
+serious infection or severe malnutrition” and in the “Pocketbook of hospital
+care for children”, on which this training course is based. This course manual is
+primarily meant for the participants of a 3 1/2 days training course in Emergency
+Triage, Assessment and Treatment. It provides participants with the reading
+materials to prepare themselves for the modules taught in the course. Some of
+the reading might be done during the course. In addition, it gives questions for
+self-assessment which participants can respond to after having gone through the
+training. Apart from use in a full-time training course, the reading will be useful
+for trainers and participants who take part in training as a series of seminars.
+Guidance on how to conduct such training is contained in a parallel facilitator’s
+guide.
+This training course does not stand on its own. It can be included in a quality
+improvement process which targets the whole hospital or it can start such a
+process. At the end of the course, participants plan for introducing an ETAT
+process at their institution, by comparing the existing situation with international
+standards, and suggesting actions to solve identified problems and to document
+and evaluate such a process. Lessons learned in this process can be applied to
+other areas of child health in hospital and to care of other patient groups.
+Emergency management is by team, rather than by individual players, so team
+work is emphasized and practised throughout the course.
+Learning objectives for the training course
+At the end of the course you will be able to:
+(cid:132) Triage all sick children when they arrive at a health facility, into the
+following categories:
+- those with emergency signs
+- those with priority signs
+- those who are non-urgent cases.
+(cid:132) Assess a child’s airway and breathing and give emergency treatments.
+(cid:132) Assess the child’s status of circulation and level of consciousness.
+(cid:132) Manage shock, coma, and convulsions in a child.
+(cid:132) Assess and manage severe dehydration in a child with diarrhoea.
+(cid:132) Plan and implement ETAT in your own working area in your hospital.
+
+
+
+Triage and the "ABCD"
+concept
+Many deaths in hospital occur within 24 hours of admission. Some of these
+TRIAGE
+deaths can be prevented if very sick children are quickly identified on their
+arrival and treatment is started without delay. In many hospitals around the is the sorting of patients
+world, children are not checked before a senior health worker examines them; as into priority groups
+a result, some seriously ill patients have to wait a very long time before they are
+according to their need
+seen and treated. Children are known to have died of a treatable condition
+and the resources
+when waiting in the queue for their turn. The idea of triage is to prevent this
+available
+from happening. The word “triage” means sorting. The use of triage to prioritize
+the critically ill dates back to the early 19th century, when this was developed by
+military surgeons in the Napoleonic war between France and Russia.
+Triage is the process of rapidly examining all sick children when they first arrive
+in hospital in order to place them in one of the following categories:
+(cid:132) Those with EMERGENCY SIGNS who require immediate emergency
+treatment.
+If you find any emergency signs, do the following immediately:
+- Start to give appropriate emergency treatment.
+- Call a senior health worker and other health workers to help.
+- Carry out emergency laboratory investigations.
+(cid:132) Those with PRIORITY SIGNS, indicating that they should be given
+E Emergency
+priority in the queue, so that they can rapidly be assessed and treated
+P Priority
+without delay.
+Q Queue (non-urgent)
+(cid:132) Those who have no emergency or priority signs and therefore are NON-
+URGENT cases. These children can wait their turn in the queue for
+assessment and treatment.1 The majority of sick children will be non-
+urgent and will not require emergency treatment.
+After these steps are completed, proceed with general assessment and further
+treatment according to the child’s priority.
+In an ideal situation, all children should be checked on their arrival in hospital
+by a person who is trained to assess how ill they are. This person decides whether
+the patient will be seen immediately and will receive life-saving treatment, or
+will be seen soon, or can safely wait his/her turn to be examined.
+1 Sometimes it is discovered that a child in the queue is waiting for immunization. These children do not need
+assessment and can be referred to the right department without delay.
+
+
+
+Categories after triage Action required
+EMERGENCY CASES Need immediate emergency treatment
+PRIORITY CASES Need assessment and rapid attention
+NON-URGENT CASES Can wait their turn in the queue
+The ABCD concept
+A Airway
+B Breathing
+Triage of patients involves looking for signs of serious illness or injury. These
+C Circulation emergency signs relate to the Airway-Breathing-Circulation/Consciousness-
+Coma Dehydration and are easily remembered as “ABCD”.
+Convulsion Each letter refers to an emergency sign which, when positive, should alert you to
+D Dehydration (severe) a patient who is seriously ill and needs immediate assessment and treatment.
+Priority signs
+Besides the group of emergency signs described above, there are priority signs,
+which should alert you to a child who needs prompt, but not emergency
+assessment. These signs can be remembered with the symbols 3 TPR - MOB:
+(cid:132) Tiny baby: any sick child aged under two months
+(cid:132) Temperature: child is very hot
+(cid:132) Trauma or other urgent surgical condition
+(cid:132) Pallor (severe)
+(cid:132) Poisoning
+(cid:132) Pain (severe)
+(cid:132) Respiratory distress
+(cid:132) Restless, continuously irritable, or lethargic
+(cid:132) Referral (urgent)
+(cid:132) Malnutrition: Visible severe wasting
+(cid:132) Oedema of both feet
+(cid:132) Burns
+The frequency with which children showing some of these priority signs appear
+in the outpatient department depends on the local epidemiology. The signs might
+need to be adapted accordingly, for example by including signs for common
+severe conditions which cannot wait in your setting.
+The triaging process
+Triaging should not take much time. For a child who does not have emergency
+signs, it takes on average 20 seconds. The health worker should learn to assess
+several signs at the same time. A child who is smiling or crying does not have
+severe respiratory distress, shock or coma. The health worker looks at the child,
+observes the chest for breathing and priority signs such as severe malnutrition
+and listens to abnormal sounds such as stridor or grunting.
+
+
+#### [Table Content]
+| A B C D | Airway Breathing Circulation Coma Convulsion Dehydration (severe) |
+| --- | --- |
+
+
+
+
+A Airway
+stamp being used in Malawi consisting of the “ABCD” signs in which the health
+B Breathing
+worker circles the correct step and initiates emergency treatment “E” or puts
+C Circulation
+them in priority groups “P” or “Q” for children who can wait in the queue.
+Cm Coma
+Colours can also be used for differentiating the three groups, giving a red sticker Cn Convulsion
+to emergency cases, a yellow for priority and green for the queue. D Dehydration (severe)
+E Emergency
+WHEN AND WHERE SHOULD TRIAGING TAKE PLACE? P Priority
+Q Queue
+Triage should be carried out as soon as a sick child arrives in the hospital, well
+before any administrative procedure such as registration. This may require
+reorganizing the flow of patients in some locations.
+Triage can be carried out in different locations – e.g. in the outpatient queue, in
+the emergency room, or in a ward if the child has been brought directly to the
+ward at night. In some settings, triage is done in all these places. Emergency
+treatment can be given wherever there is room for a bed or trolley for the sick
+child and enough space for the staff to work on the patient, and where appropriate
+drugs and supplies are easily accessible. If a child with emergency signs is identified
+in the outpatient queue, he/she must quickly be taken to a place where treatment
+can be provided immediately, e.g. the emergency room or ward.
+WHO SHOULD TRIAGE?
+All clinical staff involved in the care of sick children should be prepared to carry
+out rapid assessment in order to identify the few who are severely ill and require
+emergency treatment. If possible, all such staff should be able to give initial
+emergency treatment, as described in the flowchart and treatment charts. In
+addition, people such as gatemen, record clerks, cleaners, janitors who have
+early patient contact should be trained in triage for emergency signs and should
+know where to send people for immediate management.
+HOW TO TRIAGE?
+Keep in mind the ABCD steps: Airway, Breathing, Circulation, Coma, Convulsion,
+and Dehydration.
+To assess if the child has airway or breathing problems you need to know:
+(cid:132) Is the child breathing?
+(cid:132) Is the airway obstructed?
+(cid:132) Is the child blue (centrally cyanosed)?
+Look, listen and feel for air movement. Obstructed breathing can be due to
+blockage by the tongue, a foreign body, a swelling around the upper airway
+(retropharyngeal abscess) or severe croup which may present with abnormal
+sounds such as stridor.
+(cid:132) Does the child have severe respiratory distress?
+Is the child having trouble getting breath so that it is difficult to talk, eat or
+breastfeed? Is he breathing very fast and getting tired, does he have severe chest
+indrawing or is he using auxiliary respiratory muscles?
+
+
+
+(cid:132) Does the child have warm hands?
+(cid:132) If not, is the capillary refill time longer than 3 seconds?
+(cid:132) And is the pulse weak and fast?
+In the older child the radial pulse may be used; however, in the infant, the
+brachial or femoral pulses may need to be felt.
+To assess for coma you need to know:
+A rapid assessment of conscious level can be made by assigning the patient to
+one of the AVPU categories:
+A Alert
+V responds to Voice
+P responds to Pain
+U Unresponsive
+A child who is not alert but responds to voice is lethargic. If the assessment
+shows that the child does not respond to voice and only responds to pain (with
+targeted or untargeted movements), or does not respond at all, the level is at “P”
+or “U”. We then refer to that child as having coma and the child needs to be
+If the child has any
+treated accordingly.
+sign of the ABCD, it
+To assess for dehydration you need to know:
+means the child has an
+emergency “E” sign and (cid:132) If the child is lethargic or unconscious
+emergency treatment (cid:132) If the child has sunken eyes
+(cid:132) If the skin pinch goes back very slowly
+should start
+immediately When ABCD has been completed and there are no emergency signs, continue
+to assess the priority signs.
+Assessing priority signs
+If the child does not have any of the E signs, the health worker proceeds to
+assess the child on the priority signs. This should not take more than few seconds.
+Some of these signs will have been noticed during the ABCD triage discussed so
+far, and others need to be rechecked. Follow the 3 TPR-MOB to quickly complete
+this section.
+Tiny infant (less than two months of age)
+If the child appears very young, ask the mother his age. If the child is obviously
+not a young infant, you do not need to ask this question.
+Small infants are more difficult to assess properly, more prone to getting infections
+(from other patients), and more likely to deteriorate quickly if unwell. All tiny
+babies of under two months should therefore be seen as a priority.
+Temperature: Hot (fever - high Temperature)
+A child that feels very hot may have high fever. Children with high fever on
+touch need prompt treatment. Take the waiting child to the front of the queue
+and take locally adopted action, like having the temperature checked by
+thermometer, giving an antipyretic, or doing investigations like a blood film for
+malaria.
+
+
+
+Usually this is an obvious case, but one needs to think of acute abdomen, fractures
+and head injuries in this category.
+SeverePallor
+Pallor is unusual paleness of the skin, and severe pallor is a
+sign of severe anaemia which might need urgent transfusion.
+It can be detected by comparing the child’s palms with
+your own. If the palms are very pale (almost paper-white),
+the child is severely anaemic.
+Poisoning
+A child with a history of swallowing drugs or other
+dangerous substances needs to be assessed immediately, as
+he can deteriorate rapidly and might need specific
+Figure 1
+treatments depending on the substance taken. The mother
+Severe pallor
+will tell you if she has brought the child because of possible
+intoxication.
+SeverePain
+If a child has severe pain and is in agony, she/he should be prioritized to receive
+early full assessment and pain relief. Severe pain may be due to severe conditions
+such as acute abdomen, meningitis, etc.
+Lethargy or Irritable and Restless
+Recall from your assessment of coma with the AVPU scale whether the child
+was lethargic. A lethargic child responds to voice but is drowsy and uninterested
+(V in the AVPU scale).
+The continuously irritable or restless child is conscious but cries constantly and
+will not settle.
+Respiratory distress
+When you assessed the airway and breathing, did you observe any respiratory
+distress? If the child has severe respiratory distress, it is an emergency. There
+may be signs present that you do not think are severe, e.g. lower chest wall
+indrawing (not severe), or difficulty in breathing. In this case, the child does not
+require emergency treatment but will need urgent assessment. Decisions on the
+severity of respiratory distress come with practice. If you have any doubts, have
+the child seen and treated immediately.
+UrgentReferral
+The child may have been sent from another clinic. Ask the mother if she was
+referred from another facility and for any note that may have been given to her.
+Read the note carefully and determine if the child has an urgent problem.
+Severe wasting (Severe Malnutrition)
+A child with visible severe wasting has a form of malnutrition called marasmus. To
+assess for this sign, look rapidly at the arms and legs as well as the child’s chest. A
+detailed description is given in the section on dehydration (see pages 28/29).
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 1 Severe pallor |
+
+
+
+
+Oedema of both feet is an important diagnostic feature of kwashiorkor, another
+form of severe malnutrition. Other signs are changes in the skin and hair.
+MajorBurn
+Burns are extremely painful and children who seem quite well can deteriorate
+rapidly. If the burn occurred recently, it is still worthwhile to cool the burnt area
+with water, for example, by sitting the child in a bathtub with cool water. Any
+child with a major burn, trauma or other surgical condition needs to be seen
+quickly. Get surgical help or follow surgical guidelines.
+Triage all sick children. When a child with emergency signs is identified, take to
+the emergency room or treatment area and start the appropriate emergency
+treatments immediately. Do not proceed to the next step before treatment is
+begun for a positive sign.
+Triage Steps Treat when any sign is positive
+Treatment begins
+when Assess A If positive, treat. If negative, proceed to B
+Assess B If positive, treat. If negative, proceed to C
+any emergency
+Assess C If positive, treat. If negative, proceed to D
+sign is identified
+Assess D If positive, treat. If negative, proceed to priority signs
+If the child has no emergency signs, check for priority signs. After the examination
+for priority signs has been completed, the child will be assigned to one of:
+Priority (P): the child should be put at the front of the queue
+Queue (Q): if the child has no emergency or priority signs
+Once appropriate emergency treatments have been initiated:
+(cid:132) call for a senior health worker;
+(cid:132) draw blood for emergency laboratory investigations such as blood
+glucose, haemoglobin and malaria smear;
+(cid:132) ask about head or neck trauma before providing treatment;
+(cid:132) take careful note if the child is severely malnourished, because this will
+affect the treatment of shock and dehydration caused by diarrhoea.
+More than one
+It is essential to act as quickly as possible and to start the emergency treatments.
+treatment may have to
+The team needs to stay calm and work together efficiently. The person in charge
+be administered as of the emergency management of the child assigns tasks so that the assessment
+quickly as possible, and can continue and treatments can be initiated as quickly as possible. Other health
+workers help to give the treatment needed, especially since a very sick child may
+several people may
+need several treatments at once. The senior health worker will direct the treatment
+have to work together
+and immediately continue with a core assessment and follow-up of the child,
+as a team
+identifying all the child’s problems and developing the treatment plan.
+GENERAL TREATMENT FOR PRIORITY SIGNS
+Priority signs lead to quicker assessment of the child by moving the child to the
+front of the queue. While waiting, some supportive treatments may already be
+given. For example, a child found to have a hot body may receive an antipyretic
+
+
+
+pain could be controlled while waiting for definitive treatment.
+If a child has no emergency signs or priority signs, she/he may return to the
+queue.
+THE NEED FOR FREQUENT REASSESSMENT
+During and following emergency treatment, the child should be re-assessed using
+the complete ABCD process. The disease course is dynamic and there could be
+new developments within a short time. Reassessment should begin with
+assessment of the airway and through the ABCD.
+Triage is the sorting of patients into priority groups according to their need.
+All children should undergo triage. The main steps in triage are:
+(cid:132) Look for emergency signs.
+(cid:132) Treat any emergency signs you find.
+(cid:132) Call a senior health worker to see any emergency.
+(cid:132) Look for any priority signs.
+(cid:132) Place priority patients at the front of the queue.
+(cid:132) Move on to the next patient.
+Triage should be carried out quickly. You will soon learn to observe several things
+at once. For example, when assessing the airway and breathing you may note that
+the baby is very small or is restless. With practice, a complete triage (if no emergency
+treatment is needed) takes less than a minute.
+SUMMARY
+
+
+#### [Table Content]
+| Triage is the sorting of patients into priority groups according to their need. All children should undergo triage. The main steps in triage are: (cid:132) Look for emergency signs. (cid:132) Treat any emergency signs you find. (cid:132) Call a senior health worker to see any emergency. (cid:132) Look for any priority signs. (cid:132) Place priority patients at the front of the queue. (cid:132) Move on to the next patient. Triage should be carried out quickly. You will soon learn to observe several things at once. For example, when assessing the airway and breathing you may note that the baby is very small or is restless. With practice, a complete triage (if no emergency treatment is needed) takes less than a minute. | SUMMARY |
+| --- | --- |
+
+
+
+
+Answer all the questions on this page, writing in the given spaces. If you have a
+problem, ask for help from one of the facilitators.
+GAIRT
+:SNOITSEUQ
+TNEMSSESSA
+1. Define “triage”.
+2. When and where should triage take place?
+3. Who should do triaging?
+4. What do the letters A, B, C and D in "ABCD" stand for?
+5. List the priority signs:
+
+
+
+6. Put the actions in the right chronological order: what will you do first, what next, what after that, and so on,
+and what last?
+Ask about head or neck trauma
+Call a senior health worker to see any emergency
+Have blood specimens taken for laboratory analysis
+Look for any priority signs
+Look for emergency signs
+Move on to the next patient
+Place priority patients at the front of the queue
+Start treatment of any emergency signs you find
+SSESSMENT
+QUESTIONS:
+TRIAGE
+7. A three-year old girl is carried in her mother's arms wrapped in a blanket, in the queue. Her airway and
+breathing are OK. She has cold hands. Her capillary refill is 1.5 seconds. She is alert. Asked if the child has
+had diarrhoea, the mother answered "YES. Four loose stools per day". The skin pinch takes 3 seconds. How
+do you triage this child?
+8. A four-year old male child was rushed in. He convulsed one hour ago. He is
+breathing fast but there is no cyanosis and no respiratory distress. He feels very hot, but responds quickly to
+questions. He has no diarrhoea or vomiting. How do you triage this child?
+
+
+
+GAIRT
+:SNOITSEUQ
+TNEMSSESSA
+9. A one-year old had a seizure at home; then again outside the clinic. He became unconscious. His breathing
+sounds very wet and noisy and there is drooling coming from his mouth. He is looking blue. How do you
+triage this child?
+10.A two-year old male is rushed to your clinic acutely convulsing. How do you triage this child?
+11. What signs of malnutrition do you check during triage?
+12. Where do you look for signs of severe wasting?
+13. Below what age is a child always a priority?
+14. What should you do if the child has a priority sign?
+
+
+
+Airway and breathing
+The letters A and B in “ABCD” represent “airway and breathing”. It is evident
+A Airway
+that an open (patent) airway is needed for breathing. An airway or breathing
+B Breathing
+problem is life-threatening and must receive your attention before you move on
+C Circulation
+to other systems. It is therefore convenient that the first two letters of the alphabet
+represent the two most important areas to look for emergency or priority signs. Coma
+If there is no problem with the airway or breathing, you should look for signs in Convulsion
+the areas represented by C.
+D Dehydration (severe)
+This section examines the assessment of the signs concerning the child’s airway
+and breathing that suggest a need for emergency treatments, and what treatments
+to give.
+To assess if the child has an airway or breathing problem you need to know:
+(cid:132) Is the child breathing?
+(cid:132) Is the airway obstructed?
+(cid:132) Is the child blue (centrally cyanosed)?
+(cid:132) Does the child have severe respiratory distress?
+If the child is not breathing or if the airway appears obstructed, you must first
+open the airway.
+Table 1
+Assessment and treatment of airway and breathing
+A B (cid:132) Not breathing
+(cid:190) Manage airway
+(cid:132) Central cyanosis, or Any sign positive (cid:190) Give oxygen
+AIRWAY AND (cid:132) Severe respiratory distress
+(cid:190) Make sure the child is warm
+BREATHING If yes, is the breathing obstructed?
+Check for head/neck trauma before treating the child; do not move neck if cervical spine injury is possible.
+Assessment of the airway
+IS THE CHILD BREATHING? IS THE AIRWAY OBSTRUCTED?
+If the child is not breathing, or if the child has severe respiratory distress, is
+there an obstruction to the flow of air? Obstruction can occur at several levels.
+
+
+#### [Table Content]
+| A B | Airway Breathing |
+| --- | --- |
+| C D | Circulation Coma Convulsion Dehydration (severe) |
+
+| Table 1 Assessment and treatment of airway and breathing |  |  |  |
+| --- | --- | --- | --- |
+| A B AIRWAY AND BREATHING | (cid:132) Not breathing (cid:132) Central cyanosis, or (cid:132) Severe respiratory distress If yes, is the breathing obstructed? | Any sign positive | (cid:190) Manage airway (cid:190) Give oxygen (cid:190) Make sure the child is warm |
+| Check for head/neck trauma before treating the child; do not move neck if cervical spine injury is possible. |  |  |  |
+
+
+
+
+piece of fruit) can lodge in the upper airway. Croup can also cause upper airway
+obstruction. Coins and peanuts are notorious causes of aspiration and subsequent
+choking. Ask the child’s caretaker explicitly for a history of choking. Techniques
+to remove foreign bodies are based on support of forced expiration rather than
+a blind finger sweep of the mouth or other mechanical. A blind finger sweep in
+infants and children should not be done, as it might cause serious bleeding.
+Attempts to force the foreign body out of the airway should be done immediately,
+because airflow may be halted completely and sudden death could be imminent.
+Management of the airway
+MANAGEMENT OF THE CHOKING CHILD
+A child with a history of aspiration of a foreign body who shows increasing
+If the child is choking, respiratory distress is in immediate danger of choking. Attempts to remove the
+do not hesitate, call for foreign body should be made instantly. Do not hesitate. Apply back slaps or
+help and immediately Heimlich manoeuvre. The treatment differs depending on whether there is a
+foreign body causing respiratory obstruction or some other cause for the
+manage the airway
+obstruction or respiratory distress.
+according to the
+If a foreign body is causing the obstruction, the treatment depends on the age of
+instructions
+the child.
+Management of young infant (see Figure 2)
+(cid:132) Lay the infant on your arm or thigh in a head down position
+(cid:132) Give 5 blows to the infant’s back with heel of hand
+(cid:132) If obstruction persists, turn infant over and give 5 chest thrusts with 2
+fingers, one finger breadth below nipple level in midline
+(cid:132) If obstruction persists, check infant’s mouth for any obstruction which
+can be removed
+(cid:132) If necessary, repeat sequence with back slaps again
+Back slaps Chest thrusts
+Figure 2
+Management of young infant
+
+
+#### [Table Content]
+| Back slaps Chest thrusts |
+| --- |
+| Figure 2 Management of young infant |
+
+
+
+
+(cid:132) Give 5 blows to the child’s back with heel of hand with child sitting,
+kneeling or lying
+(cid:132) If the obstruction persists, go behind the child and pass your arms
+around the child’s body; form a fist with one hand immediately below
+the child’s sternum; place the other hand over the fist and pull upwards
+into the abdomen; repeat this Heimlich manoeuvre 5 times
+(cid:132) If the obstruction persists, check the child’s mouth for any obstruction
+which can be removed
+(cid:132) If necessary, repeat this sequence with backslaps again
+Slapping the back to clear Heimlich
+airway obstruction in a manoeuvre in a
+choking child choking older
+child
+Figure 3
+Management of child
+After you have performed this procedure you should check inside the mouth for
+any foreign body. Obvious foreign bodies should be removed. Secretions should
+be cleared from the throat of all children. The breathing should be checked
+again.
+POSITIONING TO IMPROVE THE AIRWAY
+An airway or breathing problem is life-threatening. This
+child needs immediate treatment to improve or restore the
+breathing, even before you continue with the assessment
+of emergency signs. To treat an airway or breathing problem
+you should first open the airway and then begin giving the
+child oxygen. The drawings below show the chin lift. This
+is a way of opening the airway in children who have not
+been subjected to trauma. The drawings illustrate two
+different positions. Figure 4 shows the position for infants,
+Figure 4
+the nose pointing upwards. Figure 5 shows the position
+Neutral position to open airway in an infant
+for children, the chin pointing up. In both cases, place
+(“nose up”)
+your hand on the child’s forehead and apply a little pressure
+
+
+#### [Table Content]
+| Slapping the back to clear Heimlich airway obstruction in a manoeuvre in a choking child choking older child |
+| --- |
+| Figure 3 Management of child |
+
+|  |
+| --- |
+|  |
+
+|  |
+| --- |
+| Figure 4 Neutral position to open airway in an infant (“nose up”) |
+
+
+
+
+to gently lift the chin.
+To do this safely you must know if the child has been
+subjected to any trauma. In such a case, it is important
+not to tilt the head or move the neck. It is also important
+to know the child’s age because you will position an infant
+(under 12 months of age) differently from a child.
+IS TRAUMA OF THE NECK A POSSIBILITY?
+Any child with an emergency sign needs emergency
+treatment. However, always ask and check for head or neck
+trauma before treating, as this will determine how much a
+Figure 5
+child can be moved. If a child has trauma you must avoid
+Sniffing position to open up airway in an older
+further injury during assessment or treatment. To check
+child (“chin up”)
+for head or neck trauma:
+(cid:132) Ask if the child has had trauma to the head or
+neck, or a fall which could have damaged the
+spine
+(cid:132) Look for bruises or other signs of head or neck
+trauma
+(cid:132) Stabilize the neck if trauma is suspected
+If you suspect trauma which might have affected the neck
+or spine, do not move the head or neck as you treat the
+child and continue the assessment. This child may have a
+Figure 6
+spinal injury, which could be made worse by moving him.
+Jaw thrust without head tilt
+To open and manage the airway when trauma is suspected
+ajaw thrust is used, as is illustrated in Figure 6. This is a
+way of opening the airway without moving the head. It is
+safe to use in cases of trauma for children of all ages. The
+jaw thrust is achieved by placing two or three fingers under
+the angle of the jaw on both sides, and lifting the jaw
+upwards.
+If neck trauma is suspected, stabilize the neck (Figure 7):
+(cid:132) Stabilize the child’s neck and keep the child lying
+on the back
+(cid:132) Tape the child’s forehead to the sides of a firm
+board to secure this position
+(cid:132) Prevent the neck from moving by supporting the
+Figure 7 child’s head (e.g. using litre bags of IV fluid on
+Stabilising the neck when trauma is suspected each side)
+(cid:132) Place a strap over the chin
+If vomiting, turn on the side, keeping the head in line with
+the body (see Figure 8 {log roll}). If the child is restless, ask an attendant to
+stabilize the neck without upsetting the child more.
+Log roll
+Move a patient with a suspected cervical spine injury carefully. Avoid rotation
+and extremes of flexion and extension. One person, usually the most senior
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 6 Jaw thrust without head tilt |
+
+|  |
+| --- |
+| Figure 7 Stabilising the neck when trauma is suspected |
+
+
+
+
+top end of the patient, hold the patient’s head, and place the fingers under the
+angle of the mandible with the palm over the ears and parietal region and maintain
+gentle traction to keep the neck straight and in line with the body. When the
+patient is not being moved, a sandbag1 placed on each side or a cervical collar
+can splint the neck.
+Infant
+Before moving to the
+next section you will be
+Child
+given the opportunity to
+practise the skills
+needed for moving a
+patient with an injury of
+Figure 8
+the neck
+Log roll: stabilizing the neck of the patient while moving the body
+Assessment of breathing
+IS THE CHILD BREATHING?
+To assess whether or not the child is breathing there are
+three things you must do (see Figure 9):
+(cid:132) LOOK
+If active, talking, or crying, the child is obviously
+breathing. If none of these, look again to see
+whether the chest is moving.
+(cid:132) LISTEN
+Listen for any breath sounds. Are they normal?
+(cid:132) FEEL
+Can you feel the breath at the nose or mouth of
+the child?
+If the child is not breathing, you need to support the Figure 9
+breathing artificially by ventilating the child with a bag Look, listen and feel for breathing
+and mask.
+DOES THE CHILD SHOW CENTRAL CYANOSIS?
+Cyanosis occurs when there is an abnormally low level of oxygen in the blood.
+This produces a bluish or purplish discoloration of the tongue, the inside of the
+mouth and the skin. This sign may be absent in a child who has severe anaemia.
+To assess for central cyanosis, look at the mouth and tongue. A bluish or purplish
+discoloration of the tongue and the inside of the mouth indicates central cyanosis.
+1
+
+
+#### [Table Content]
+| Infant Child |
+| --- |
+| Figure 8 Log roll: stabilizing the neck of the patient while moving the body |
+
+|  |
+| --- |
+| Figure 9 Look, listen and feel for breathing |
+
+
+
+
+If the child has severe respiratory distress there is increased work during breathing.
+The child may appear tired and distressed from the effort of trying to get enough
+oxygen into the lungs, and the breathing appears fast.
+If the child is talking, drinking or feeding comfortably, or appears to be happy,
+Signs of severe there is no severe respiratory distress (or obstructed breathing).
+respiratory distress
+Observe whether the child has significant discomfort from not getting enough
+- Very fast breathing air into the lungs. Is there difficulty in breathing while talking, eating or
+- Severe lower chest wall breastfeeding? Is the child breathing very fast, have severe lower chest wall
+indrawing indrawing, or using the auxiliary muscles for breathing which cause the head to
+- Use of auxiliary muscles nod or bob with every inspiration? The latter is particularly seen in young infants.
+- Head nodding If you see this, the child has severe respiratory distress.
+- Inability to feed because
+Is the child’s breathing very laboured – i.e. needing much more effort to breathe
+of respiratory problems
+than normal? Is the child exhausted (tired)? Are any of the signs of severe
+respiratory distress present?
+Abnormal respiratory noises
+Are there any noises heard when breathing in? A harsh noise on breathing in is
+called stridor, a short noise when breathing out in young infants is called
+grunting. Both noises are signs of severe respiratory problems.
+If the child is breathing adequately, go to the next section to quickly continue
+the assessment for emergency signs. If the child has an airway or breathing
+problem, you should initiate appropriate treatment and then quickly resume
+the assessment.
+Management of breathing problems
+VENTILATE WITH BAG AND MASK
+If the child is not breathing after management of the airway, ventilate with a
+self-inflating bag and mask. Such a bag fills itself with room air when released,
+and when squeezed again, pushes air through an outlet, to which a mask is
+attached for inflating the lungs. The bag is used together with a facemask. It is
+important to use the right size of facemask to prevent leakage. Before use, check
+the bag and valve by closing the patient’s connection with
+your thumb and attempt to expel air from the bag. If the
+bag and valve are in order, this will not be possible until
+you release your thumb. If either the bag or valve is faulty,
+the bag will empty easily. If you have oxygen, this should
+be connected to the mask (see Figure 10).
+It is important for the mask to be the correct size for the
+child and that it is placed correctly over the face. The correct
+size and position are shown in the illustration. There are
+several sizes of mask, and a selection of these should be
+available (see Figure 11).
+Figure 10
+Ventilating a baby with a self-inflating mask
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 10 Ventilating a baby with a self-inflating mask |
+
+
+
+
+1 2 3 4
+1. Correct size and position
+2. Mask too large, overlaps the
+chin
+3. Mask too small, nostrils not
+covered
+4. Mask too large, overlap with
+eyes
+Figure 11
+Choosing the right mask size
+INSERTION OF AN OROPHARYNGEAL (GUEDEL) AIRWAY
+The oropharyngeal or Guedel airway can be used in an unconscious
+patient to improve airway opening. It may not be tolerated in a patient
+who is awake and may induce choking or vomiting. Guedel airways
+come in different sizes. An appropriate sized airway goes from the
+centre of the teeth (incisors) to the angle of the jaw when laid on the
+face with the raised curved side (concave) up (“the right side up”).
+Infant
+Figure 12
+Guedel tubes of different sizes
+(cid:132) Select an appropriate sized airway
+and types
+(cid:132) Position the child to open the airway (p.15), taking care not to
+move the neck if trauma suspected
+(cid:132) Using a tongue depressor, insert the oropharyngeal airway the
+convex side up
+(cid:132) Re-check airway opening
+(cid:132) Use a different sized airway or reposition if necessary
+(cid:132) Give oxygen
+Child
+(cid:132) Select an appropriate sized oropharyngeal airway
+(cid:132) Open the child’s airway, taking care not to move the neck if Figure 13
+trauma suspected Selecting the right size of an
+(cid:132) Using a tongue depressor, insert the airway “upside down” oropharyngeal airway
+(concave side up) until the tip reaches the soft palate
+(cid:132) Rotate through 180° and slide back over the tongue
+(cid:132) Re-check airway opening
+(cid:132) Use a different sized airway or reposition if necessary
+(cid:132) Give oxygen
+Figure 14
+Inserting an oropharyngeal airway
+in an infant: convex side up
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 12 Guedel tubes of different sizes and types |
+
+|  |
+| --- |
+| Figure 13 Selecting the right size of an oropharyngeal airway |
+
+|  |
+| --- |
+| Figure 14 Inserting an oropharyngeal airway in an infant: convex side up |
+
+
+
+
+concave side up turning it around
+Figure 15
+Inserting an oropharyngeal airway in an older child
+GIVE OXYGEN
+For all children who have any problem with their airway
+or breathing, always give oxygen first, while you continue
+to assess for other problems. Central cyanosis is a sign of
+deficient oxygenation (desaturation) and these children
+need oxygen urgently; however, children who are anaemic
+and desaturated may not show cyanosis, but also need
+oxygen. Many children with severe respiratory distress and
+with shock are also desaturated or not delivering enough
+oxygen to the brain and other vital organs and will benefit
+from oxygen treatment.
+Sources of oxygen to treat hypoxaemia
+There are two possible sources of oxygen: oxygen
+concentrators (see Figure 16) and oxygen-filled cylinders
+Figure 16
+(see Figure 17):
+Oxygen concentrator
+(cid:132) Oxygen concentrators work by pumping room
+air through a zeolite canister to remove nitrogen,
+thus concentrating the oxygen. The device is of
+moderate cost, requires little maintenance, and,
+once purchased, produces oxygen continuously at
+low cost. A continuous electrical supply is
+required, however, to operate the pump.
+(cid:132) Oxygen cylinders are easy to use, requiring only
+a flow meter and appropriate tubing, and can
+operate even when there is no electrical supply.
+The oxygen in cylinders is, however, relatively
+expensive and maintaining a constant supply is
+often difficult, especially at peripheral hospitals
+and health centres.
+Depending on the availability or possibility of introduction
+at your health facility, you will be demonstrated one or
+Figure 17
+both during the course.
+Oxygen cylinder
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 16 Oxygen concentrator |
+
+|  |
+| --- |
+| Figure 17 Oxygen cylinder |
+
+
+
+
+Two methods are recommended for the delivery of oxygen in an emergency
+setting: nasal prongs and nasal catheter. Nasal prongs are best for delivering
+oxygen to young infants and children with severe croup or pertussis; do not use
+a nasal catheter as they provoke paroxysms of coughing.
+An alternative method in emergency settings is the use of A Infant size prongs
+a face mask, which requires higher flow rates. It is therefore B Adult size prongs
+Note: the distance between the outlet tubes is
+not suitable for permanent oxygen delivery on the ward,
+larger and the tubes are thicker
+as it wastes a precious resource. It is important to have the
+C Joined prongs for adults with a connector
+proper equipment to control oxygen flow rates (0.5-2 litres/ between 2 separate pieces of tubing
+minute).
+(cid:132) Nasal prongs (see Figure 18) are short tubes
+inserted into the nostrils. Place them just inside
+the nostrils and secure with a piece of tape on the
+cheeks near the nose (see Figure 19). Care should
+be taken to keep the nostrils clear of mucus, which
+could block the flow of oxygen. Set a flow rate of
+0.5-1 litres/min in infants and 1-2 litres/min if
+older in order to deliver 30-35% oxygen
+concentration in the inspired air.
+Prongs come in different sizes for adults and
+children. If you have only adult-size prongs, and
+the outlet tubes are too far apart to fit into the
+child's nostrils, cut the outlet tubes off and direct
+the jet of the oxygen into the nostrils.
+(cid:132) A nasal catheter is made from tubing of 6 or 8
+A B C
+FG size such as a nasogastric tube or suction
+catheter. The tubing is inserted into either nostril
+Figure 18
+a distance equivalent to that from the child’s
+Nasal prongs with tubing
+nostril to the inner eyebrow (see Figure 20). It
+must then be firmly secured using tape, and
+connected to the oxygen. The tip of the catheter
+should NOT be visible below the uvula. Set a flow rate of 0.5-1 litres
+for infants and 1-2 litres/min for older children, which delivers an
+oxygen concentration of 45-60% in the inspired air.
+Figure 19 Figure 20
+Nasal prongs correctly positioned Correct position of nasal catheter
+and secured (cross-sectional view)
+
+
+#### [Table Content]
+| A Infant size prongs B Adult size prongs Note: the distance between the outlet tubes is larger and the tubes are thicker C Joined prongs for adults with a connector between 2 separate pieces of tubing A B C |
+| --- |
+| Figure 18 Nasal prongs with tubing |
+
+|  |
+| --- |
+| Figure 19 Nasal prongs correctly positioned and secured |
+
+|  |
+| --- |
+| Figure 20 Correct position of nasal catheter (cross-sectional view) |
+
+
+
+
+At this point it is important for you to be familiar with the
+equipment in your own department. You should be able to put
+together and take apart a self-inflating bag. You should be able
+to work the oxygen cylinder or oxygen concentrator. You can
+find out which size masks you have and try them on real
+patients to get an idea which size suits which age group. You
+can also practise the chin lift.
+To assess the airway and breathing you need to know:
+(cid:132) Is the airway obstructed?
+(cid:132) Is the child breathing?
+(cid:132) Is the child cyanosed?
+(cid:132) Are there signs of severe respiratory distress?
+If the patient is not breathing you need to:
+(cid:132) Open the airway
+(cid:132) Remove any foreign body
+(cid:132) Ventilate with a bag and mask.
+In all cases of airway or breathing problems:
+(cid:132) Give oxygen: 0.5 1 litre/min (<1-year-olds) and 1 2 litres/minute
+(older children).
+YRAMMUS
+A
+B
+Figure 21
+Yankhauer (A) catheter and Suction (B)
+catheter for clearing secretions from the
+airway
+
+
+#### [Table Content]
+| YRAMMUS | To assess the airway and breathing you need to know: (cid:132) Is the airway obstructed? (cid:132) Is the child breathing? (cid:132) Is the child cyanosed? (cid:132) Are there signs of severe respiratory distress? If the patient is not breathing you need to: (cid:132) Open the airway (cid:132) Remove any foreign body (cid:132) Ventilate with a bag and mask. In all cases of airway or breathing problems: (cid:132) Give oxygen: 0.5 1 litre/min (<1-year-olds) and 1 2 litres/minute (older children). |
+| --- | --- |
+
+
+
+
+SSESSMENT
+QUESTIONS:
+AIRWAY
+AND
+BREATHING
+Answer all the questions on this page, writing in the given spaces. If you have a
+problem, ask for help from one of the facilitators.
+1. List the three things you do to check airway and breathing:
+2. List three signs of severe respiratory distress:
+3. Does stridor occur in inspiration or expiration?
+4. When opening the airway of an infant (<12 months) who has not been subjected to trauma, name the
+part of the body that should point upwards.
+5. What size of tubing should you use for a nasal catheter?
+
+
+
+NIHTAERB
+DNA
+YAWRIA
+:SNOITSEUQ
+TNEMSSESSA
+6. At what flow (volume/time) should oxygen be started?
+7. You have successfully removed a coin from the trachea (windpipe) of a three-year old boy by applying
+Heimlich's manoeuvre. You checked his respiration and found that he was breathing normally. What do
+you do next?
+8. A 4-year old boy hit by a bicycle was carried in on a blanket. The child was unconscious responding only
+to pain. His breathing was noisy. What do you do?
+9. A nine-month girl and her older brother have been playing in the emergency department with an old
+bead necklace, suddenly the child is brought to you by one of the nurses, the child is choking. What do
+you do?
+10.A three-year old boy is carried into the outpatient department in his father's arms. He is pale, floppy and
+having difficulty breathing. His father says he has been unwell and coughing for 3 days. Weight 14kg.
+He breathes fast with heavy severe chest indrawing. The airway is patent. He is alert. How do you triage
+this child? What do you do?
+
+
+
+Circulation
+The letter C in “ABCD” stands for
+A Airway
+(cid:132) circulation (assessment and management of shock); B Breathing
+(cid:132) assessment and management of coma; and
+C Circulation
+(cid:132) convulsions.
+Coma
+With experience you can assess these emergency signs very quickly, almost
+Convulsion
+simultaneously. You can recognize some immediately, such as coma
+D Dehydration (severe)
+(unconsciousness) and convulsions.
+These assessments are done if the assessment of airway and breathing was normal,
+or after emergency treatments have been given for any respiratory problems
+encountered.
+In the table below, the signs are listed on the left and the corresponding treatments
+on the right. Complete the assessment of all the signs on the left before deciding
+on and initiating treatment. However, because the assessment is done quickly
+(in less than a minute) there is hardly any delay in beginning the necessary
+treatment. You always need to check whether the child may have head or neck
+trauma, because this will affect how you treat the child.
+Table 2
+Assessment and treatment of circulation
+C Cold hand with: (cid:190) Stop any bleeding
+1 (cid:132) Capillary refill longer than 3 (cid:190) Give oxygen
+Any sign positive
+CIRCULATION seconds, and (cid:190) Make sure the child is warm
+(cid:132) Weak and fast pulse IF NO SEVERE MALNUTRITION:
+(cid:132) Insert IV and begin giving fluids
+Check for severe malnutrition rapidly.
+If not able to insert peripheral IV,
+insert an external jugular or intra-
+osseous line.
+IF SEVERE MALNUTRITION:
+(cid:132) Give IV glucose
+(cid:132) Proceed immediately to full
+assessment and treatment
+Check for head/neck trauma before treating the child; do not move neck if cervical spine injury is possible.
+
+
+#### [Table Content]
+| A B | Airway Breathing |
+| --- | --- |
+| C | Circulation |
+| D | Coma Convulsion Dehydration (severe) |
+
+| Table 2 Assessment and treatment of circulation |  |  |  |
+| --- | --- | --- | --- |
+| C 1 CIRCULATION | Cold hand with: (cid:132) Capillary refill longer than 3 seconds, and (cid:132) Weak and fast pulse | Any sign positive Check for severe malnutrition | (cid:190) Stop any bleeding (cid:190) Give oxygen (cid:190) Make sure the child is warm IF NO SEVERE MALNUTRITION: (cid:132) Insert IV and begin giving fluids rapidly. If not able to insert peripheral IV, insert an external jugular or intra- osseous line. IF SEVERE MALNUTRITION: (cid:132) Give IV glucose (cid:132) Proceed immediately to full assessment and treatment |
+| Check for head/neck trauma before treating the child; do not move neck if cervical spine injury is possible. |  |  |  |
+
+
+
+
+First in this section we will look at the assessment of circulation and signs of
+shock.
+To assess if a child has a circulation problem you need to know:
+(cid:132) Does the child have warm hands?
+(cid:132) If not, is the capillary refill time longer than 3 seconds?
+(cid:132) And is the pulse weak and fast?
+ARE THE CHILD’S HANDS WARM?
+If the child’s hands are warm, there is no problem with the circulation and you
+can move to the next assessment. If they are cold, you need to assess the
+circulation further. If the circulation is poor, as during shock, the blood flow
+moves to the most important parts of the body. So the hands, feet and skin get
+less blood and often feel cold.
+To assess the circulation, take the child’s hand in your own. If it feels warm, the
+child has no circulation problem and you do not need to assess capillary refill or
+pulse. If the child’s hands feel cold, you need to assess the capillary refill.
+IS THE CAPILLARY REFILL TIME LONGER THAN 3 SECONDS?
+Capillary refill (see Figure 22) is a simple test that assesses how quickly blood
+returns to the skin after pressure is applied. It is carried out by applying pressure
+to the pink part of the nail bed of the thumb or big toe. The capillary refill time
+is the time from release of pressure to complete return of the pink
+colour. It should be less than 3 seconds. If it is more than 3 seconds
+the child is shocked. Capillary refill is prolonged in shock because
+A the body tries to maintain blood flow to vital organs and reduces
+the blood supply to less important parts of the body like the skin
+(peripheral vasoconstriction). The vessels open slowly because of
+low pulse pressure. This sign is reliable except when the room
+temperature is low; a cold environment may also cause
+vasoconstriction and thus cause a delayed capillary refill. So you
+will need to check the pulse only if the room is cold.1
+B
+To assess capillary refill, grasp the child’s thumb or big toe between
+finger and thumb. Look at the pink of the nail bed. Apply minimal
+pressure necessary for 3 seconds to produce blanching of the nail
+bed. The pressure should be sufficient to cause blanching (a change
+in colour from pink to white). The pressure is applied for 3 seconds
+and then released. Time the capillary refill from the moment of
+release until total return of the pink colour. If the refill time is longer
+A. Applying pressure to the nail bed for 3
+than 3 seconds, the child may have a circulation problem with shock.
+seconds
+To confirm, it is necessary to check the pulses.
+B. Check the time to the return of the pink
+colour after releasing the pressure
+Figure 22
+Checking capillary refill
+1 In hot climates it may not be necessary to check the pulse. Low environmental temperatures do not exist and thus
+
+
+#### [Table Content]
+| A B A. Applying pressure to the nail bed for 3 seconds B. Check the time to the return of the pink colour after releasing the pressure |
+| --- |
+| Figure 22 Checking capillary refill |
+
+
+
+
+The radial pulse (the pulse at the wrist) should be felt. If this is strong and not
+obviously fast, the pulse is adequate; no further assessment is needed.
+If the radial pulse is difficult to find, you need to look for a more central pulse
+(a pulse nearer to the heart). In an infant (less than one year of age) the best
+place to look is at the middle of the upper arm, the brachial
+pulse. If the child is lying down you could look for the
+femoral pulse in the groin. In an older child you should
+feel for the carotid pulse in the neck. The pulse should be
+strong. If the more central pulse feels weak, decide if it
+also seems fast. This is a subjective judgement and an exact
+count is not taken. If the central pulse is weak and fast,
+the child needs treatment for shock.
+All these procedures can and should be practised on
+yourself, your friends, your children and family, and finally
+on real patients. This is the best way to improve in testing
+Figure 23
+capillary refill and finding pulses.
+Feeling the brachial pulse in an infant
+Note that we do not recommend blood pressure to assess
+for shock because of two reasons: 1) Low blood pressure is
+a late sign in children and may not help identify treatable cases and 2) the BP
+cuff necessary in children of different age groups is mostly unavailable in many
+district hospitals.
+To assess the
+Shock
+circulation, you need to
+The most common cause of shock in children is due to loss of fluid from know:
+circulation, either through loss from the body as in severe diarrhoea or when the 1. Does the child have
+child is bleeding, or through capillary leak in a disease such as severe Dengue warm hands?
+fever. In all cases, it is important to replace this fluid quickly. An intravenous
+2. If not, is the capillary
+line must be inserted and fluids given rapidly in shocked children without severe
+refill more than 3 seconds?
+malnutrition. The recommended volumes of fluids to treat shock depending on
+3. And is the pulse weak
+the age/weight of child are shown in Chart 7 (see Annex 3).
+and fast?
+If the child has severe malnutrition, you must use a different fluid and a different
+rate of administration and monitor the child very closely. Therefore a different In other words, is the
+regime is used for these children. Treatment of shock in the malnourished child
+child shocked?
+is shown in Chart 8 (see Annex 3).
+TREATMENT OF SHOCK
+If the child has cold hands, a capillary refill time more than 3 seconds, and
+a fast weak pulse, then he or she is in shock.
+Treatment of shock requires teamwork. The following actions need to be started
+simultaneously:
+(cid:132) If the child has any bleeding, apply pressure to stop the bleeding
+(cid:132) Give oxygen
+(cid:132) Make sure the child is warm
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 23 Feeling the brachial pulse in an infant |
+
+
+
+
+(cid:132)
+(cid:132) Establish IV or intraosseous access
+(cid:132) Take blood samples for emergency laboratory tests
+(cid:132) Begin giving fluids for shock.
+Stop any bleeding
+The best and safest way to stop bleeding is to apply firm and direct
+pressure to the point that is bleeding. Do not use a tourniquet.
+Give oxygen
+All children who are in shock require oxygen. It can be given in any
+of the ways discussed in the previous section.
+Make sure the child is warm
+This should be done by ensuring that the child is dry and covered
+with blankets or warm clothing.
+Select an appropriate site for administration of fluids
+The most appropriate route for administration is intravenous and a
+peripheral vein is preferable but not always accessible. Alternatives
+are intraosseous infusion or a central vein catheter. Read Annex 1:
+Practical procedures for establishing IV access.
+Figure 24 Give intravenous fluid
+Controlling external bleeding
+Firstly consider if the child also has severe malnutrition before
+selecting treatment as shown on Table 3.
+Children with severe malnutrition are difficult to assess and manage. The
+malnourished child may appear lethargic and have sunken eyes and a very slow
+skin pinch as he/she has no subcutaneous fat. Malnutrition not only affects the
+Before giving the IV
+muscles but also the organs we cannot see. The heart can become very weak and
+fluid check for severe
+may fail if it has to pump large volumes of fluid. When this happens fluid
+malnutrition accumulates in the lungs (lung oedema) and makes breathing difficult with the
+child geting worse or even critical.
+Therefore, a child who is severely malnourished should not be treated by rapid
+IV infusion of fluids. The signs of dehydration overestimate the degree of
+dehydration in the severely malnourished child. It is important to involve a
+senior heath worker early in the management of these children.
+To check for severe malnutrition:
+(cid:132) Look for visible severe wasting
+A child with visible severe wasting has a form of malnutrition called
+marasmus. To assess for this sign, look rapidly at the arms and legs and
+pull up the shirt to look at the chest (see Figure 25). The marasmic child
+does not look just thin, but appears to be all skin and bone. The skin
+looks too large for the body, there is no fat on the child and you will see
+the outlines of the ribs. There is also severe muscle wasting of the arms,
+legs and buttocks. The head may appear relatively large because of wasting
+of the body.
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 24 Controlling external bleeding |
+
+
+
+
+(cid:132)
+Oedema is a major sign of kwashiorkor, a severe form of long-
+standing malnutrition. To assess for oedema you first need to
+look at the feet after removing the booties or shoes. Press the
+top of the foot gently with your thumb for a few seconds.
+Oedema is present if a definite dent is left in the tissues. Look
+and feel to determine if the child has oedema of both feet.
+Use your thumb to press gently for a few seconds on the
+topside of each foot (see Figure 26). The child has oedema if
+there is an impression when you lift your thumb. Check if the
+other foot also has oedema. Localized oedema can be due to
+injury or infection.
+The recommended fluids and rates of administration are shown in
+Charts 7 and 8 (see Annex 3) and summarized in the tables on the
+next two pages. However, if the child has severe malnutrition, you
+must use a different fluid and a different rate of administration and
+monitor the child very closely. Children with severe malnutrition
+are very delicate and can easily go into congestive heart failure from
+intravenous fluids. Sometimes children with severe malnutrition have
+Figure 25
+circulatory signs suggesting shock, but have sepsis rather than
+Visible severe wasting (marasmus)
+hypovolemia. It is important to involve a clinician who understands
+the guidelines for caring for a child with severe malnutrition; the
+clinician should immediately carry out a full assessment to
+understand the clinical situation of the child. If at all possible, avoid
+IV – use a nasogastric (NG) tube or oral fluids. If the child cannot
+swallow or tolerate an NG tube (e.g. vomiting), use ½-strength
+normal saline with 5% glucose at 15 ml/kg in 1 hr, but monitor
+carefully and remove as soon as it is safe to do so. Stay with the
+child and check the pulse and breathing rate every 5 minutes.
+Discontinue the intravenous infusion if either of these increase (pulse
+by 15, respiratory rate by 5/min).
+Before giving the IV fluids, check for severe malnutrition. Note the
+differences in fluid type and volume between the well-nourished
+and the severely malnourished.
+Charts 7 and 8 give approximate volumes by age groups. This is a
+useful guideline in the emergency situation, when you may not have
+a chance to weigh the child. It may be helpful to put this chart on
+the wall in your department. After applying pressure for a few seconds, a
+pit remains after the finger is removed
+If you reassess the circulation and find a definite improvement at
+any stage, the pulse has slowed or the capillary refill has improved,
+Figure 26
+you can prescribe maintenance fluids and move onto the next stage
+Pitting oedema on dorsum foot
+of triage.
+
+
+#### [Table Content]
+| After applying pressure for a few seconds, a pit remains after the finger is removed |
+| --- |
+| Figure 26 Pitting oedema on dorsum foot |
+
+
+
+
+Table 3
+Treatment of shock
+If the child has NO severe malnutrition If the child HAS severe malnutrition
+See Chart 7 See Chart 8
+Insert an intravenous line (and draw blood for Avoid IV, find out if the child can drink or use a
+(cid:132) (cid:132)
+emergency laboratory investigations). nasogastric tube (NGT).
+Fix the cannula and immobilize the extremity Weigh the child.
+(cid:132) (cid:132)
+with a splint. Insert an intravenous line (and draw blood for
+(cid:132)
+Attach Ringer’s lactate or normal saline - emergency laboratory investigations).
+(cid:132)
+make sure the infusion is running well. Fix the cannula and immobilize the extremity with
+(cid:132)
+Infuse 20 ml/kg as rapidly as possible. a splint.
+(cid:132)
+The circulation should be reassessed as Give ReSoMal rehydration fluid orally or by NGT:
+(cid:132) (cid:132)
+described before. - 5 ml/kg every 30 min for 2 hours, then
+- 5-10 ml/kg/hour for 4-10 hours, or
+Improvement: warmer hands, pulse slows and - give half-strength normal saline (or half strength
+capillary refill faster. Darrows with 5% glucose) with 5% glucose at
+15 ml/kg give over 1 hour
+Stay with the child and check the pulse and
+If there is NO improvement: (cid:132)
+breathing rate every 5-10 minutes.
+Give another 20 ml/kg of Ringer’s lactate or
+(cid:132)
+Discontinue the intravenous infusion if either of
+normal saline as quickly as possible. (cid:132)
+these increase (pulse by 15, respiratory rate by 5/
+Reassess the circulation again, and if there is
+min).
+still no improvement.
+Give another 20 ml/kg of Ringer’s lactate or
+(cid:132)
+normal saline, as quickly as possible. The If there IS improvement:
+circulation should be assessed again. pulse and breathing rate fall.
+Repeat 15ml/kg over 1 hour.
+(cid:132)
+If there is still NO improvement: (cid:132) Switch to oral or NGT rehydration with ReSoMal
+10ml/kg/hour.
+Give 20 ml/kg of blood over 30 minutes
+(cid:132)
+unless there is profuse watery diarrhoea. In
+this case, repeat Ringer's lactate. The If there is NO improvement:
+circulation should be assessed again. Call senior health worker.
+(cid:132)
+Give maintenance IV fluid 4ml/kg/hour while
+(cid:132)
+If there is still NO improvement: waiting for blood.
+Transfuse fresh whole blood at 10ml/kg/hour
+See inpatient treatment guidelines for (cid:132)
+(cid:132)
+slowly over 3 hours (use packed cells if in cardiac
+underlying condition.
+failure).
+
+
+
+Table 4
+Maintenance fluids
+If the child has NO severe malnutrition If the child HAS severe
+See Chart 11 malnutrition
+Give 70 ml/kg of Ringer's lactate solution Continue ReSoMal 5-10ml/kg/hour
+(or, if not available, normal saline) for the next 4-10 hours.
+over 5 hours in infants (aged <12 See guidelines in the "Pocket book
+(cid:132)
+months); of hospital care for children" or the
+over 2½ hours in children (aged 12 manual "Management of the child
+(cid:132)
+months to 5 years). with a serious infection or severe
+Reassess the child every 1-2 hours. If the malnutrition."
+condition is not improving, give the IV fluids
+more rapidly.
+Also give ORS solution (about 5 ml/kg/
+hour) as soon as the child can drink; this is
+usually:
+after 3-4 hours (in infants);
+(cid:132)
+after 1-2 hours (in children).
+(cid:132)
+Encourage breastfeeding:
+Reassess after 6 hours (infants) and after
+3 hours (children)
+(cid:132) Does the child have warm hands?
+(cid:132) Is the capillary refill time more than 3 seconds?
+(cid:132) Is the pulse fast and weak?
+In other words, is the child shocked?
+IF SHOCKED
+If the child has NO severe malnutrition If the child HAS severe malnutrition
+(cid:132) Stop any bleeding (cid:132) Stop any bleeding
+(cid:132) Give oxygen (cid:132) Give oxygen
+(cid:132) Keep child warm (cid:132) Keep child warm
+(cid:132) Give IV fluids rapidly (cid:132) Assess if child can drink oral or
+NGT fluids
+(cid:132) Give IV fluids if child unable to
+tolerate oral or fluids by
+nasogastric tube
+SUMMARY Assessing all children
+
+
+#### [Table Content]
+|  |  | SUMMARY |
+| --- | --- | --- |
+| Assessing all children |  |  |
+| (cid:132) Does the child have warm hands? (cid:132) Is the capillary refill time more than 3 seconds? (cid:132) Is the pulse fast and weak? In other words, is the child shocked? |  |  |
+| IF SHOCKED |  |  |
+| If the child has NO severe malnutrition (cid:132) Stop any bleeding (cid:132) Give oxygen (cid:132) Keep child warm (cid:132) Give IV fluids rapidly | If the child HAS severe malnutrition (cid:132) Stop any bleeding (cid:132) Give oxygen (cid:132) Keep child warm (cid:132) Assess if child can drink oral or NGT fluids (cid:132) Give IV fluids if child unable to tolerate oral or fluids by nasogastric tube |  |
+
+
+
+
+OITALUCRIC
+:SNOITSEUQ
+TNEMSSESSA
+Answer all the questions on this page, writing in the given spaces. If you have a
+problem, ask for help from one of the facilitators.
+1. Define a normal capillary refill time.
+2. If you cannot feel the radial pulse in an older child, which pulse should you look for next?
+3. Name the two types of fluid you can give to treat shock initially.
+4. Which fluid would you give to a child in shock with signs of severe malnutrition?
+5. What volume of fluid would you give to a well nourished one-year old weighing 11 kg who is in shock?
+
+
+
+SSESSMENT
+QUESTIONS:
+CIRCULATION
+6. How many times can you give this bolus of fluid in shock before calling a senior health worker?
+7. In triage of a two-year old girl you find her hands are warm, what do you do next?
+8. In triage of an 18-month old, well-fed boy, you find his hands are cold. What do you do next?
+9. In triage of a 10-year old boy who was rushed to emergency after falling from a coconut palm half an
+hour earlier, you find his hands are cold and the capillary refill time is longer than three seconds. What do
+you do next?
+10.What are two contra-indications for setting up an intraosseous infusion?
+
+
+
+11.Can you give blood through an intraosseous infusion? And antibiotics, in case these are needed?
+12.A four-months old baby is brought to hospital with fever, rapid breathing and refusing to breastfeed. She
+has had 2 episodes of vomiting and watery diarrhoea. Weight 5 kg. Her hands are cold. The capillary
+refill is 6 seconds. The femoral pulse is palpable but fast and weak. There is no chest indrawing and
+there are no abormal respiratory noises. How do you triage the baby? How do you manage the baby?
+OITALUCRIC
+:SNOITSEUQ
+TNEMSSESSA
+
+
+
+Coma and convulsion
+Here we shall look at the second and third components in which C represents
+A Airway
+“coma and convulsion”.
+B Breathing
+The following signs indicate impaired neurological status: coma, lethargy, and
+C Circulation
+convulsions.
+Coma
+Convulsion
+Assess the child for coma and convulsion
+D Dehydration (severe)
+To assess the child’s neurological status you need to know:
+(cid:132) Is the child in coma? A child who is awake
+(cid:132) Is the child convulsing? and alert, or is playing
+and talking, obviously
+does not have a
+dangerous or disturbed
+level of consciousness
+Table 5
+Assessment and treatment of coma and convulsion
+C (cid:132) Coma or (cid:190) Manage the airway
+2 (cid:132) Convulsing (now) If coma or (cid:190) Give oxygen
+COMA convulsing (cid:190) If convulsing, give diazepam
+C rectally
+3 (cid:190) Position the child (if head or neck
+CONVULSION trauma is suspected, stabilize the
+neck first)
+(cid:190) Give IV glucose
+IS THE CHILD IN COMA?
+A child who is awake is obviously conscious and you can move to the next
+component of the assessment. If the child is asleep, ask the mother if the child
+is just sleeping. If there is any doubt, you need to assess the level of consciousness:
+
+
+#### [Table Content]
+| A B C | Airway Breathing Circulation |
+| --- | --- |
+|  | Coma Convulsion |
+| D | Dehydration (severe) |
+
+| Table 5 Assessment and treatment of coma and convulsion |  |  |  |
+| --- | --- | --- | --- |
+| C 2 COMA C 3 CONVULSION | (cid:132) Coma or (cid:132) Convulsing (now) | If coma or convulsing | (cid:190) Manage the airway (cid:190) Give oxygen (cid:190) If convulsing, give diazepam rectally (cid:190) Position the child (if head or neck trauma is suspected, stabilize the neck first) (cid:190) Give IV glucose |
+
+
+
+
+who does not respond to this should be gently shaken. A little shake to the arm
+or leg should be enough to wake a sleeping child. Do not move the child’s neck.
+If this is unsuccessful, apply a firm squeeze to the nail bed, enough to cause
+some pain. A child who does not wake to voice or being shaken or to pain is
+unconscious. To help you assess the conscious level of a child is, a simple scale
+(AVPU) is used:
+A Is the child Alert? If not,
+V Is the child responding to Voice? If not,
+P Is the child responding to Pain?
+U The child who is Unresponsive to voice (or being shaken) AND
+to pain is Unconscious.
+A child who is not alert, but responds to voice, is lethargic. An unconscious
+child may or may not respond to pain. A child with a coma scale of “P” or
+“U” will receive emergency treatment for coma as described below.
+The assessments and signs discussed above are clearly illustrated on video. You
+should now watch the relevant section of the video. These assessments cannot
+be demonstrated in photographic form, so if you do not have a video player,
+you will have to ask the staff in your department to demonstrate this on real
+patients. You should also practise your assessment of consciousness on real
+patients.
+IS THE CHILD CONVULSING NOW?
+This assessment depends on your observation of the child and not on the history
+from the parent. Children who have a history of convulsion, but are alert during
+triage, need a complete clinical history and investigation, but no emergency
+treatment for convulsions. The child must be seen to have a convulsion during
+the triage process or while waiting in the outpatient department. You can recognize
+a convulsion by the sudden loss of consciousness associated with uncontrolled
+jerky movements of the limbs and/or the face. There is stiffening of the child’s
+arms and legs and uncontrolled movements of the limbs. The child may lose
+control of the bladder, and is unconscious during and after the convulsion.
+Sometimes, in infants, the jerky movements may be absent, but there may be
+twitching (abnormal facial movements) and abnormal movements of the eyes,
+hands or feet. You have to observe the infant carefully.
+Treatment of coma and convulsion
+Treatment of coma and convulsions are similar and will be described together.
+COMA CONVULSION
+If the child is unconscious you should: If the child is convulsing now, you must:
+(cid:132) Manage the airway (cid:132) Manage the airway
+(cid:132) Position the child (if there is a history of (cid:132) Position the child
+trauma, stabilize neck first) (cid:132) Check blood sugar
+(cid:132) Check the blood sugar (cid:132) Give IV glucose
+(cid:132) Give IV glucose (cid:132) Give anticonvulsant
+
+
+
+Coma
+Managing the airway is done in the same way as treating any child with an
+airway or breathing problem. This has been discussed in Module 2. You may
+find it useful to read through this again. Give oxygen for the emergency setting.
+Convulsion
+To manage the airway of a convulsing child, do not try to insert anything in the
+mouth to keep it open. If the lips and tongue are not blue, do not try to manage
+the airway by lifting the chin or using a jaw thrust.
+POSITION THE CHILD
+Coma
+Any unconscious child who is breathing and keeping the
+airway open should be placed in the recovery position.
+This position helps to reduce the risk of vomit entering
+the child’s lungs (see Figure 27). It should only be used in
+children who have not been subjected to trauma.
+If neck trauma is not suspected:
+(cid:132) Turn the child on the side to reduce risk of
+aspiration
+(cid:132) Keep the neck slightly extended and stabilize by
+placing the cheek on one hand Figure 27
+(cid:132) Bend one leg to stabilize the body position Positioning the unconscious child (recovery
+position)
+If trauma is suspected:
+(cid:132) Stabilize the child while lying on the back
+(cid:132) Use the “log roll” technique to turn the child on the side if the child is
+vomiting
+Convulsion
+If the child is having a convulsion, do not attempt to hold him/her down or put
+anything in the child’s mouth. If the child vomits turn the child on his/her side
+to avoid aspiration. If the convulsion has stopped and the airway is clear, the
+child can be placed in the recovery position (see Figure 19).
+CHECK THE BLOOD SUGAR
+Coma and convulsion When the blood glucose
+cannot be measured,
+Where blood glucose results can be obtained quickly (e.g. with dextrostix), this
+should be measured immediately. Hypoglycaemia is present if the measured hypoglycaemia should
+blood glucose level is low <2.5 mmol/l (45 mg/dl) in a well nourished or <3 be assumed to be
+mmol/litre (55 mg/dl) in a severely malnourished child). present in all children in
+This test is easy to perform. Your department will require a supply of dextrostix. coma or having a
+You will need a drop of blood, taken from the heel of a young infant or by finger convulsion AND should
+prick from an older infant or child, or from blood obtained at the insertion of an
+be treated
+intravenous line.
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 27 Positioning the unconscious child (recovery position) |
+
+
+
+
+left for 60 seconds. It is not necessary to cover the entire test strip.
+After 60 seconds, wash the blood off gently with drops of cold water
+or blot off the blood. Depending on the instructions for the use of
+the stick, wait for another 60 seconds, and compare the colour of
+the test area with the key on the side of the container, or use a
+battery-operated reader. If the blood glucose is less than 2.5 mmol/
+litre, the child has a low blood glucose and needs treatment. If you
+compare the ranges on the colour code, usually you can only
+Figure 28
+distinguish <2 mmol/l, and 2-4 mmol/l. In a well-nourished child,
+Blood glucose stick with colour scale
+the result should read over 2 mmol/l. Remember that the blood
+printed on the box
+sugar in a malnourished child is already between 2 and 4. It is better
+to treat a child whose sugar is borderline than to withhold it.
+Malnourished children have no energy stores, so, unlike well-
+nourished children, they cannot maintain their blood sugar in a
+crisis.
+GIVE IV GLUCOSE
+Figure 29
+Coma and convulsion
+Blood glucose stick with a reading
+machine (cid:132) Insert an IV line and draw blood for emergency laboratory
+investigations.
+(cid:132) Give 5 ml/kg of 10% glucose solution rapidly by IV
+injection (see Table 6, including dilutions of 50% glucose to
+make 10% solution and Chart 10 in Annex 3).
+(cid:132) Recheck the blood glucose in 30 minutes. If it is still low,
+repeat 5 ml/kg of 10% glucose solution.
+(cid:132) Feed the child as soon as conscious.
+If the child is not able to feed without danger of aspiration, give:
+(cid:132) IV fluid containing 5-10% glucose (dextrose), or
+(cid:132) Milk or sugar solution via nasogastric tube.
+To make sugar solution, dissolve four level teaspoons of sugar (20
+grams) in a 200-ml cup of clean water.
+Figure 30
+This is a useful guideline in an emergency situation when you may
+Suitable areas for a heel stab in a
+not have a chance to weigh the child. It may be helpful to put it on
+young infant
+the wall in your department.
+Table 6
+Amount of glucose to give by age
+Volume of 10% glucose
+To make up 10% glucose using 50% glucose solution
+Age/weight solution to be given as
+bolus (5 ml/kg) Volume of 50% glucose With added volume of water
+Less than 2 months (<4kg) 15 ml 3ml 12ml
+2 - <4 months (4 - <6 kg) 25 ml 5ml 20ml
+4 - <12 months (6 - <10 kg) 40 ml 8ml 32ml
+1 - <3 years (10 - <14 kg) 60 ml 12ml 48ml
+3 - <5 years (14 - <19 kg) 80 ml 16ml 64ml
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 29 Blood glucose stick with a reading machine |
+
+|  |
+| --- |
+| Figure 30 Suitable areas for a heel stab in a young infant |
+
+| Table 6 Amount of glucose to give by age |  |  |  |
+| --- | --- | --- | --- |
+| Age/weight | Volume of 10% glucose solution to be given as bolus (5 ml/kg) | To make up 10% glucose using 50% glucose solution |  |
+|  |  | Volume of 50% glucose | With added volume of water |
+| Less than 2 months (<4kg) 2 - <4 months (4 - <6 kg) 4 - <12 months (6 - <10 kg) 1 - <3 years (10 - <14 kg) 3 - <5 years (14 - <19 kg) | 15 ml 25 ml 40 ml 60 ml 80 ml | 3ml 5ml 8ml 12ml 16ml | 12ml 20ml 32ml 48ml 64ml |
+
+
+
+
+50% glucose solution is available: dilute 1 part 50% glucose solution to 4 parts
+sterile water, or dilute 1 part 50% glucose solution to 9 parts 5% glucose solution.
+If you only have smaller syringes, divide the amounts accordingly, always mixing
+1 part of 50% glucose with 4 parts of sterile water.
+GIVE AN ANTICONVULSANT
+Convulsion
+Diazepam is a drug to stop convulsions (anticonvulsant). It is the first drug to
+use if the child is convulsing in front of you. No drug should be given if the
+convulsion has stopped. Diazepam can be given by the rectal or intravenous
+route. Rectal diazepam acts within 2 to 4 minutes. In an emergency it is easier
+and quicker to give it rectally than intravenously, unless an intravenous line is
+already running. The dose is 0.5mg/kg (0.1 ml/kg) rectally or 0.25mg/kg (0.05
+ml/kg) intravenously. Estimated doses of rectal diazepam and paraldehyde are
+shown in Table 7 below. This is a useful guideline in an emergency situation
+when you may not have a chance to weigh the child. It may be helpful to put it
+on the wall in your department.
+Table 7
+Diazepam and paraldehyde dosages by age for the treatment of convulsions
+Diazepam given rectally Paraldehyde given rectally
+Age/weight (10 mg/2ml solution)
+Dose 0.1 ml/kg Dose 0.3-0.4 ml/kg
+2 weeks to 2 months (<4kg) 0.3 ml (1.5 mg) 1.0 ml
+2 - <4 months (4 - <6 kg) 0.5 ml (2.5 mg) 1.6 ml
+4 - <12 months (6 - <10 kg) 1.0 ml (5.5 mg) 2.4 ml
+1 - <3 years (10 - <14 kg) 1.25 ml (6.25 mg) 4 ml
+3 - <5 years (14 - <19 kg) 1.5 ml (7.5 mg) 5 ml
+Base the dose on the weight of the child, where possible. Draw up the dose from
+an ampoule of diazepam into a tuberculin (1 ml)1 syringe. Then remove the
+needle. Insert the syringe 4 to 5 cm (about the length of your little finger) into
+the rectum and inject the diazepam solution. Hold the buttocks together for a
+few minutes. If you already have intravenous access, you can give the correct
+volume of drug directly, but slowly, in at least one full minute.
+Reassess the child after 10 minutes.
+If still convulsing, give a second dose of diazepam, rectally or, even better, give
+Phenobarbital is the
+paraldehyde (or diazepam intravenously slowly over 1 minute if an IV infusion
+is running). If the convulsion continues in spite of this second dose, a third dose drug of first choice in
+can be given. Alternatively phenobarbital IV or IM can be used. The infants <2 weeks of age
+recommended dose is 15-20mg/kg. At this stage, a senior health worker should to control convulsions
+be involved.
+Diazepam can affect the child’s breathing, so it is important to reassess the
+airway and breathing regularly.
+1 A 2 ml syringe can be used if a tuberculin syringe is not available.
+
+
+#### [Table Content]
+| Table 7 Diazepam and paraldehyde dosages by age for the treatment of convulsions |  |  |
+| --- | --- | --- |
+| Age/weight | Diazepam given rectally (10 mg/2ml solution) Dose 0.1 ml/kg | Paraldehyde given rectally Dose 0.3-0.4 ml/kg |
+| 2 weeks to 2 months (<4kg) 2 - <4 months (4 - <6 kg) 4 - <12 months (6 - <10 kg) 1 - <3 years (10 - <14 kg) 3 - <5 years (14 - <19 kg) | 0.3 ml (1.5 mg) 0.5 ml (2.5 mg) 1.0 ml (5.5 mg) 1.25 ml (6.25 mg) 1.5 ml (7.5 mg) | 1.0 ml 1.6 ml 2.4 ml 4 ml 5 ml |
+
+
+
+
+In a child having a
+convulsion the blood
+sugar can be checked
+immediately or after the
+first dose of diazepam
+has been given
+COMA CONVULSION
+If the child is unconscious, you need to: If the child is convulsing, you need to:
+(cid:132) Manage the airway (cid:132) Manage the airway
+(cid:132) Check the blood sugar (cid:132) Check the blood sugar
+(cid:132) Position the child (cid:132) Give diazepam
+(cid:132) Position the child
+YRAMMUS
+Table 8
+Dose of Phenobarbital for young infants
+Weight of infant 2 kg or less 3 kg or less
+Initial dose of phenobarbital, 20mg/kg, 200mg/ml solution 0.2 ml 0.3 ml
+Repeat dose if convulsions continue 0.1 ml 0.15 ml
+If there is high fever:
+(cid:132) Sponge the child with room-temperature water to reduce the fever.
+(cid:132) Do not give oral medication until the convulsion has been controlled
+(danger of aspiration).
+If you have a video player, you should now watch the section entitled
+“Management of neurological problems”. The video shows how to check the
+blood sugar, give rectal diazepam, and position the child correctly. If you do not
+have a video player, photographs also illustrate these procedures. As before,
+there is no substitute for practice. You can practise the recovery position on real
+patients, as well as checking blood sugars on any blood samples obtained in
+your department.
+If the child does not have shock, and is not unconscious or convulsing, quickly continue
+the assessment for emergency signs. If the child is unconscious or is convulsing, you
+should initiate appropriate treatment, and then quickly resume the assessment.
+
+
+#### [Table Content]
+| YRAMMUS |  |
+| --- | --- |
+|  | COMA CONVULSION |
+|  | If the child is unconscious, you need to: If the child is convulsing, you need to: (cid:132) Manage the airway (cid:132) Manage the airway (cid:132) Check the blood sugar (cid:132) Check the blood sugar (cid:132) Position the child (cid:132) Give diazepam (cid:132) Position the child |
+|  | If the child does not have shock, and is not unconscious or convulsing, quickly continue the assessment for emergency signs. If the child is unconscious or is convulsing, you should initiate appropriate treatment, and then quickly resume the assessment. |
+
+
+
+
+SSESSMENT
+QUESTIONS:
+COMA
+AND
+CONVULSION
+Answer all the questions on this page, writing in the given spaces. If you have a
+problem, ask for help from one of the facilitators.
+1. What do the letters AVPU stand for?
+2. What is the cut-off level for low blood sugar?
+3. How much 10% glucose would you give to a six-month-old weighing 8 kg and having a low blood sugar?
+4. A child who is unconscious, with no history of trauma, but maintaining the airway should be put in which
+position?
+5. How much rectal diazepam (in ml of the 10mg/2ml solution) would you give to a four-yearold weighing 15
+kg who is having a convulsion? How long should you wait before giving a second dose if the convulsion
+does not stop?
+6. A 15-month old girl has been sleeping all day. She does not answer to a call from her mother. But she
+responds to a pinch on her chest. What stage of AVPU do you assign her? While on examination, she
+started to move her limbs abnormally and her eyes rolled sideways and there were frothy secretions in her
+mouth. What is the most appropriate measure to take?
+
+
+
+OISLUVNOC
+DNA
+AMOC
+:SNOITSEUQ
+TNEMSSESSA
+7. A two-year old boy is carried in by his grandmother. He weighs 12 kg. He is hot and having a seizure.
+What are the next steps to stop the convulsion? And when the convulsion stops, what do you do?
+8. A three-year old girl was brought in because she was abnormally sleepy and not responding at all. The
+father said he took her to a nearby clinic for cough and vomiting and he was being given tablets. She did
+not take any food. What is the next most appropriate step?
+9. An 18-month old boy has been unwell and feverish for two days. He complains of abdominal pain and his
+mother has noticed that he has fast breathing. He weighs 11 kg. His airway is fine, and he has no chest
+indrawing. There is no history of diarrhoea. However, the boy started to convulse while being examined.
+What are the most appropriate measures?
+10.A 10-week old baby was brought in. His mother says he will not suckle today because he is crying a lot. He
+feels very hot on touch. He weighs 3.5 kg. Airway, breathing and circulation are normal. There is no history
+of diarrhoea and no dehydration. How do you triage the baby? What are the next steps?
+11. A 14-month old girl has been sleeping all day. She is irritable when awoken, but rouses to loud voice or
+shaking her arm. Her hands are warm but look a bit pale. The mother says she has no diarrhoea or
+vomiting. Her breathing is deep and her lower chest wall goes in when she breathes in. How do you
+triage this child? What are the next steps?
+
+
+
+Dehydration
+The letter D in the ABCD formula stands for Dehydration. These assessments
+A Airway
+can take place if those for A B and C were all normal, or if emergency treatments
+B Breathing
+have been given for any problem encountered. If there are no signs of dehydration,
+C Circulation
+you can move on to look for priority signs.
+Coma
+In this section we will look at the assessment of severe dehydration in the child
+Convulsion
+with diarrhoea or vomiting. If the child is severely malnourished these signs are
+not as reliable. D Dehydration (severe)
+DOES THE CHILD HAVE DIARRHOEA?
+This information comes from the parent or guardian. If the child has no diarrhoea,
+do not check for dehydration and you can move to the next assessment.
+Assess for severe dehydration
+To assess if the child is severely dehydrated you need to know:
+(cid:132) Is the child lethargic?
+(cid:132) Does the child have sunken eyes?
+(cid:132) Does a skin pinch take longer than 2 seconds to go back?
+In Table 9 below, the signs are listed on the left and the corresponding treatments
+on the right. Complete the assessment of all the signs on the left before deciding
+on and initiating treatment.
+Table 9
+Severe dehydration
+D Diarrhoea plus any two of these: IF NO SEVERE MALNUTRITION:
+Diarrhoea plus 2 (cid:132) Insert IV line and begin giving
+SEVERE (cid:132) Lethargy positive signs fluids rapidly following Plan C.
+(cid:132) Sunken eyes
+DEHYDRATION
+(cid:132) Very slow skin pinch IF SEVERE MALNUTRITION:
+(in child with (cid:132) Do not insert IV, but proceed
+diarrhoea immediately to assessment and
+only) treatment.
+
+
+#### [Table Content]
+| A B C | Airway Breathing Circulation Coma Convulsion |
+| --- | --- |
+| D | Dehydration (severe) |
+
+| Table 9 Severe dehydration |  |  |  |
+| --- | --- | --- | --- |
+| D SEVERE DEHYDRATION (in child with diarrhoea only) | Diarrhoea plus any two of these: (cid:132) Lethargy (cid:132) Sunken eyes (cid:132) Very slow skin pinch | Diarrhoea plus 2 positive signs | IF NO SEVERE MALNUTRITION: (cid:132) Insert IV line and begin giving fluids rapidly following Plan C. IF SEVERE MALNUTRITION: (cid:132) Do not insert IV, but proceed immediately to assessment and treatment. |
+
+
+
+
+If the child has diarrhoea, assess the following signs to determine if the child has
+severe dehydration.
+IS THE CHILD LETHARGIC?
+In the older child lethargy is quite easy to assess. You have already assessed the
+state of consciousness of the child using the AVPU scale. Now observe if the
+child appears drowsy and does not show interest in what
+is happening around him/her. A lethargic child may not
+look at the mother or watch your face when you talk. The
+child may stare blankly and appear not to notice what is
+going on around him/her.
+Does the child know his/her name and answer questions
+sensibly? If the child responds to voice but remains drowsy,
+he/she is lethargic. In the younger child, signs of lethargy
+are harder to assess.
+DOES THE CHILD HAVE SUNKEN EYES?
+Look at the child’s eyes to determine if they appear
+Figure 31 unusually sunken in their sockets (see Figure 31). Ask the
+Sunken eyes mother if the child’s eyes are more sunken than usual, or if
+the skin around them appears darker than usual.
+DOES A SKIN PINCH GO BACK VERY SLOWLY (LONGER
+THAN 2 SECONDS)?
+This is a simple test to look at how elastic the skin is. If
+the child is not dehydrated, the skin will be elastic and,
+when pinched and released, will return to normal straight
+away. Try this on yourself. The dehydrated child will have
+lost fluid. The body moves fluid from less important places,
+such as the skin, to maintain the circulation. The skin
+becomes less elastic and, when pinched, is slow to return.
+Locate the area on the child’s abdomen halfway between
+the umbilicus and the side of the abdomen. Avoiding using
+your fingertips, as this is painful. Pinch the skin in a vertical
+(head to foot) direction and not across the child’s body.
+You should pick up all the layers of the skin and the tissue
+underneath. Pinch for one second and then release. See
+whether the skin goes back very slowly (longer than 2
+seconds).
+If the child has diarrhoea plus two of the above signs
+(lethargy, sunken eyes, and very slow skin pinch), the child
+has severe dehydration.
+Figure 32
+Severe dehydration is present if the child has a history of
+Skin pinch
+diarrhoea plus any two of the following signs: lethargy,
+sunken eyes or slow skin pinch (longer than two seconds).
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 31 Sunken eyes |
+
+|  |
+| --- |
+| Figure 32 Skin pinch |
+
+
+
+
+must also check for severe malnutrition. It is difficult to assess dehydration in a
+child with severe malnutrition.
+The assessments and signs discussed above are clearly illustrated on video. You
+should now watch the section entitled “Assessment of dehydration”. If you do
+not have a video player, the photographs supplied illustrate sunken eyes and the
+skin pinch. As in previous sections you will get the opportunity to see all the
+signs on real patients.
+Treatment of severe dehydration in an emergency
+setting
+If the child has shock, treat this first (see Module 3: Circulation).
+SEVERE DEHYDRATION (WITHOUT SHOCK OR SEVERE MALNUTRITION)
+Give the child a large quantity of fluids quickly. The fluids replace the body’s
+large fluid loss. This is shown in Diarrhoea Treatment Plan C (Chart 11 in
+Annex 3). The first portion of the IV fluid (30 ml/kg) is given very rapidly. This
+will restore the blood volume and prevent death from shock. Then 70 ml/kg is
+given more slowly to complete the rehydration. In all cases the fluid of choice is
+Ringer’s lactate.
+Give oral fluids
+As soon as the child can drink you should give oral fluids in addition to the drip.
+Use ORS and give 5 ml/kg every hour.
+Example
+The following example describes how to treat a child with SEVERE DEHYDRATION according
+to Plan C.
+A six-month old (9 kg) girl, Ellen, had diarrhoea with SEVERE DEHYDRATION. She was not in
+shock and did not have severe malnutrition. She was not able to drink. The health worker decided
+to treat the infant with IV fluid according to Plan C.
+The health worker gave Ellen 270 ml (30 ml x 9 kg) of Ringer’s lactate by IV during the first hour.
+Over the following five hours, he gave her 630 ml of IV fluid (70 ml x 9 kg), approximately 125 ml
+per hour. The health worker assessed the infant’s hydration status every 1-2 hours (that is, he
+assessed for dehydration). Her hydration status was improving, so the health worker continued
+giving Ellen the fluid at a steady rate.
+After 4 hours of IV treatment, Ellen was able to drink. The health worker continued giving her IV
+fluid and began giving her approximately 45 ml of ORS solution to drink per hour.
+After Ellen had been on IV fluid for 6 hours, the health worker reassessed her dehydration. She
+had improved and was reclassified as SOME DEHYDRATION. The health worker chose Plan B
+to continue treatment. The health worker stopped the IV fluid. He began giving Ellen ORS solution
+as indicated in Plan B.
+GIVE FLUIDS BY NASOGASTRIC TUBE IF YOU CANNOT SET UP AN INTRAVENOUS
+INFUSION
+Sometimes it can be very hard to set a drip. In this case call for help and while
+waiting,start nasogastric fluid replacement. Use Oral Rehydration Solution (ORS)
+in all cases. Give 20 ml/kg every hour for six hours.
+
+
+#### [Table Content]
+| Example |
+| --- |
+| The following example describes how to treat a child with SEVERE DEHYDRATION according to Plan C. A six-month old (9 kg) girl, Ellen, had diarrhoea with SEVERE DEHYDRATION. She was not in shock and did not have severe malnutrition. She was not able to drink. The health worker decided to treat the infant with IV fluid according to Plan C. The health worker gave Ellen 270 ml (30 ml x 9 kg) of Ringer’s lactate by IV during the first hour. Over the following five hours, he gave her 630 ml of IV fluid (70 ml x 9 kg), approximately 125 ml per hour. The health worker assessed the infant’s hydration status every 1-2 hours (that is, he assessed for dehydration). Her hydration status was improving, so the health worker continued giving Ellen the fluid at a steady rate. After 4 hours of IV treatment, Ellen was able to drink. The health worker continued giving her IV fluid and began giving her approximately 45 ml of ORS solution to drink per hour. After Ellen had been on IV fluid for 6 hours, the health worker reassessed her dehydration. She had improved and was reclassified as SOME DEHYDRATION. The health worker chose Plan B to continue treatment. The health worker stopped the IV fluid. He began giving Ellen ORS solution as indicated in Plan B. |
+
+
+
+
+you give emergency treatment to a child with severe dehydration, you will begin
+the initial rehydration1. Determine the age and weight of the child. Determine
+the initial amount of fluid to give the child. Insert an IV line and start giving
+fluids.
+Table 9
+Treatment of severe dehydration in an emergency setting
+Age < 12 Months 1 year to 5 years
+Drops per minute2 Drops per minute
+Weight Total volume Per hour Paediatric Adult Total volume Per hour Paediatric Adult
+<4 kg 200 40 ml 40 13
+4 - <6 kg 350 70 ml 70 23
+6 - <10 kg 550 110 ml 110 37 550 220 220 73
+10 - <14 kg 850 170 ml 170 57 850 340 340 113
+14 - <19 kg 1200 240 ml 240 80 1200 480 480 160
+Reassess the child every hour. If the hydration status is not improving, give the
+IV drip more rapidly.
+Also give ORS solution (about 5ml/kg/hour) as soon as the child can drink; this
+is usually after 3-4 hours (in infants) or 1-2 hours (in children).
+Table 10
+ORS volumes for the management of severe dehydration when the child
+can drink
+WEIGHT VOLUME ORS SOLUTION PER HOUR
+<4 kg 15 ml
+4 <6 kg 25 ml
+6 <10 kg 40 ml
+10 <14 kg 60 ml
+14 <19 kg 85 ml
+Reassess after 6 hours (infants) and after 3 hours (children). Classify dehydration.
+Then choose the appropriate diarrhoea treatment plan to continue treatment.
+If possible, observe the child for at least 6 hours after rehydration to be sure
+that the mother can maintain hydration by giving the child ORS solution by
+mouth.
+1 You or other staff will continue giving the child fluids, reassessing periodically and completing the rehydration.
+However, continuing the treatment is not described here as part of emergency treatment.
+2 The number of drops to be given per minute is based on the assumption that droppers in IV sets provide a fixed
+number of drops per ml. Micro droppers for infants give 60 drops per ml. The number of drops per minute is
+therefore equal to the number of ml per hour (60 drops divided by 60 minutes). IV sets for adults in most countries
+give 20 drops per ml. The figures in the table are based on this number. In case IV sets are used that give larger
+
+
+#### [Table Content]
+| Table 9 Treatment of severe dehydration in an emergency setting |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Age | < 12 Months |  |  |  | 1 year to 5 years |  |  |  |
+|  |  |  | Drops per minute2 |  |  |  | Drops per minute |  |
+| Weight | Total volume | Per hour | Paediatric | Adult | Total volume | Per hour | Paediatric | Adult |
+| <4 kg 4 - <6 kg 6 - <10 kg 10 - <14 kg 14 - <19 kg | 200 350 550 850 1200 | 40 ml 70 ml 110 ml 170 ml 240 ml | 40 70 110 170 240 | 13 23 37 57 80 | 550 850 1200 | 220 340 480 | 220 340 480 | 73 113 160 |
+
+
+
+
+Do NOT give IV fluids if possible.
+Give ReSoMal which can be made (see below for recipe) or is commercially
+available. The ReSoMal rehydration fluid should be given orally or by nasogastric
+tube, much more slowly than you would when rehydrating a well-nourished
+child.
+When assessing the blood sugar in a malnourished child, remember that a low
+blood sugar level is between 2 and 4 mmol/l. It is better to give 10% glucose (see
+Module 3) to a child whose sugar is borderline than to withhold it. As these
+children have no energy stores, they cannot, unlike well-nourished children,
+maintain their blood sugar in a crisis.
+Table 11
+ReSoMal Recipe
+INGREDIENT AMOUNT
+Water 2
+WHO-ORS One-1L packet
+Sucrose (household sugar) 50g
+Electrolyte/mineral solution 40ml
+Table 12
+Treatment of severe dehydration
+If the child has NO severe malnutrition If the child HAS severe malnutrition
+Does the child have shock? Does the child have shock?
+IfYES IfYES
+(cid:132) See TREATMENT OF SHOCK (Table 3) (cid:132) See TREATMENT OF SHOCK (Table 3)
+in Module 3: Circulation in Module 3: Circulation
+IfNO IfNO
+(cid:132) Give Ringer's lactate (cid:132) Do not give IV fluids
+(cid:132) For infants: For all children:
+- 30 ml/kg in the first hour (cid:132) Give ReSoMal 5ml/kg every 30 minutes
+- 70 ml/kg in the next 5 hours for the first 2 hours
+(cid:132) Then 5-10ml/kg/hour for the next 4-10
+(cid:132) For children > 1 year of age: hours
+- 30 ml/kg in the first 30 minutes (cid:132) Give more ReSoMal if child wants more
+- 70 ml/kg in the next 2.5 hours or large stool loss or vomiting
+(cid:132) Check blood glucose
+(cid:132) Assess the child every 1 2 hours (cid:132) Treat if <3mmol/l (see Module 3)
+If the signs of dehydration are not For further treatment see inpatient
+improving: guidelines
+(cid:132) give fluid more rapidly
+(cid:132) inform doctor or senior staff
+As soon as the child can drink:
+(cid:132) give oral fluids in addition to the drip
+(cid:132) give ORS 5 ml/kg every hour
+
+
+#### [Table Content]
+| Table 12 Treatment of severe dehydration |  |
+| --- | --- |
+| If the child has NO severe malnutrition | If the child HAS severe malnutrition |
+| Does the child have shock? IfYES (cid:132) See TREATMENT OF SHOCK (Table 3) in Module 3: Circulation IfNO (cid:132) Give Ringer's lactate (cid:132) For infants: - 30 ml/kg in the first hour - 70 ml/kg in the next 5 hours (cid:132) For children > 1 year of age: - 30 ml/kg in the first 30 minutes - 70 ml/kg in the next 2.5 hours (cid:132) Assess the child every 1 2 hours If the signs of dehydration are not improving: (cid:132) give fluid more rapidly (cid:132) inform doctor or senior staff As soon as the child can drink: (cid:132) give oral fluids in addition to the drip (cid:132) give ORS 5 ml/kg every hour | Does the child have shock? IfYES (cid:132) See TREATMENT OF SHOCK (Table 3) in Module 3: Circulation IfNO (cid:132) Do not give IV fluids For all children: (cid:132) Give ReSoMal 5ml/kg every 30 minutes for the first 2 hours (cid:132) Then 5-10ml/kg/hour for the next 4-10 hours (cid:132) Give more ReSoMal if child wants more or large stool loss or vomiting (cid:132) Check blood glucose (cid:132) Treat if <3mmol/l (see Module 3) For further treatment see inpatient guidelines |
+
+
+
+
+If the child does not
+have diarrhoea or is not
+dehydrated, quickly
+continue the
+assessment for priority
+signs. If the child is
+dehydrated, you should
+initiate appropriate
+treatment, and then
+quickly resume the
+In a child with severe dehydration WITHOUT severe malnutrition:
+assessment
+(cid:132) Treat shock if present
+(cid:132) Give intravenous or nasogastric fluids
+(cid:132) Start oral fluids as soon as possible.
+In a child with severe dehydration WITH severe malnutrition:
+(cid:132) Treat shock if present
+(cid:132) Give oral or nasogastric fluids.
+YRAMMUS
+Table 13
+Maintenance fluids
+If the child has NO severe malnutrition If the child HAS severe
+See Chart 11 malnutrition
+Give 70 ml/kg of Ringer's lactate solution (or, if not Continue ReSoMal 5-10ml/kg/hour
+available, normal saline) for the next 4-10 hours.
+(cid:132) over 5 hours in infants (aged <12 months); See guidelines in the "Pocket book
+(cid:132) over 2½ hours in children (aged 12 months to 5 of hospital care for children" or the
+years). manual "Management of the child
+Reassess the child every 1-2 hours. If the condition with a serious infection or severe
+is not improving, give the IV fluids more rapidly. malnutrition."
+Also give ORS solution (about 5 ml/kg/hour) as
+soon as the child can drink; this is usually:
+(cid:132) after 3-4 hours (in infants);
+(cid:132) after 1-2 hours (in children).
+Encourage breastfeeding:
+Reassess after 6 hours (infants) and after 3 hours
+(children)
+
+
+#### [Table Content]
+| Table 13 Maintenance fluids |  |
+| --- | --- |
+| If the child has NO severe malnutrition See Chart 11 | If the child HAS severe malnutrition |
+| Give 70 ml/kg of Ringer's lactate solution (or, if not available, normal saline) (cid:132) over 5 hours in infants (aged <12 months); (cid:132) over 2½ hours in children (aged 12 months to 5 years). Reassess the child every 1-2 hours. If the condition is not improving, give the IV fluids more rapidly. Also give ORS solution (about 5 ml/kg/hour) as soon as the child can drink; this is usually: (cid:132) after 3-4 hours (in infants); (cid:132) after 1-2 hours (in children). Encourage breastfeeding: Reassess after 6 hours (infants) and after 3 hours (children) | Continue ReSoMal 5-10ml/kg/hour for the next 4-10 hours. See guidelines in the "Pocket book of hospital care for children" or the manual "Management of the child with a serious infection or severe malnutrition." |
+
+| YRAMMUS | In a child with severe dehydration WITHOUT severe malnutrition: (cid:132) Treat shock if present (cid:132) Give intravenous or nasogastric fluids (cid:132) Start oral fluids as soon as possible. In a child with severe dehydration WITH severe malnutrition: (cid:132) Treat shock if present (cid:132) Give oral or nasogastric fluids. |
+| --- | --- |
+
+
+
+
+SSESSMENT
+QUESTIONS:
+DEHYDRATION
+Answer all the questions on this page, writing in the given spaces. If you have a
+problem, ask for help from one of the facilitators.
+1. An abnormal skin pinch takes longer than _____________ to go back.
+2. An eight-month old weighing 6 kg is severely dehydrated. How much fluid would you give in the first
+hour? For how long would you give the second lot of fluid in the same child?
+3. A three-year old weighing 15 kg is severely dehydrated. He has received 450 ml of fluid in 30 minutes.
+How much fluid are you going to give him next, and over what period of time?
+4. If you cannot set up a drip, how much nasogastric fluid (ml/kg) should you give a child in an hour?
+
+
+
+OITARDYHED
+:SNOITSEUQ
+TNEMSSESSA
+5. Barec is three-years old and weighs 15 kg. His mother said that his diarrhoea started yesterday. The
+health worker's assessment found that Barec was not in shock and that he was breathing adequately. He
+was lethargic and not able to drink, had sunken eyes and a skin pinch went back very slowly. He was not
+severely malnourished but had diarrhoea with severe dehydration. How should the health worker treat
+Barec's dehydration?
+What amount of fluid should Barec be given initially?
+6. Amaru is two-year old and weighs 8 kg. He is breathing comfortably and not in shock, but has diarrhoea.
+A health worker finds Amaru to be lethargic, but able to drink. His eyes are sunken, and a skin pinch
+goes back very slowly. The health worker decides that Amaru has diarrhoea with severe dehydration,
+then checks for severe malnutrition and sees visible severe wasting. What is the appropriate treatment
+for Amaru's dehydration?
+
+
+
+SSESSMENT
+QUESTIONS:
+DEHYDRATION
+7. Dano is eight months old and weighs 6 kg. He has had diarrhoea for a week and is very sick. He is
+breathing adequately and is not in shock. The health worker sees that Dano's eyes are sunken. When
+encouraged, Dano is able to take a sip of water, but drinks poorly. A skin pinch goes back very slowly. The
+health worker finds Dano has diarrhoea with severe dehydration. He is not severely malnourished. How
+much IV fluid should be given to Dano in the first hour?
+Should the health worker give Dano ORS solution? If so, how much?
+8. Sharita is nine months old and weighs 7 kg. Her mother brings her to the clinic because she has had
+diarrhoea for a week. The mother tells the health worker that Sharita is no longer breastfed, and is too tired
+to drink from a cup. The health worker assesses Sharita. He finds that she is breathing adequately. Her
+hands are cold and her pulse is weak and fast. He decides that she is in shock. She is lethargic, has
+sunken eyes, and a skin pinch goes back very slowly. The health worker decides Sharita has severe
+dehydration. She is not malnourished. What emergency treatment should the health worker give Sharita?
+
+
+
+OITARDYHED
+:SNOITSEUQ
+TNEMSSESSA
+9. Rogit, an 18-month-old boy weighing 8 kg, is brought to the small hospital very late at night. The health
+worker assesses the boy and finds that he is alert and crying and not in shock. He can drink, but very
+poorly, and a skin pinch goes back very slowly. The health worker decides the child has diarrhoea with
+severe dehydration. He is not malnourished.
+The child needs fluid for severe dehydration given according to Plan C, but the health worker is not trained
+to give IV therapy. The last nurse has left for the night and no other nurses will come in for several hours.
+The health worker is trained to give nasogastric therapy and has ORS available. How should Rogit be
+rehydrated?
+How much fluid should the health worker give initially?
+10. A one-year old girl has a two-day history of diarrhoea and vomiting. Her weight is 6.5 kg. She is restless
+and irritable. Her airway and breathing are OK. Her hands are warm. AVPU=voice. Skin pinch lasts 4
+seconds. Her eyes are sunken and the mother confirms this fact. She is skin and bones. How do you
+manage her?
+
+
+
+Case management
+scenarios
+This module will give you an opportunity in different role plays all you have
+learned so far. You will work in a team and practice the skills of triage and
+emergency management. It gives you an opportunity to internalize the knowledge,
+and to ask questions about items which are not clear.
+
+
+
+
+
+
+Implementing ETAT
+When you complete this course, your work to implement ETAT will just begin.
+As we discussed in the first session, ETAT is the first component in the WHO
+referral care manual entitled “Management of the Child with Serious Infection or
+Severe Malnutrition: Guidelines for care at the first-referral level in developing countries”.
+Thus, depending upon your position, you may choose to implement ETAT as a
+single initiative or as the first component of an overall effort to improve the
+quality of care of seriously ill children in your hospital, including inpatient care
+of serious infections and severe malnutrition. Likewise, your hospital may choose
+to implement ETAT on its own, or it may become part of a multiple-hospital
+quality improvement collaboration to implement ETAT, or to improve the quality
+of care of hospitalized children, sharing experiences and results to rapidly learn
+the best way to successfully implement ETAT and decrease hospital mortality
+and morbidity of sick children.
+Whatever your choice, one thing is clear – ETAT is not simply a matter of
+training, it will require that you and your colleagues change the system of care
+for children presenting with emergency conditions. Staff knowledge and skills
+are necessary but not sufficient for successful implementation of ETAT.
+This chapter will help you prepare for implementation based on whichever choice
+is right for your hospital:
+(cid:132) Implementation of ETAT in one hospital alone or
+(cid:132) Implementation of ETAT in a multiple hospital collaborative effort
+(cid:132) Implementation of ETAT as a single component or
+(cid:132) Implementation of ETAT as the first component of a more
+comprehensive effort to improve the quality of care of hospitalized
+children with serious infections or severe malnutrition (improve care
+according to the guidelines)
+Objectives of the chapter/session
+By the end of this session on implementation of ETAT, you will be able to:
+(cid:132) Understand and explain the role of ETAT within the overall
+management of the child with serious infection or severe malnutrition
+(cid:132) Describe why both knowledge/skills and system changes (process
+improvement) are needed to successfully implement ETAT
+
+
+
+(cid:132)
+sites/regionally)
+(cid:132) Develop action plans to initiate the system changes (improvement
+process) needed to implement ETAT in his/her hospital
+(cid:132) Decide how to know that ETAT is successfully implemented in your
+hospital (or within a collaboration of hospitals implementing ETAT)
+(cid:132) Describe the value of working collaboratively across hospitals to
+improve the care of children with emergency conditions (and with
+serious infections or severe malnutrition)
+(cid:132) Describe and understand how ETAT training fits into wider context of
+improvement initiatives in place in your country which address the
+quality of care for children in hospital.
+Implementing ETAT in your hospital
+This consists of the following steps:
+(cid:132) Baseline assessment of current practices – focused on ETAT or as part
+of PHI assessment; select indicators for ongoing measurement of
+improvement
+(cid:132) Flow diagram of care – where are children with emergency conditions
+seen now?
+(cid:132) Statistics of care – hospital under 5five death rates overall and by
+condition, within first 24 hours of admission; on ward after 24 hours
+(cid:132) Identify the staff involved in ETAT and your ETAT improvement team
+(cid:132) Skills and knowledge development – plan how to transfer ETAT
+training from TOT course to your onsite staff
+(cid:132) Use results of assessment to identify key changes you need to make to
+implement ETAT guidelines.
+Implementation of ETAT is in the first place a matter of management and
+decision-making. Cost and benefits are most important aspects of the decision
+making process. You can assist managers in this process by providing information.
+Why? What arguments can you give to decision-makers to implement
+ETAT in your working place? (advocacy)
+Who? What staff categories should be involved in ETAT?
+Where? Where should it take place?
+When? When should it be done? (Patient flow and tasks)
+What? What extra equipment and suppliers are needed, which are not
+yet available now? (material resources)
+Advocacy
+Consider preventable death, death within 24 hours after admission, delay in
+treatment waiting, time doctor’s delay, ethics, professional standards, human
+suffering. Brainstorm on the importance of these factors in your working
+situation. List your arguments in a convincing form.
+
+
+
+It can be helpful to draw a floor map of the emergency and/or paediatric
+departments. Where are the largest members of patients waiting? Is it possible
+to involve ancillary staff in emergency assessment (gate keepers, watchmen,
+clerks)?
+Is it feasible to allocate space for emergency management near the waiting room?
+Material Resources
+Annex 2 contains a list of requirements for ETAT (equipment and supplies).
+Check if each of the items is available in the hospital and in the emergency
+department. List the items not available.
+Prepare a summary of your findings in the form of recommendations to the
+hospital superintendent or the hospital management board.
+Developing individual plans of actions
+(cid:132) Plan framework
+Table 14
+Suggested table
+Objectives Activities Time Frame Requirements Cost Responsible Source
+persons of funds
+J F M A M J J A S O N D
+
+
+#### [Table Content]
+| Table 14 Suggested table |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Objectives | Activities | Time Frame |  |  |  |  |  |  |  |  |  |  |  | Requirements | Cost | Responsible persons | Source of funds |
+|  |  | J | F | M | A | M | J | J | A | S | O | N | D |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+
+
+
+
+
+Practical procedures
+Giving Parenteral fluids
+VASCULAR ACCESS Scalp veins
+Select a suitable vein to place the cannula (22 or 24 gauge)
+External jugular
+or butterfly needle (gauge 21 or 23). Suitable sites are
+Antecubital
+shown in Figure 33.
+PERIPHERAL VEIN
+Veins on dorsum Femoral vein
+Identify an accessible peripheral vein. In young children
+aged >2 months, this is usually the cephalic vein in the
+antecubital fossa or the fourth interdigital vein on the back
+of the hand.
+Ankle veins
+(cid:132) An assistant should keep the position of the limb
+steady and should act as a tourniquet by obstructing
+Figure 33
+the venous return with his fingers lightly closed
+Sites for IV access in infants and children
+around the limb. Alternatively, use a rubber glove
+or tubing as a tourniquet.
+(cid:132) Clean the surrounding skin with an antiseptic
+solution (such as spirit, iodine, isopropyl alcohol, or
+70% alcohol solution), then introduce the cannula
+into the vein and insert most of its length. Fix the
+cannula securely with tape. Apply a splint with the
+limb in an appropriate position (e.g. elbow extended,
+wrist slightly flexed).
+Figure 34
+Splinted arm for IV infusion
+
+
+#### [Table Content]
+| Scalp veins External jugular Antecubital Veins on dorsum Femoral vein Ankle veins |
+| --- |
+| Figure 33 Sites for IV access in infants and children |
+
+|  |
+| --- |
+| Figure 34 Splinted arm for IV infusion |
+
+
+
+
+These are often used in children aged <2 years but work best in young infants.
+The frontal superficial, temporal posterior, auricular, supra-orbital and posterior
+facial veins can be used. Scalp vein infusions have the advantage of not greatly
+restricting the child’s movements.
+(cid:132) Find a suitable scalp vein (usually in the midline of
+the forehead, the temporal area, or above or behind
+the ear).
+(cid:132) Shave the area and clean the skin with an antiseptic
+solution. The assistant should occlude the vein
+proximal to the site of puncture. Fill the butterfly
+set tubing with saline either by attaching it to the
+infusion-giving set and then disconnecting it or by
+flushing the butterfly set. Disconnect the syringe and
+leave the end of the tubing open. Introduce the
+butterfly needle as described above. Blood flowing
+back slowly through the tubing indicates that the
+needle is in the vein.
+(cid:132) Use adhesive plaster and a gauze pad under the
+needle to secure the needle at an angle to the scalp.
+Care should be taken not to cannulate an artery,
+Figure 35 which is recognized by palpation. If there should be
+Inserting a butterfly needle in a scalp vein a pulsatile spurt of blood, withdraw the needle and
+apply pressure until the bleeding stops; then look
+for a vein.
+CARE OF THE CANNULA
+Secure the cannula when introduced. This may require the splinting of
+neighbouring joints to limit the movement of the cannula. Keep the overlying
+skin clean and dry. Clean it daily with an antiseptic solution.
+To minimize the risk of infection, the cannula should not
+be kept in the same site for longer than necessary, and
+should be removed if complications develop.
+EXTERNAL JUGULAR VEIN
+(cid:132) Hold the child securely, with the head turned to one
+side away from the puncture site and slightly lower
+than the body (15-30 degree head-down position).
+(The vein will fill in this position and should be
+visible as it travels towards the clavicle in the
+supraclavicular fossa). Restrain the child as necessary
+in this position.
+Figure 36
+Inserting a cannula into the external jugular
+vein
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 35 Inserting a butterfly needle in a scalp vein |
+
+|  |
+| --- |
+| Figure 36 Inserting a cannula into the external jugular vein |
+
+
+
+
+When carried out by a well-trained and experienced health
+worker, intraosseous infusion is a simple and reliable
+method of giving fluid and drugs in an emergency. The
+method is safe if the needle is left in place no longer than
+6-8 hours. All parenteral fluids and drugs recommended
+in these guidelines can be given by this route.
+In an emergency this may be the first choice if access to a
+peripheral vein does not appear to be obtainable. It takes
+1-2 minutes to establish intraosseous access. The procedure
+is painful, but no anaesthetic is required as it should only
+be used in an emergency (e.g. when a child is in shock).
+Contra-indications:
+(cid:132) Infection at the intended puncture site
+Figure 37
+(cid:132) Fracture of the bone (relative contraindication,
+Intraosseous infusion. Infusion needle in place
+not for shock, only for dehydration).
+in the proximal medial part of the tibia
+The first choice for the puncture is the proximal tibia. The
+site for needle insertion is in antero-medial surface of the
+tibia, 1-2 cm below the tibial tuberosity (2 finger breadths in children, 1 finger
+breadths in infants). An alternative site for needle insertion is the distal femur,
+2 cm above the lateral condyle.
+(cid:132) Prepare the necessary equipment:
+- Bone marrow aspiration or intraosseous needles (15-18 gauge or, if
+not available, 21 gauge; if no special needles are available, large-bore
+(21 FG) hypodermic or butterfly needles can be used in young
+children)
+- Antiseptic solution and sterile gauze to clean the site
+- A sterile 5-ml syringe filled with normal saline
+- A second sterile 5-ml syringe filled with normal saline
+- IV infusion equipment
+- Sterile gloves.
+(cid:132) Select the site for cannulation:
+- First, palpate the tibial tuberosity
+- Then, locate one finger’s breadth below and medial to the tuberosity
+(the bone can be felt under the skin at this site).
+(cid:132) Wash the hands and put on sterile gloves.
+(cid:132) Clean the skin over and surrounding the site with an antiseptic
+solution.
+(cid:132) Stabilize the proximal tibia with the left hand (this hand is now not
+sterile) by grasping the thigh and knee above and lateral to the
+cannulation site, with the fingers and thumb wrapped around the knee
+but not directly behind the insertion site.
+(cid:132) Palpate the landmarks again with the sterile glove (right hand).
+(cid:132) Insert the needle at a 90Ú angle to the bone with the bevel pointing
+towards the foot. Advance the needle using a gentle but firm, twisting
+or drilling motion.
+(cid:132) Stop advancing the needle when you feel a sudden decrease in
+resistance. The needle should be fixed in the bone.
+
+
+
+(cid:132)
+(cid:132) Aspirate 1 ml of the marrow contents (looks like blood), using the 5 ml
+syringe, to confirm that the needle is in the marrow cavity.
+(cid:132) Flush the needle with 5 ml of infusion solution
+(cid:132) The fluid infusion can be started.
+Note: While the fluid is being infused, only a slight resistance should be felt,
+and there should be no visible or palpable infiltration in the area of infusion.
+Failure to aspirate marrow contents does not mean that the needle is not correctly
+placed.
+(cid:132) Apply dressings and secure the needle in its place.
+(cid:132) Monitor the infusion by the ease with which the fluid flows and by the
+clinical response of the patient.
+(cid:132) Check that the calf does not swell during the infusion and the toes
+remain pink.
+(cid:132) If the child cries inconsolably, check the toes and calf.
+(cid:132) Consider starting the child on antibiotics for five days if not already
+started.
+Stop the intraosseous infusion as soon as venous access is available. In any case,
+it should not continue for more than 8 hours.
+Complications include:
+(cid:132) Incomplete penetration of the bony cortex
+Signs: The needle is not well fixed; infiltration occurs under the skin
+Action: The needle must be pushed in further into the bone.
+(cid:132) Penetration of the posterior bone cortex (more common)
+Sign: Infiltration occurs (calf becomes tense), with the needle well fixed
+Action: Remove the needle and repeat at another site.
+(cid:132) Blockage of the needle by marrow (uncommon)
+Sign: Infusion stops
+Action: The line must be flushed by 5 ml of normal saline.
+(cid:132) Infection
+Signs: Cellulitis at the site of the infusion (this is rare if the infusion is
+left for less than 8 hours; osteomyelitis is rare)
+Action: Remove the intraosseous needle unless it is essential; give local
+skin care and antibiotic treatment.
+Consider giving antibiotics.
+(cid:132) Necrosis and sloughing of the skin at the site of the infusion (this
+occurs particularly when drugs such as adrenaline, calcium chloride or
+sodium bicarbonate pass into the tissues).
+Action: Avoid by infusing gently and not under pressure.
+IV DRUG ADMINISTRATION THROUGH AN INDWELLING CANNULA
+Attach the syringe containing the IV drug to the injection port of the cannula
+and introduce the drug. Once all the drug has been given, inject 0.5 ml heparin
+solution (10-100 units/ml) into the cannula unit until all the blood has been
+expelled and the catheter is filled with the solution.
+If heparin is not available, normal saline or 5% glucose solution can be used,
+but the risk of clot formation in the cannula is higher.
+
+
+
+A nasogastric tube (size 8 French gauge for children) for fluids or food may have
+to be passed into the child’s stomach, e.g. to feed a severely malnourished child
+who is anorexic, or to give fluids (e.g. glucose) to an unconscious child.
+Holding the tip of the tube against the child’s nose, measure the distance from
+the nose to the ear lobe, then to the xiphisternum (epigastrium). Mark the tube
+at this point.
+Hold the child firmly. Lubricate the tip of the catheter with water and pass it
+directly into one nostril, pushing it slowly in. It should pass easily down into the
+stomach without resistance. When the measured distance is reached, fix the
+tube with tape at the nose.
+Figure 38
+Inserting a nasogastric tube. The distance is measured from the nose to the
+ear and then to the epigastrium, and then the tube is inserted to the
+measured distance
+Aspirate a small amount of stomach contents with a syringe to confirm that the
+tube is in place (check that it turns blue litmus paper pink). If no aspirate is
+obtained, inject air down the tube and listen over the abdomen with a stethoscope
+(note, however, that the latter method can lead to errors if not carried out
+carefully). If the tube is in the stomach, air can be heard entering the stomach.
+If the tube is not in the stomach, any aspirate obtained will not turn blue litmus
+paper pink and the sound of injected air will not be heard over the abdomen. If
+there is any doubt about the location of the tube, withdraw it and start again.
+The major complication is when the tube inadvertently passes into the trachea.
+This leads to distress in the child, an abnormal cry in infants, or cyanosis. If this
+happens, remove the tube immediately and try again to pass it into the stomach
+after the child has recovered.
+(cid:132) When the tube is in place, fix a 20 ml syringe (without the plunger) to
+the end of the tube, and pour food or fluid into the syringe, allowing it
+to flow by gravity.
+The nasogastric tube can be left in position for several days. If there is doubt
+about the position of the tube, check that it is correctly in place before giving
+the feed.
+
+
+#### [Table Content]
+|  |
+| --- |
+| Figure 38 Inserting a nasogastric tube. The distance is measured from the nose to the ear and then to the epigastrium, and then the tube is inserted to the measured distance |
+
+
+
+
+therapy is to be given by nasopharyngeal catheter at the same time, pass both
+tubes down the same nostril and try to keep the other nostril patent by wiping
+away crusts and secretions.
+
+
+
+Resources required to
+implement emergency
+care of children in hospitals
+The following list gives you equipment which is needed to implement emergency
+care in your emergency or outpatient department, and to train staff in performing
+the emergency management. After training, you should have these items available
+in the emergency area of the outpatient department as well as in the ward.
+While you are checking for its availability, find out whether it is available
+elsewhere in the hospital, and you can make it available where you need it.
+Therefore, there is another column provided which is labeled “hospital” in the
+check list.
+Equipment
+Infant sized doll
+Child sized doll
+Orophargngeal (Guedel) Airways: at least 3 different sizes
+Self-inflating bags: adult
+Self-inflating bags: children
+Masks: 3 sizes for children
+Electric (or foot) suction pump
+Suction catheters: size 15 F.G.
+Oxygen concentrator or oxygen cylinder with regulator, pressure gauge and flow meter
+Oxygen tubing, nasal prongs or catheters
+Sandbags
+Blankets
+department Emergency Paediatric
+ward
+Hospital
+
+
+#### [Table Content]
+| Equipment | department Emergency | Paediatric ward | Hospital |
+| --- | --- | --- | --- |
+| Infant sized doll |  |  |  |
+| Child sized doll |  |  |  |
+| Orophargngeal (Guedel) Airways: at least 3 different sizes |  |  |  |
+| Self-inflating bags: adult |  |  |  |
+| Self-inflating bags: children |  |  |  |
+| Masks: 3 sizes for children |  |  |  |
+| Electric (or foot) suction pump |  |  |  |
+| Suction catheters: size 15 F.G. |  |  |  |
+| Oxygen concentrator or oxygen cylinder with regulator, pressure gauge and flow meter |  |  |  |
+| Oxygen tubing, nasal prongs or catheters |  |  |  |
+| Sandbags |  |  |  |
+| Blankets |  |  |  |
+
+
+
+
+After you have checked for the availability, list requirements here in order of priority.
+department Emergency Paediatric
+ward
+Hospital
+Consumables
+Adhesive tape, at least 2 different sizes
+Cotton wool
+Cardboard to make splints
+IV Infusion sets
+Scalp vein needles (size 21 or 23 G)
+IV Cannulae (size 22 or 24 G)
+Needles for intraosseous insertion (size 21G)
+Tuberculin syringes
+Test strips and scale for blood sugar
+Fluids and drugs
+Ringer’s lactate or normal saline
+Half-strength Darrow’s with 5% glucose solution, or half-normal saline with 5% glucose
+solution
+Glucose 10% or 50% glucose
+ORS
+ReSoMal (commercially bought or prepared)
+Diazepam IV or paraldehyde
+Equipment Consumables
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+6. 6.
+7. 7.
+8. 8.
+9. 9.
+10. 10.
+
+
+#### [Table Content]
+| Equipment | Consumables |
+| --- | --- |
+| 1. | 1. |
+| 2. | 2. |
+| 3. | 3. |
+| 4. | 4. |
+| 5. | 5. |
+| 6. | 6. |
+| 7. | 7. |
+| 8. | 8. |
+| 9. | 9. |
+| 10. | 10. |
+
+
+
+
+ETAT charts
+CHART 2. Triage of all sick children1
+EMERGENCY SIGNS
+If any sign positive: give treatment(s), call for help, draw blood for emergency laboratory
+investigations (glucose, malaria smear, Hb)
+ASSESS TREAT
+Do not move neck if cervical spine injury
+possible
+1. Airway and breathing If foreign body aspiration
+ANY SIGN
+(cid:132) Obstructed breathing, (cid:132) Manage airway in choking child
+POSITIVE
+or (Chart 3)
+(cid:132) Central cyanosis,
+or If no foreign body aspiration
+(cid:132) Severe respiratory distress (cid:132) Manage airway (Chart 4)
+(cid:132) Give oxygen (Chart 5)
+(cid:132) Make sure child is warm
+2. Circulation (cid:132) Stop any bleeding
+ANY SIGN
+Cold hands with: (cid:132) Give oxygen (Chart 5)
+POSITIVE
+(cid:132) Capillary refill longer than (cid:132) Make sure child is warm
+3 seconds,
+Check for
+and If no severe malnutrition:
+severe
+(cid:132) Weak and fast pulse malnutrition (cid:132) Insert IV and begin giving fluids
+rapidly (Chart 7). If not able to insert
+peripheral IV, insert an external
+jugular or intraosseous line
+If severe malnutrition:
+If lethargic or unconscious:
+(cid:132) Give IV glucose (Chart 10)
+(cid:132) Insert IV line and give fluids (Chart 8)
+If not lethargic or unconscious:
+(cid:132) Give glucose orally or by NG tube
+(cid:132) Proceed immediately to full
+assessment and treatment
+1 The numbering of charts in this course starts with Chart 2, in line of the numbering of charts in the "Pocket book of
+
+
+#### [Table Content]
+| CHART 2. Triage of all sick children1 |
+| --- |
+| EMERGENCY SIGNS If any sign positive: give treatment(s), call for help, draw blood for emergency laboratory investigations (glucose, malaria smear, Hb) ASSESS TREAT Do not move neck if cervical spine injury possible 1. Airway and breathing If foreign body aspiration ANY SIGN (cid:132) Obstructed breathing, (cid:132) Manage airway in choking child POSITIVE or (Chart 3) (cid:132) Central cyanosis, or If no foreign body aspiration (cid:132) Severe respiratory distress (cid:132) Manage airway (Chart 4) (cid:132) Give oxygen (Chart 5) (cid:132) Make sure child is warm 2. Circulation (cid:132) Stop any bleeding ANY SIGN Cold hands with: (cid:132) Give oxygen (Chart 5) POSITIVE (cid:132) Capillary refill longer than (cid:132) Make sure child is warm 3 seconds, Check for and If no severe malnutrition: severe (cid:132) Weak and fast pulse malnutrition (cid:132) Insert IV and begin giving fluids rapidly (Chart 7). If not able to insert peripheral IV, insert an external jugular or intraosseous line If severe malnutrition: If lethargic or unconscious: (cid:132) Give IV glucose (Chart 10) (cid:132) Insert IV line and give fluids (Chart 8) If not lethargic or unconscious: (cid:132) Give glucose orally or by NG tube (cid:132) Proceed immediately to full assessment and treatment |
+
+
+
+
+CHART 2. Triage of all sick children (continued)
+EMERGENCY SIGNS
+If any sign positive: give treatment(s), call for help, draw blood for emergency laboratory
+investigations (glucose, malaria smear, Hb)
+ASSESS TREAT
+Do not move neck if cervical spine injury
+possible
+3. Coma/convulsing IF COMA OR (cid:132) Manage airway (Chart 4)
+(cid:132) Coma CONVULSING (cid:132) If convulsing, give diazepam or
+or paraldehyde rectally (Chart 9)
+(cid:132) Convulsing (now) (cid:132) Position the unconscious child (if
+head or neck trauma is suspected,
+stabilize the neck first) (Chart 6)
+(cid:132) Give IV glucose (Chart 10)
+4. Severe dehydration (cid:132) Make sure child is warm.
+DIARRHOEA
+(only in child with
+plus TWO
+diarrhoea) If no severe malnutrition:
+SIGNS
+Diarrhoea plus any two (cid:132) Insert IV line and begin giving fluids
+POSITIVE
+of these: rapidly and Diarrhoea Treatment Plan
+(cid:132) Lethargy Check for C in hospital
+(cid:132) Sunken eyes severe
+(cid:132) Very slow skin pinch malnutrition If severe malnutrition:
+(cid:132) Do not insert IV
+(cid:132) Proceed immediately to full
+assessment and treatment
+PRIORITY SIGNS
+These children need prompt assessment and treatment
+(cid:132) Tiny baby (<2 months)
+(cid:132) Temperature very high
+(cid:132) Trauma or other urgent surgical condition
+(cid:132) Pallor (severe)
+(cid:132) Poisoning (history of)
+(cid:132) Pain (severe)
+(cid:132) Respiratory distress
+(cid:132) Restless, continuously irritable, or lethargic
+(cid:132) Referral (urgent) Note: If a child has trauma or other
+(cid:132) Malnutrition: Visible severe wasting surgical problems, get surgical help
+(cid:132) Oedema of both feet or follow surgical guidelines
+(cid:132) Burns (major)
+NON-URGENT
+Proceed with assessment and further treatment according to the child's priority
+
+
+
+CHART 3. How to manage a choking child
+Back slaps Chest thrusts
+(cid:132) Lay the infant on your arm or thigh in a head down position
+(cid:132) Give 5 blows to the infant’s back with heel of hand
+(cid:132) If obstruction persists, turn infant over and give 5 chest thrusts with 2 fingers, one finger
+breadth below nipple level in midline (see diagram)
+(cid:132) If obstruction persists, check infant’s mouth for any obstruction which can be removed
+(cid:132) If necessary, repeat sequence with back slaps again
+Slapping the back to clear airway
+obstruction in a choking child
+(cid:132) Give 5 blows to the child’s back with heel of hand with
+child sitting, kneeling or lying
+(cid:132) If the obstruction persists, go behind the child and pass
+your arms around the child’s body; form a fist with one
+hand immediately below the child’s sternum; place the
+other hand over the fist and pull upwards into the
+abdomen (see diagram); repeat this Heimlich manoeuvre 5 times
+Heimlich manoeuvre in a
+(cid:132) If the obstruction persists, check the child’s mouth for any obstruction which can be
+removed choking older child
+(cid:132) If necessary, repeat this sequence with back
+slaps again
+
+
+
+CHART 4. How to manage the airway in a child with
+obstructed breathing (or who has just stopped breathing)
+NO NECK TRAUMA IS SUSPECTED
+Infant Older
+children
+Neutral position to open the Sniffing position to open the
+airway in an infant airway in an older child
+Child conscious
+(cid:132) Inspect mouth and remove foreign body, if
+present
+(cid:132) Clear secretions from throat
+(cid:132) Let child assume position of maximal
+comfort
+Child unconscious
+(cid:132) Tilt the head as shown
+(cid:132) Inspect mouth and remove foreign body, if
+present
+(cid:132) Clear secretions from throat
+(cid:132) Check the airway by looking for chest
+movements, listening for breath sounds and
+feeling for breath
+Look, listen and feel for breathing
+(cid:132) Follow guidelines in Chart 6
+NECK TRAUMA OR POSSIBLE CERVICAL SPINE INJURY IS SUSPECTED
+(cid:132) Stabilize the neck, as shown in Chart 6
+(cid:132) Inspect mouth and remove foreign body, if present
+(cid:132) Clear secretions from throat
+(cid:132) Check the airway by looking for chest movements, listening for
+breath sounds, and feeling for breath
+Use jaw thrust without head tilt. If the child is still not breathing after
+Place the 4th and 5th finger behind carrying out the above, ventilate
+the angle of the jaw and move it with bag and mask
+upwards so that the bottom of the
+jaw is thrust forwards, at 90° to the
+body
+
+
+
+CHART 5. How to give oxygen
+Give oxygen through nasal prongs or a nasal
+catheter
+Nasal Prongs
+(cid:132) Place the prongs just inside the nostrils and
+secure with tape
+Nasal Prongs
+Nasal Catheter
+(cid:132) Use an 8 FG size tube
+(cid:132) Measure the distance from the side of the
+nostril to the inner eyebrow margin with the
+catheter
+(cid:132) Insert the catheter to this depth
+(cid:132) Secure with tape
+Start oxygen flow at 1-2 litres/minute
+Nasal Catheter
+
+
+
+CHART 6. How to position the unconscious child
+If neck trauma is not suspected:
+(cid:132) Turn the child on the side to reduce risk of aspiration
+(cid:132) Keep the neck slightly extended and stabilize by placing cheek on one hand
+(cid:132) Bend one leg to stabilize the body position
+If neck trauma is suspected:
+(cid:132) Stabilize the child's neck and keep the
+child lying on the back
+(cid:132) Tape the child's forehead to the sides of a
+firm board to secure this position
+(cid:132) Prevent the neck from moving by
+supporting the child's head (e.g. using litre
+bags of IV fluid on each side)
+(cid:132) If vomiting, turn on the side, keeping the
+head in line with the body
+
+
+
+CHART 7. How to give IV fluids rapidly for shock in a child
+without severe malnutrition
+(cid:132) If the child is severely malnourished the fluid volume and rate are different, so check
+that the child is not severely malnourished
+Shock in child without severe malnutrition — Chart 8
+Shock in child with severe malnutrition — Chart 9
+(cid:132) Insert an intravenous line (and draw blood for emergency laboratory investigations)
+(cid:132) Attach Ringer’s lactate or normal saline—make sure the infusion is running well
+(cid:132) Infuse 20 ml/kg as rapidly as possible
+Age/weight Volume of Ringer’s lactate or normal saline solution
+(20 ml/kg)
+2 months (<4 kg) 75 ml
+2–<4 months (4–<6 kg) 100 ml
+4–<12 months (6–<10 kg) 150 ml
+1–<3 years (10–<14 kg) 250 ml
+3–<5 years (14–19 kg) 350 ml
+Reassess child after appropriate volume has run in
+Reassess after first infusion: If no improvement, repeat 20 ml/kg as rapidly as
+possible
+Reassess after second infusion: If no improvement, repeat 20 ml/kg as rapidly as
+possible
+Reassess after third infusion: If no improvement, give blood 20 ml/kg over 30
+minutes, unless the child has profuse diarrhoea
+Reassess after fourth infusion: If no improvement, see disease specific treatment
+guidelines. You should have established a
+provisional diagnosis by now.
+After improvement at any stage (pulse slows, faster capillary refill), go to Chart 11.
+
+
+
+CHART 8. How to give IV fluids for shock in a child with severe
+malnutrition
+Give this treatment only if the child has signs of shock and is lethargic or has lost
+consciousness:
+(cid:132) Insert an IV line (and draw blood for emergency laboratory investigations)
+(cid:132) Weigh the child (or estimate the weight) to calculate the volume of fluid to be given
+(cid:132) Give IV fluid 15 ml/kg over 1 hour. Use one of the following solutions (in order of
+preference) according to availability:
+- Ringer's lactate with 5% glucose (dextrose); or
+- half-normal saline with 5% glucose (dextrose); or
+- half-strength Darrow's solution with 5% glucose (dextrose); or, if these are unavailable,
+- Ringer's lactate.
+Weight Volume IV fluid Weight Volume IV fluid
+Give over 1 hour (15 ml/kg) Give over 1 hour (15 ml/kg)
+4 kg 60 ml 12 kg 180 ml
+6 kg 90 ml 14 kg 210 ml
+8 kg 120 ml 16 kg 240 ml
+10 kg 150 ml 18 kg 270 ml
+(cid:132) Measure the pulse and breathing rate at the start and every 5-10 minutes.
+If there are signs of improvement:
+- give repeat IV 15 ml/kg over 1 hour; then
+- switch to oral or nasogastric rehydration with ReSoMal, 10 ml/kg/h up to 10 hours;
+then
+- initiate refeeding with starter F-75.
+If the child fails to improve after the first 15ml/kg IV, assume the child has septic shock:
+- give maintenance IV fluid (4 ml/kg/h) while waiting for blood;
+- when blood is available, transfuse fresh whole blood at 10 ml/kg slowly over 3 hours
+(use packed cells if in cardiac failure); then
+- initiate refeeding with starter F-75 .
+- start antibiotic treatment.
+If the child deteriorates during the IV rehydration (breathing increases by 5 breaths/min
+or pulse by 15 beats/min), stop the infusion because IV fluid can worsen the child's
+condition.
+
+
+
+CHART 9. How to give diazepam (or paraldehyde) rectally
+Give diazepam rectally:
+(cid:132) Draw up the dose from an ampoule of diazepam into a tuberculin (1 ml) syringe. Base
+the dose on the weight of the child, where possible. Then remove the needle.
+(cid:132) Insert the syringe into the rectum 4 to 5 cm and inject the diazepam solution.
+(cid:132) Hold buttocks together for a few minutes.
+Diazepam given rectally Paraldehyde given
+10 mg/2ml solution rectally
+Age/weight Dose 0.1ml/kg Dose 0.3-0.4 ml/kg
+2 weeks to 2 months (< 4 kg)* 0.3 ml (1.5 mg) 1.0 ml
+2-<4 months (4-<6 kg) 0.5 ml (2.5 mg) 1.6 ml
+4-<12 months (6--<10 kg) 1.0 ml (5 mg) 2.4 ml
+1-<3 years (10-<14 kg) 1.25 ml (6.25 mg) 4 ml
+3-<5 years (14-19 kg) 1.5 ml (7.5 mg) 5 ml
+If convulsion continues after 10 minutes, give a second dose of diazepam rectally (or
+give diazepam intravenously (0.05 ml/kg) if IV infusion is running).
+If convulsion continues after another 10 minutes, give a third dose of diazepam or
+give paraldehyde rectally (or phenobarbital IV or IM 15 mg/kg).
+If high fever:
+(cid:132) Sponge the child with room-temperature water to reduce the fever.
+(cid:132) Do not give oral medication until the convulsion has been controlled (danger of
+aspiration).
+* Use phenobarbital (200 mg/ml solution) in a dose of 20 mg/kg to control convulsions in
+infants <2 weeks of age:
+Weight 2 kg-initial dose: 0.2 ml, repeat 0.1 ml after 30 minutes If convulsions
+Weight 3 kg-initial dose: 0.3 ml, repeat 0.15 ml after 30 minutes continue
+
+
+#### [Table Content]
+| Diazepam given rectally Paraldehyde given 10 mg/2ml solution rectally |
+| --- |
+| Age/weight Dose 0.1ml/kg Dose 0.3-0.4 ml/kg |
+
+
+
+
+CHART 10. How to give IV glucose
+(cid:132) Insert IV line and draw blood rapidly for emergency laboratory investigations
+(cid:132) Check blood glucose. If low (<2.5 mmol/litre (45 mg/dl) in a well nourished or <3 mmol/
+litre (55 mg/dl) in a severely malnourished child) or if dextrostix is not available:
+(cid:132) Give 5 ml/kg of 10% glucose solution rapidly by IV injection
+Age/weight Volume of 10% glucose solution to give
+as bolus (5 ml/kg)
+Less than 2 months (<4 kg) 15 ml
+2–<4 months (4–<6 kg) 25 ml
+4–<12 months (6–<10 kg) 40 ml
+1–<3 years (10–<14 kg) 60 ml
+3–<5 years (14–19 kg) 80 ml
+(cid:132) Recheck the blood glucose in 30 minutes. If it is still low, repeat 5 ml/kg of 10% glucose
+solution.
+(cid:132) Feed the child as soon as conscious.
+If not able to feed without danger of aspiration, give:
+- milk or sugar solution via nasogastric tube (to make sugar solution, dissolve 4 level
+teaspoons of sugar (20 grams) in a 200-ml cup of clean water), or
+- IV containing 5-10% glucose (dextrose)
+Note: 50% glucose solution is the same as 50% dextrose solution or D50. If only 50%
+glucose solution is available: dilute 1 part 50% glucose solution to 4 parts sterile water, or
+dilute 1 part 50% glucose solution to 9 parts 5% glucose solution.
+Note: For reliable results, take great care with the dextrostix test. The strip must be stored
+in its box, at 2-3 °C, avoiding sunlight or high humidity. A drop of blood should be placed on
+the strip (it is necessary to cover all the reagent area). After 60 seconds, the blood should
+be washed off gently with drops of cold water and the colour compared with the key on the
+bottle or on the blood glucose reader. (The exact procedure will vary with different strips.)
+
+
+
+CHART 11. How to treat severe dehydration in an emergency
+setting
+For children with severe dehydration but without shock, refer to Table 12, page 47.
+If the child is in shock, first follow the instructions in Charts 7 and 8. Switch to the present
+chart when the child's pulse becomes slower or the capillary refill is faster.
+Give 70 ml/kg of Ringer's lactate solution (or, if not available, normal saline) over 5 hours in
+infants (aged <12 months) and over 21/2 hours in children (aged 12 months to 5 years).
+Total volume IV fluid (volume per hour)
+Age <12 months Age 12 months to 5 years
+Weight Give over 5 hours Give over 2.5 hours
+<4 kg 200 ml (40 ml/h) -
+4-<6 kg 350 ml (70 ml/h) -
+6-<10 kg 550 ml (110 ml/h) 550 ml (220 ml/h)
+10-<14 kg 850 ml (170 ml/h) 850 ml (340 ml/h)
+14-19 kg 1200 ml (240 ml/h) 1200 ml (480 ml/h)
+Reassess the child every 1-2 hours. If the hydration status is not improving, give the IV drip
+more rapidly.
+Also give ORS solution (about 5 ml/kg/hour) as soon as the child can drink; this is usually
+after 3-4 hours (in infants) or 1-2 hours (in children).
+Weight Volume of ORS solution per hour
+<4 kg 15 ml
+4–<6 kg 25 ml
+6–<10 kg 40 ml
+10–<14 kg 60 ml
+14–19 kg 85 ml
+Reassess after 6 hours (infants) and after 3 hours (children). Classify dehydration. Then
+choose the appropriate plan (A, B, or C) to continue treatment.
+If possible, observe the child for at least 6 hours after rehydration to be sure that the mother
+can maintain hydration by giving the child ORS solution by mouth.
+
+
+#### [Table Content]
+| Total volume IV fluid (volume per hour) |
+| --- |
+| Age <12 months Age 12 months to 5 years Weight Give over 5 hours Give over 2.5 hours |
+
+
+
+

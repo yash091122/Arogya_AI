@@ -1,0 +1,3837 @@
+
+
+
+EMERGENCY
+TRIAGE
+EDUCATION
+KIT
+
+
+
+
+
+
+EMERGENCY
+TRIAGE
+EDUCATION
+KIT
+
+
+
+ISBN: 1-74186-411-9
+Online ISBN: 1-74186-412-7
+Publications Approval Number: P3-5240
+Copyright Statement:
+(c) Commonwealth of Australia 2009
+This work is copyright. Apart from any use as permitted under the Copyright Act 1968, no part may be
+reproduced by any process without prior written permission from the Commonwealth. Requests and
+inquiries concerning reproduction and rights should be addressed to the Commonwealth Copyright
+Administration, Attorney-General’s Department, Robert Garran Offces, National Circuit, Barton ACT
+2600 or posted at http://www.ag.gov.au/cca
+PO Box 9848, CANBERRA CITY ACT 2601
+Website: www.health.gov.au/publicat.html
+October 2007
+
+
+
+CONTENTS
+FOREWORD V
+ACKNOWLEDGEMENTS VI
+INTRODUCTION VII
+CHAPTER 1: INTRODUCTION 1
+Statement of purpose 1
+Learning outcomes 1
+Learning objectives 1
+Content 2
+CHAPTER 2: THE AUSTRALASIAN TRIAGE SCALE 9
+Statement of purpose 9
+Learning outcomes 9
+Learning objectives 9
+Content 10
+CHAPTER 3: COMMUNICATION ISSUES 13
+Statement of purpose 13 III
+Learning outcomes 13
+Learning objectives 13
+Content 14
+CHAPTER 4: TRIAGE BASICS 18
+Statement of purpose 18
+Learning outcomes 18
+Learning objectives 18
+Content 19
+CHAPTER 5: MENTAL HEALTH TRIAGE 26
+Statement of purpose 26
+Learning outcomes 26
+Learning objectives 26
+Content 27
+CHAPTER 6: RURAL AND REMOTE TRIAGING 35
+Statement of purpose 35
+Learning outcomes 35
+Learning objectives 35
+Content 36
+
+
+
+CHAPTER 7: PAIN ASSESSMENT AT TRIAGE 39
+Statement of purpose 39
+Learning outcomes 39
+Learning objectives 39
+Content 40
+CHAPTER 8: PAEDIATRIC TRIAGE 43
+Statement of purpose 43
+Learning outcomes 43
+Learning objectives 43
+Content 44
+CHAPTER 9: PREGNANCY ANDTRIAGE 50
+Statement of purpose 50
+Learning outcomes 50
+Learning objectives 50
+Content 51
+CHAPTER 10: MEDICO–LEGAL ISSUES 55
+Statement of purpose 55
+IV Learning outcomes 55
+Learning objectives 55
+Content 55
+INDEX 60
+
+
+
+FOREWORD
+In 2005–06, nearly 4.8 million people presented to emergency departments in larger
+Australian hospitals. Only 12 per cent were non-urgent cases. Sixty nine per cent of people
+were seen within the time recommended for their triage category, with half of this number
+seen in less than 24 minutes.
+Despite the pressure on triage staff working, the fgures show that they mostly get it right.
+Providing accurate and timely assessments of seriously ill patients, based on urgency, is what
+makes the triage system work.
+A clinically based system of triaging ensures that patients needing priority medical care get
+it. The Emergency Triage Education Kit aims to provide further support to Triage Nurses.
+This revised edition includes more than 150 scenarios designed to strengthen Triage Nurses’
+assessment skills. It also covers complex areas such as mental health, paediatrics, obstetrics
+and rural/remote triage. It aims to help nurses provide better assistance to people
+presenting to emergency departments.
+V
+The kit was funded by the Commonwealth Government and developed in collaboration
+with the Australasian College of Emergency Medicine, the Australasian College of
+Emergency Nursing, the College of Emergency Nursing Australasia and the Council of
+Remote Area Nurses of Australia.
+Tony Abbott MP
+Minister for Health and Ageing
+
+
+
+ACKNOWLEDGEMENTS
+Many people and organisations have been involved in the development of this kit.
+Their feedback and contribution is gratefully appreciated.
+The contributing authors were:
+• University of Melbourne, School of Enterprise
+– Marie Frances Gerdtz
+– Julie Considine
+– Natisha Sands
+– Carmel Josephine Stewart
+– Diane Crellin
+– Wendy Elizabeth Pollock.
+• LearnPRN
+– Robin Tchernomoroff
+– Kaye Knight.
+• Amanda Charles.
+The National Education Framework for Emergency Triage Working Party, oversaw
+VI
+production and validation of the education tools detailed in this manual.
+The members were:
+• Dr Matthew Chu, Australasian College for Emergency Medicine (ACEM), Director
+of Emergency Medicine, Canterbury Hospital
+• Ms Tracey Couttie, Paediatrics Triage Clinical Nurse Consultant, Paediatrics Triage,
+Emergency Department, Wollongong Hospital
+• Ms Judy Harris, College of Emergency Nursing Australasia (CENA), State
+Management Committee member of CENA, Redcliffe Hospital
+• Dr Marie Gerdtz, Nurse Education, Lecturer in Nurse Education, School of Post
+Graduate Nursing, University of Melbourne
+• Mr Audas Grant, Rural Clinical Nurse Consultant, Clinical Nurse Consultant, Albury
+Base Hospital
+• Dr Didier Palmer, Emergency Medicine, Senior Lecturer and Consultant, Emergency
+Physician, Royal Darwin Hospital
+• Ms Cecily Pollard, Mental Health Liaison Nurse, Liaison Psychiatry Unit, Royal
+Hobart Hospital
+• Ms Karen Schnitzerling, Director of Nursing, West Coast District Hospital.
+Council of Remote Area Nurses of Australia (CRANA)
+• Ms Robin Tchernomoroff, Board Member, Australian College of Emergency Nursing
+Ltd (ACEN), Director LearnPRN Pty Ltd
+• Associate Professor Jeff Wassertheil, Australasian College for Emergency Medicine
+(ACEM), Director Emergency Medicine, Peninsula Health
+• Mr Rob Wyber-Hughes, Director, Council of Remote Area Nurses of Australia (CRANA),
+• Mr Gordon Tomes, Project Director, Department of Health and Ageing, Acute
+Care Division.
+The Department of Health and Ageing would also like to acknowledge the assistance of the
+
+
+
+INTRODUCTION
+In November 2001, the then Department of Health and Aged Care funded the development
+of a resource book for nurse educators to promote the consistent application of the
+Australasian Triage Scale (ATS).
+This resource is founded on the original feldwork of Whitby, Leraci, Johnson and Mohsin
+(1997) that described the clinical features used by Triage Nurses to assess urgency in
+relation to patient presentations to emergency departments. The ATS (formerly known
+as the National Triage Scale) has been shown to be both a reliable and valid instrument
+for sorting patients according to their care requirements in order to optimise clinical
+outcomes in emergency departments (FitzGerald 1989; Whitby, Leraci S et al. 1997).
+In the past decade, a number of researchers have documented acceptable levels of
+inter-rater reliability among Triage Nurses using the ATS and confrmed its utility in practice
+(FitzGerald 1989; Jelinek 1996; Dilley 1998; Whitby, et al. 1997).Throughout Australia, triage
+standards regarding time-to-treatment and performance thresholds are now uniformly
+employed to quantify both the quality of emergency care and to measure emergency VII
+department casemix (FitzGerald 2000).
+Enhancing the consistency of the application of the ATS is a shared goal for emergency
+nursing, the Australasian College for Emergency Medicine (ACEM) and the Australian
+Government Department of Health and Ageing.
+The frst edition of the Emergency Triage Education Kit (ETEK) was published in April
+2002 as the Triage Education Resource Book (TERB). This revised edition is the result
+of a collaborative effort between the Australasian College for Emergency Medicine, the
+Australian College of Emergency Nursing, the College of Emergency Nursing Australasia
+and the Council of Remote Area Nurses of Australia.
+Emergency care is recognised as a nursing specialty of the National Specialisation
+Framework for Nursing and Midwifery (2006). Additionally, an outcome of the National
+Health Workforce Strategic Framework (2004) is to build a suitably trained, competent and
+sustainable health workforce. To underpin this, a single national accreditation scheme for
+health education and training is to be put in place by 1 July 2008. The Department believes
+the content of this revised education kit will provide valuable input to the development of
+emergency triage training materials to support the national accreditation scheme for the
+emergency care nursing speciality.
+
+
+
+
+
+
+CHAPTER 1: INTRODUCTION
+Statement of purpose
+The purposes of this chapter are to:
+• Provide an overview of the triage education program and emphasise its role in
+optimising triage consistency throughout Australia; and
+• Discuss the purpose of triage systems in the context of acute health care delivery.
+Learning outcomes
+After completing this chapter, participants will have a clear understanding of the triage
+education program’s purpose and structure and how the content may be applied in their
+work environment.
+Participants will also develop an appreciation of the national and international developments 1
+that form the basis of emergency department (ED) triage in Australia. They will also be able
+to identify factors infuencing consistency of triage in that context.
+Learning objectives
+• State the aims and purpose of ED triage systems.
+• Differentiate the purpose of military and disaster triage systems from ED triage systems.
+• Define ‘urgency’.
+• Make a distinction between the concepts of urgency, severity and complexity of
+illness and injury.
+• Compare and contrast the basic categories of the Australasian Triage Scale (ATS)
+with the Canadian Triage and Acuity Scale (CTAS), the Manchester Triage Scale
+(MTS), and the Emergency Severity Index (ESI).
+• Identify the four essential features of a robust triage scale and discuss these with
+respect to the ATS.
+Key points
+• A triage system is the essential structure by which all incoming emergency
+patients are prioritised using a standard rating scale. The purpose of a triage
+system is to ensure that the level of emergency care provided is commensurate
+with clinical criteria.
+• ‘Urgency’ is determined according to the patient’s condition on arrival at the ED.
+• A five-tier triage scale is a valid and reliable method for categorising ED patients.
+• This program forms part of a national strategy aimed at optimising consistency of
+triage using the ATS.
+
+
+
+Content
+The program aims to provide a nationally consistent approach to the educational
+preparation of nurses for the triage role, particularly the consistent application of the
+Australasian Triage Scale (ATS).1,2
+The program’s educational strategy integrates available evidence into a valid set of training
+tools. These tools are used by clinicians* performing triage in hospital EDs and those working
+in rural and remote area health services who make triage decisions as part of their role.
+The program provides teaching strategies to assist educators in the delivery of specifc
+triage training to suitably qualifed and experienced emergency nurses.
+In the context of rural and remote environments, the program can be used as a
+self-directed learning package because the core principles for consistent application of the
+ATS still apply.
+Program structure
+2
+The course content has been designed to allow for the inclusion of locally based policies
+and protocols to optimise consistency of triage or reduce ED transit time.
+The program comprises the following 10 individual learning units.
+• Chapter 1: Introduction
+• Chapter 2: The Australasian Triage Scale
+• Chapter 3: Communication issues at triage
+• Chapter 4: Triage basics
+• Chapter 5: Mental health triage
+• Chapter 6: Rural and remote triage
+• Chapter 7: Pain assessment at triage
+• Chapter 8: Paediatric triage
+• Chapter 9: Obstetric triage
+• Chapter 10: Medico–legal issues at triage.
+Each chapter comprises a summary of the key points related to the topic, lesson plans,
+learning activities and resource materials, including web-based materials, evidence-based
+reviews, research articles and opinion papers. A summary of each available resource is also
+provided, stating how the information can be used for training and/or practice.
+
+
+
+Program implementation
+The process for implementing the program involves the following steps:
+1. Selection of appropriate participants.
+The selection of participants to undertake the program will be informed by local
+policy. Individual organisations will be responsible for setting criteria with respect
+to the level of emergency experience and qualifcations required for entry into the
+program. Importantly, there is no minimum number of participants required;
+however it is desirable for participants to have opportunities for group discussions
+with their peers during the program.
+2. Implementation of the lesson plans.
+The implementation of the lesson plans involves the completion of a series of
+structured learning activities. Each of the 10 lesson plans comprises learning
+objectives, a synopsis of the literature relevant to the topics discussed, teaching
+strategies including learning activities, multiple-choice questions, discussion points
+and/or patient scenarios, and a list of additional resources for use by participants.
+The fnal two chapters consolidate and test the participant’s knowledge.
+3
+Successful completion of the program is at the discretion of the instructor*. In settings
+where there is no infrastructure for triage training, the program can be used as a
+self-paced learning resource, with participants working through the readings and learning
+activities in a structured way.
+Defnitions
+Triage system: The process by which a clinician assesses a patient’s clinical urgency.
+Triage: A triage system is the basic structure in which all incoming patients are categorised
+into groups using a standard urgency rating scale or structure.3
+Re-triage: Clinical status is a dynamic state for all patients. If clinical status changes in a
+way that will impact upon the triage category, or if additional information becomes available
+that will infuence urgency (see below), then re-triage must occur. When a patient is
+re-triaged, the initial triage code and any subsequent triage code must be documented. The
+reason for re-triaging must also be documented.2,6
+Urgency: Urgency is determined according to the patient’s clinical condition and is used
+to ‘determine the speed of intervention that is necessary to achieve an optimal outcome’.4
+Urgency is independent of the severity or complexity of an illness or injury.5 For example,
+patients may be triaged to a lower urgency rating because it is safe for them to wait for an
+emergency assessment, even though they may still eventually require a hospital admission
+for their condition or have signifcant morbidity and attendant mortality.2
+* The instructor will be the nominated person within the organisation who is responsible for clinical
+
+
+
+A brief history of triage
+The term ‘triage’ is derived from the French work trier, meaning to pick or to sort.7 Triage
+systems were frst used to prioritise medical care during the Napoleonic wars of the
+late 18th century.8 Subsequent wars have led to the refnement of systems for the rapid
+removal of the injured from the battlefeld to places providing defnitive care. Mass Casualty
+Incident (MCI) triaging has also been developed and continues to evolve. The underlying
+principle of MCI triage is to achieve the greatest good for the greatest number of casualties
+in a setting where clinical demand overwhelms the available resources.
+In civilian medicine, triage systems have been refned and adapted for use within a range
+of settings. In all health care environments, the triage process is underpinned by the
+premise that a reduction in the time taken to access defnitive medical care will improve
+patient outcomes.
+Emergency department triage
+Australia is experiencing increased public demand for emergency medical care. Current
+4 trends indicate a growth in the number of ED presentations in many locations; the reasons
+for this growth are varied and complex.9
+Standardised triage scales are useful in developing strategies to manage ED demand. In
+this context they can also be used to inform clinical service development, clinical risk
+management and patient safety.10
+Purpose of a triage system
+The purpose of a triage system is to ensure that the level and quality of care that is
+delivered to the community is commensurate with objective clinical criteria, rather than
+administrative or organisational need. In this way, standardised triage systems aim to
+optimise the safety and the effciency of hospital-based emergency services and to ensure
+equity of access to health services across the population.
+The use of a standard triage system facilitates quality improvement in EDs, because it allows
+for comparisons of key performance indicators (i.e. time-to-treatment by triage category)
+both within and between EDs. Since the early 1990s the use of computerised information
+systems in Australian EDs has permitted the precise calculation of time-to-treatment
+against a variety of patient outcomes, including triage code, chief complaint, diagnosis and
+discharge destination.
+
+
+
+Function of triage
+Triage is an essential function underpinning the delivery of care in all EDs, where any
+number of people with a range of conditions may present at the same time. Although
+triage systems may function in slightly different ways according to a number of local factors,
+effective triage systems share the following important features:5
+• A single entry point for all incoming patients (ambulant and non-ambulant), so that
+all patients are subjected to the same assessment process.
+• A physical environment that is suitable for undertaking a brief assessment. It needs
+to include easy access to patients which balances clinical, security and administrative
+requirements, and the availability of frst aid equipment and hand-washing facilities.
+• An organised patient processing system that enables easy flow of patient information
+from point of triage through to ED assessment, treatment and disposition.
+• Timely data on ED activity levels, including systems for notifying the department of
+incoming patients from ambulance and other emergency services.
+Emergency triage scales
+5
+Internationally, fve-tier triage scales have been shown to be a valid and reliable method for
+categorising people who are seeking assessment and treatment in hospital EDs.11-22 These
+scales show a greater degree of precision and reliability when compared with either
+three-tier23 or four-tier triage systems.3
+The features of a robust triage system can be evaluated according to the following four criteria:
+• Utility: The scale must be relatively easy to understand and simple to apply by
+emergency nurses and physicians.
+• Validity: The scale should measure what it is designed to measure; that is, it should
+measure clinical urgency as opposed to severity or complexity of illness or some
+other aspect of the presentation or of the emergency environment.
+• Reliability: The application of the scale must be independent of the nurse or
+physician performing the role, that is, it should be consistent. ‘Inter-rater reliability’ is
+the term used for the statistical measure of agreement that is achieved by two or
+more raters using the same scale.24
+• Safety: Triage decisions must be commensurate with objective clinical criteria and
+must optimise time to medical intervention. In addition, triage scales must be sensitive
+enough to capture novel presentations of high acuity.3
+The Australasian Triage Scale (ATS), formerly the National Triage Scale (NTS)
+The National Triage Scale (NTS) was implemented in 1993, becoming the frst triage system
+to be used in all publicly funded EDs throughout Australia. In the late 1990s, the NTS
+underwent refnement and was subsequently renamed the Australasian Triage Scale (ATS).
+
+
+
+The ATS has fve levels of acuity:2
+• Immediately life-threatening (category 1)
+• Imminently life-threatening (category 2)
+• Potentially life-threatening or important time-critical treatment or severe pain (category 3)
+• Potentially life-serious or situational urgency or significant complexity (category 4)
+• Less urgent (category 5).
+The ATS has been endorsed by the Australasian College for Emergency Medicine1 and
+adopted in performance indicators by the Australian Council on Healthcare Standards.25
+Canadian Triage and Acuity Scale (CTAS)
+The Canadian Triage and Acuity Scale (CTAS) was offcially included in policy throughout
+Canada in 1997.
+The CTAS has been endorsed by the Canadian Association of Emergency Physicians and the
+National Emergency Nurses Affliation of Canada.
+6 This scale is very similar to the ATS in terms of time-to-treatment objectives, with the
+exception of category 2, which is <15 minutes rather <10 minutes as in the ATS.
+Manchester Triage Scale (MTS)
+The Manchester Triage Scale (MTS) was jointly developed by the Royal College of
+Nursing Accident and Emergency Association and the British Association for Accident and
+Emergency Medicine.
+The MTS differs from both the ATS and the CTAS in that it is an algorithm-based approach
+to decision-making.3 The MTS involves the use of 52 separate fow charts that require the
+decision-maker to select the appropriate algorithm on the basis of the presenting complaint,
+and then gather and analyse information according to life threat, pain, haemorrhage,
+consciousness level, temperature, and the duration of signs and symptoms.
+The MTS requires standard documentation, and this streamlined approach is believed to
+save time as the documentation is simplifed. In addition, the approach is thought to be
+particularly benefcial for novice nurses because the decision-making process occurs within
+very well-defned parameters.
+
+
+
+Emergency Severity Index (ESI)
+The Emergency Severity Index (ESI) is a system of triage categorisation that is based
+on both treatment acuity (How soon should a patient be seen?) and resource consumption
+(What resources is the patient likely to require?). The ESI has been refned on a number of
+occasions.21,22,26 It has been found to be reliable when tested using written case scenarios,21
+and is currently being considered for use across the United States of America.24
+The triage role
+Triage decision-making is an inherently complex and dynamic process. Decisions are made
+within a time-sensitive environment, with limited information, for patients who generally
+do not have a medical diagnosis. Due to the multifaceted nature of the triage role, nurses
+are required to possess specialised knowledge as well as experience with a wide range of
+illness and injuries. Triage decisions can be divided into primary and secondary categories
+according to the aims of the triage system. Understanding these decision types is helpful in
+describing the roles and responsibilities of the Triage Nurse in actual practice.
+‘Primary triage decisions’ relate to the establishment of a chief complaint and the allocation
+7
+of urgency. When a triage code is selected there are three possible outcomes:
+• ‘Under-triage’ in which the patient receives a triage code that is lower than their
+true level of urgency (as determined by objective clinical and physiological
+indicators). This decision has the potential to result in a prolonged waiting time to
+medical intervention for the patient and risks an adverse outcome.24,27
+• ‘Correct (or expected) triage decision’ in which the patient receives a triage code
+that is commensurate with their true level of urgency (as determined by objective
+clinical and physiological indicators). This decision optimises time to medical
+intervention for the patient and limits the risk of an adverse outcome.24,27
+• ‘Over-triage’ in which the patient receives a triage code that is higher than their true
+level of urgency. This decision has the potential to result in a shortened waiting time
+to medical intervention for the patient, however, it risks an adverse outcome
+for other patients waiting to be seen in the ED because they have to wait longer.
+The Triage Nurse makes urgency decisions using clinical and historical information to avoid
+systematic under- or over-triage. ‘Secondary triage decisions’ are concerned with expediting
+emergency care and disposition.28,29 The Triage Nurse employs locally based policies and
+procedure to expedite care for all patients where appropriate.
+All patients in the waiting room must be reassessed by the Triage Nurse once the triage time
+has expired. This second assessment should always be documented in the patient’s notes.6
+
+
+
+The role of education in optimising triage outcomes
+The ability of any triage system to achieve its aims is based on the assumption that
+decision-making is consistent over time and among the clinicians who use the scale.
+The successful implementation of this program forms part of a longstanding national
+commitment among peak emergency nursing, medicine and government bodies to achieve
+consistency of triage using the ATS by providing a coherent approach to preparing clinicians
+for practice.
+8
+
+
+
+CHAPTER 2: THE AUSTRALASIAN
+TRIAGE SCALE
+Statement of purpose
+This chapter focuses on the research evidence that has supported the implementation of
+the ATS.
+The purposes of this chapter are to:
+• Provide an overview of the ATS and its expected outcomes;
+• Discuss factors that influence the validity and the reliability of the ATS; and
+• Identify how the ATS is used as a quality indicator in Australian EDs.
+Learning outcomes
+After completing this chapter, participants will have developed knowledge of the outcomes
+9
+of the ATS.
+Learning objectives
+• Describe the five categories of the ATS in terms of time-to-treatment and
+clinical descriptors.
+• Consider how triage decisions are used to assess ED performance.
+• Discuss the major environmental factors that threaten consistency of triage.
+Key points
+• The ATS aims to provide a timely assessment of all people who present to the
+ED on the basis of clinical criteria.
+• The time-to-treatment criteria attached to the ATS categories describe the
+maximum time a patient can safely wait for medical assessment and treatment.
+• The decision to allocate a triage code using the ATS should take no more than
+fve minutes.
+• Each ED presentation must be assessed as a unique episode of illness/injury that
+is independent of chronicity and frequency of presentation.
+
+
+
+Content
+Philosophy
+The philosophy underpinning the use of the ATS is based on the values of justice and
+effciency in health service delivery.4, 17 The ATS has been designed to provide a timely
+assessment and medical intervention for all people who present to an ED. Implicit within
+this framework is the principle that it is neither clinically or ethically appropriate to expect
+any group of people to routinely wait longer than two hours for medical care in an ED.1
+Development
+FitzGerald (1989) frst tested the validity and reliability of the Ipswich Triage Scale (ITS),
+which was an adaptation of the Box Hill Hospital System. He examined correlations
+between triage codes and outcome measures, including in-hospital mortality and admission
+rates. Informed by this original work, the development and implementation of the National
+Triage Scale (NTS) throughout Australia occurred in 1993.
+10 The subsequent implementation of the ATS was supported by a process of consultation
+by the Commonwealth Department of Health and Family Services with clinicians and key
+professional bodies throughout Australasia. Research by Whitby, Leraci et al. (1997) was
+used in the ATS to describe the clinical features associated with urgency and to develop
+more comprehensive descriptions of each of the fve triage categories.
+Within the ATS framework, urgency is a function of both the patient’s clinical risk and
+the severity of their symptoms. The strength of the ATS lies in its use of physiological
+descriptors to tier common complaints into the appropriate triage category. This approach
+can enhance decision-making by reducing the time taken to determine a triage code.3
+A comprehensive explanation of the ATS, and the descriptors for each of the ATS
+categories, are provided in Appendix B.
+Application
+The application of the ATS is underpinned by the formulation of a chief complaint, which
+is identifed from a brief history of the presenting illness or injury. Triage decisions using
+the scale are made on the basis of observation of general appearance, focused clinical
+history and physiological data. Clinicians who undertake the role must have experience in
+the assessment of a wide range of illness and injury. They must also meet organisational
+requirements to undertake the role. An assessment of their suitability for the role should
+also be judged on the individual’s ability to consistently and independently make sound
+clinical decisions in a time-pressured environment.32
+
+
+
+Outcomes
+Time-to-treatment
+The time-to-treatment criteria attached to the ATS categories describe the ideal maximum
+time a patient can safely wait for medical assessment and treatment. The extent to
+which these criteria can be met is routinely evaluated against nationally recommended
+performance standards for each of the fve ATS categories. These performance indicator
+thresholds are outlined in the Australasian College for Emergency Medicine’s policy
+document for the ATS1 and are detailed in Table 2.1.
+Table 2.1: ATS categories for treatment acuity and performance thresholds1
+ATS category Treatment acuity Performance
+(maximum waiting time) indicator (%)
+1 Immediate 100
+2 10 minutes 80
+3 30 minutes 75 11
+4 60 minutes 70
+5 120 minutes 70
+The performance indicators describe the minimum percentage of presentations per
+ATS category that are expected to achieve the ideal time-to-treatment criteria. In
+situations where achievement of a performance indicator is at risk, organisational
+strategies should be implemented to satisfy demand and meet clinical needs.1
+Consistency of triage
+The degree to which clinicians agree on the allocation of a triage code across populations
+is a marker of the reliability of the ATS.
+For more than a decade, research has been conducted to assess the consistency of
+triage achieved using the ATS.17,19,20,33 While these studies have been helpful in
+understanding the ways in which groups of nurses use the ATS, they have also repeatedly
+highlighted the diffculties associated with measuring triage consistency in clinical practice.
+For this reason, evaluation of consistency of triage is carried out at a macro, rather than a
+micro level*. For example, the distribution of presentations across the fve categories of the
+ATS, commonly referred to as ‘footprints’, is helpful in assessing consistency. These can be
+compared between EDs with similar demographic profles to detect systemic
+under- or over-triage.
+See http://www.aihw.gov.au/hospitals
+
+
+#### [Table Content]
+| ATS category | Treatment acuity (maximum waiting time) | Performance indicator (%) |
+| --- | --- | --- |
+| 1 | Immediate | 100 |
+| 2 | 10 minutes | 80 |
+| 3 | 30 minutes | 75 |
+| 4 | 60 minutes | 70 |
+| 5 | 120 minutes | 70 |
+
+
+
+
+Factors that infuence triage decision-making using the ATS
+A number of non-clinical factors are known to threaten the reliability and utility of
+fve-tier triage scales. These factors relate to patient and environmental infuences.19.34
+Environmental factors such as staffng, skill-mix and ED activity level must not infuence
+urgency allocation.
+The potential for a person to leave the ED without medical treatment is not considered
+a valid reason for upgrading a triage code. Additionally, caution must be exercised when a
+person has had multiple presentations to the ED with the same or similar complaints. In such
+situations it is essential that each presentation be assessed and triaged as a new episode.
+Frequency of presentations to the ED must not infuence the allocation of a triage code.
+12
+
+
+
+CHAPTER 3: COMMUNICATION
+ISSUES
+Statement of purpose
+The purpose of this chapter is to emphasise the importance of communication in enhancing
+the effectiveness and accuracy of the triage process.
+Learning outcomes
+After completing this chapter, participants will be able to identify barriers to effective
+communication at triage. Awareness of these barriers will inform the development of
+strategies to optimise communication within their own triage environments.
+Participants are encouraged to refect upon their own communication style and to develop
+strategies to manage communication situations that they fnd challenging. 13
+Learning objectives
+• Appreciate the importance of communication at triage.
+• Identify and discuss factors that may influence the communication process at triage.
+• Discuss how quality of communication impacts upon assessment of urgency using
+the ATS.
+• Discuss strategies to enhance the communication process within own triage
+environment.
+• Analyse and reflect on specific strategies to manage challenging communication
+encounters at triage.
+Key points
+• Patient actions and reactions at triage will be influenced by the nurse’s ability to
+manage the communication process.
+• Communication is a two-way process that involves both verbal and non-verbal
+components equally.
+• The better the communication, the more data gained and the more informed and
+accurate the triage assessment.
+• Never underestimate the effect of environment and influencing factors on
+communication.
+• Remain calm. Listen, interpret, explain with care, and check for understanding.
+• Be aware of your own reactions, triggers and need for support.
+
+
+
+Content
+Emergency departments are often areas of high activity, excitement and emotion, and
+this commences at triage.131 Imagine a busy department: patients lining up at the desk;
+ambulances bringing in more patients on trolleys; relatives, crying children and other staff
+seeking advice and information. The Triage Nurse is often the common link in all this
+activity, and must be able to communicate effectively with relatives, ambulance offcers,
+medical and other nursing staff, and clerical staff and visitors, as well as establish a functional
+communication process to allow effective patient assessment.
+As the triage clinician, you must make a needs-based assessment based on the information
+you obtain during the triage encounter. Effective communication is essential to obtaining
+accurate information, and therefore making an accurate assessment, at this time. When
+problems occur within the communication process, the ability of the Triage Nurse to gather
+the required information may be compromised. It is vital for the Triage Nurse to be aware
+of the potential barriers to effective communication in the triage environment131 and to
+minimise their impact upon the triage encounter.
+So, what do we do if verbal communication is impossible, as in the case of a patient
+14
+who is unconscious? In such instances, having a sound skill base in physical assessment is
+paramount, as the collection of data by which to identify physiological predictors and thus
+determine urgency becomes our primary triage method. Remember, too, that in some
+instances communication through a third person, such as a relative, caregiver or interpreter,
+may contribute to the assessment process. In such cases communication may also be
+challenging, as the message sent from the third person is their own interpretation of events,
+which provides another potential barrier.
+Communication is a process of sending and receiving messages between individuals
+within a dynamic context. Each individual carries responsibilities as both sender and
+receiver of messages. The entire communication encounter is infuenced by a range of
+factors and stimuli.132
+There are important issues related to the patient, the nurse and the environment that may
+impact upon the complexity of the communication process. Communication literature
+commonly refers to such influencing factors as ‘noise’:external or physical noise, internal
+or psychological noise, and semantic or interpretational noise.133-5 One of the most
+important considerations here is that the patient may experience diffculty fulflling their
+responsibilities as a sender and receiver of communication, due to the ‘noise’ that is
+inherent within triage. This means that the Triage Nurse will often carry the responsibility of
+recognising and managing the infuencing factors for both themself and the patient.
+
+
+
+Factors that impact upon the communication process at triage
+The complex process of communication always occurs within a range of infuencing factors,
+as illustrated in Diagram 3.1. The more the Triage Nurse understands these factors that
+infuence the effectiveness of communication, the better the communication and the quality
+of data gathered.
+Diagram 3.1: Simplifed image of communication at triage
+PHASE 1
+Patient communicates health
+concerns to nurse.
+PATIENT NURSE
+PHASE 2
+15
+triage decision
+made
+Nurse asks questions.
+Patient answers.
+Nurse checks for understanding.
+PATIENT NURSE
+PHASE 3
+Nurse informs patient of triage
+outcome and checks for
+understanding.
+PATIENT NURSE
+PHASE 4
+patient acts nurse moves to
+accordingly next patient
+After the triage encounter, both
+parties have opportunity for
+further communication while
+PATIENT patient is in waiting room. NURSE
+INFLUENCING FACTORS
+
+
+
+Factors to be aware of include:
+• Physical environment: The presence of barriers such as bullet-proof glass, desks, lack
+of privacy, distracting noise and movement of people throughout the area all impact on
+the triage communication process. It is often the effort displayed by the Triage Nurse
+that will overcome these barriers, and reassure the patient that their communication
+with the nurse is private, thorough and confdential.
+• Time constraints: The triage assessment generally should take no more than two to
+fve minutes with a balanced aim of speed and thoroughness being the essence.2
+• Language use: The use of jargon, be it medical jargon or ‘street talk’, can result in
+misinterpretation as profound as that which would occur between two people
+actually speaking different languages.
+For example, ‘voiding’ is a term commonly used in medicine, but may mean
+something completely different to a layperson, whereas ‘doing a wee’ would be
+understood by most people.
+• Non-verbal behaviours: Body language, facial expressions and tone of voice in
+16
+both the patient and the nurse during the encounter are equally signifcant aspects
+of communication.
+• Cultural diversity: These include differences in age, gender, ethnicity, language,
+religion, socioeconomic status and life experience. For example, an elderly man
+may be reluctant to discuss some issues with ‘a lass who looks younger than his
+granddaughter’, so effort must be put into building a professional rapport.
+• Nature of the health concern: Health concerns that are highly sensitive, embarrassing or
+anxiety-producing will infuence the way in which the information is communicated
+by both the patient and the Triage Nurse. The avoidance of key terms and the use of
+euphemisms may lead to distortion of the messages sent and received.
+• Expectations and assumptions: Individuals present to triage with expectations of what
+will happen. These expectations are infuenced by their perception of the urgency of the
+health concern and by their past health care experiences, and may at times be
+unrealistic. The Triage Nurse’s familiarity with the triage environment and with patients,
+together with the attitudes and behaviours of other emergency staff, can all have both
+positive and negative infuences. Although such infuences can aid in early symptom
+recognition, they can also potentially lead to inappropriate assumptions and bias.
+• Emotions: Individuals – including both patients and nurses – react to stress and
+anxiety in different ways and with varying intensity. These reactions can impact
+upon the person’s ability to provide coherent information and their ability to
+answer questions clearly. The Triage Nurse’s ability to remain calm and achieve
+effective communication within this environment is paramount.
+
+
+
+Challenging communication encounters
+Often, people presenting with challenging communication behaviour are unwittingly
+expressing an unmet basic human need.135 Understanding what underpins challenging
+communication behaviours, together with being aware of the behaviours that trigger an
+emotional response within them,131 can assist the Triage Nurse to respond to the issue
+behind the behaviour rather than to the behaviour itself.
+Developing a basic strategy to interpret communication behaviour quickly may assist in
+minimising the effects of challenging communication behaviours upon the triage assessment.
+Table 3.1 outlines the four basic human needs, common signals that may indicate that a need
+is not being met, and some basic strategies to overcome this, as suggested by Martin (2001).135
+Table 3.1: Identifying and dealing with the four basic human needs135
+Basic human need Common signals that this Suggested strategies to
+need is not being met fulfl this need
+To be understood Repeating the same message; Separate emotions from content.
+speaking slowly and/or Ask questions, shifting the focus 17
+loudly; getting angry; bringing from the emotion to exploring
+a support person to speak the health concern.
+for them.
+Acknowledge their feelings;
+empathise with their concerns.
+Refect back your understanding.
+Inform them of what will happen
+and why.
+Do not take expressions of anger
+personally.
+Check your own reactions.
+To feel welcome Looking around before Provide a warm and friendly
+entering; looking lost or welcome.
+unsure. Use appropriate language.
+At the end of the triage
+encounter, keep communication
+lines open.
+To feel important – Drawing attention to Call the person by their name;
+one’s self-concept themself; getting angry; acknowledge their concerns; tune
+appearing helpless; loss into their individual needs.
+of control. Allow anger to diffuse – listen; say
+nothing; allow the person to
+release their emotions.
+Try not to react to the emotion.
+Need for comfort – Appearing ill at ease, Explain the procedures carefully
+psychological and physical nervous or unsure; and calmly; reassure.
+
+
+#### [Table Content]
+| Basic human need | Common signals that this need is not being met | Suggested strategies to fulfl this need |
+| --- | --- | --- |
+| To be understood | Repeating the same message; speaking slowly and/or loudly; getting angry; bringing a support person to speak for them. | Separate emotions from content. Ask questions, shifting the focus from the emotion to exploring the health concern. Acknowledge their feelings; empathise with their concerns. Refect back your understanding. Inform them of what will happen and why. Do not take expressions of anger personally. Check your own reactions. |
+| To feel welcome | Looking around before entering; looking lost or unsure. | Provide a warm and friendly welcome. Use appropriate language. At the end of the triage encounter, keep communication lines open. |
+| To feel important – one’s self-concept | Drawing attention to themself; getting angry; appearing helpless; loss of control. | Call the person by their name; acknowledge their concerns; tune into their individual needs. Allow anger to diffuse – listen; say nothing; allow the person to release their emotions. Try not to react to the emotion. |
+
+
+
+
+CHAPTER 4: TRIAGE BASICS
+Statement of purpose
+The purpose of this chapter is to provide a comprehensive outline of the physiological
+predictors underpinning the allocation of urgency using the Australasian Triage Scale (ATS).
+Learning outcomes
+After completing this chapter, participants will be able to describe the process of triage
+assessment and identify the clinically important factors infuencing the allocation of a triage
+code using the ATS.
+Learning objectives
+1. Describe triage assessment techniques under the following headings:
+18 (a) Environmental hazards
+(b) General appearance
+(c) Airway
+(d) Breathing
+(e) Circulation
+(f) Disability
+(g) Environment.
+2. Differentiate predictors of poor outcome from other data collected during the
+triage assessment.
+3. Identify patients who have evidence of or are at high risk of physiological instability.
+4. Assign an appropriate ATS category in response to clinical assessment data.
+Key points
+• Identifying and managing risks to self, patients and the environment is the first
+principle of safe triage practice.
+• First impressions of general appearance should always be considered when making a
+triage decision.
+• Always ask the question ‘Does this person look sick?’
+• The primary survey approach is used to identify and correct life-threatening
+conditions at triage.
+• Other conditions in which timely intervention may significantly influence outcomes
+(such as thrombolysis, an antidote or management of acid or alkali splash to eye)
+must also be detected at triage.
+• Timely access to emergency care can improve patient outcomes.
+• Early identification of physiological abnormality at triage can inform focused
+
+
+
+Content
+Background
+The presence of a physiological abnormality, failure to recognise and treat it, and age greater
+than 65 years are known risk factors for poor outcomes. Timely responses to abnormal
+clinical fndings have been shown to reduce morbidity and mortality in critically ill patients.
+The ATS clinical descriptors are informed by research into predictors of outcome in critical
+illness/injury and clinically relevant assessment criteria. The correct application of this
+information is also critical to the timely recognition and treatment of patients who have
+deteriorated and thus warrant re-triage.
+The primary survey approach is recommended to identify and correct life-threatening
+conditions at triage. Table 4.1 provides a summary of adult physiological discriminators for
+the ATS, using the primary survey format.
+Table 4.1: Summary of adult physiological predictors for the ATS
+19
+Category 1 Category 2 Category 3 Category 4 Category 5
+Immediate 10 minutes 30 minutes 60 minutes 120 minutes
+Airway Obstructed/ Patent Patent Patent Patent
+partially
+obstructed
+Breathing Severe Moderate Mild respiratory No respiratory No respiratory
+respiratory respiratory distress distress distress
+distress/absent distress
+respiration/
+hypoventilation
+Circulation Severe Moderate Mild No No
+haemodynamic haemodynamic haemodynamic haemodynamic haemodynamic
+compromise/ compromise compromise compromise compromise
+absent circulation
+Uncontrolled
+haemorrhage
+Disability GCS <9 GCS 9–12 GCS >12 Normal GCS Normal GCS
+Risk factors for serious illness/injury – age, high risk history, high risk mechanism of injury, cardiac risk factors, effects of drugs or alcohol,
+rash and alterations in body temperature – should be considered in the light of history of events and physiological data. Multiple risk factors
+= increased risk of serious injury/illness. Presence of one or more risk factors may result in allocation to a triage category of higher acuity.
+The collection of physiological parameters at triage requires the clinician to make the best
+use of their senses to detect abnormalities (i.e. look, listen, feel and smell).
+Triage Nurses must ensure that patients with physiological abnormalities are not delayed by
+the triage process and are allocated to a clinical area that is equipped to provide ongoing
+assessment and treatment of their condition.
+
+
+#### [Table Content]
+|  | Category 1 Immediate | Category 2 10 minutes | Category 3 30 minutes | Category 4 60 minutes | Category 5 120 minutes |
+| --- | --- | --- | --- | --- | --- |
+| Airway | Obstructed/ partially obstructed | Patent | Patent | Patent | Patent |
+| Breathing | Severe respiratory distress/absent respiration/ hypoventilation | Moderate respiratory distress | Mild respiratory distress | No respiratory distress | No respiratory distress |
+| Circulation | Severe haemodynamic compromise/ absent circulation Uncontrolled haemorrhage | Moderate haemodynamic compromise | Mild haemodynamic compromise | No haemodynamic compromise | No haemodynamic compromise |
+| Disability | GCS <9 | GCS 9–12 | GCS >12 | Normal GCS | Normal GCS |
+| Risk factors for serious illness/injury – age, high risk history, high risk mechanism of injury, cardiac risk factors, effects of drugs or alcohol, rash and alterations in body temperature – should be considered in the light of history of events and physiological data. Multiple risk factors = increased risk of serious injury/illness. Presence of one or more risk factors may result in allocation to a triage category of higher acuity. |  |  |  |  |  |
+
+
+
+
+Diagram 4.1: Recommended triage method
+1. Patient presents for triage
+Safety hazards are considered above all
+2. Assess the following:
+• Chief complaint
+Yes 2. Quick evaluation
+• General appearance
+• Airway Is the patient stable?
+• Breathing
+• Circulation
+• Disability
+• Environment
+• Limited history
+• Co-morbidities.
+20
+No
+3. Differentiate predictors of
+poor outcome from other
+data collected during the
+triage assessment
+4. Identify patients who have
+evidence of or are at high
+5. Assign an appropriate ATS
+risk of physiological instability
+category in response to
+clinical assessment data
+member/s
+6. Allocate staff to patient including
+brief handover to allocated staff
+member/s
+7. ED model of care proceeds
+
+
+
+Assessment techniques for safe triage
+Assessment of environmental hazards
+This is the frst step to safe practice at triage. The Triage Nurse must be aware of internal
+security response protocols. In addition, the Triage Nurse should observe standard
+precautions whenever there is potential for exposure to blood or other body fuids. The
+Triage Nurse should be aware of the risks associated with leaving the triage area to retrieve
+patients from vehicles or reception areas of the hospital. Local policy will determine
+practice in this regard, but a general principle is that the triage desk should never be left
+unattended and that staff members should never place themselves in a situation in which
+additional help cannot be mobilised.
+As part of maintaining a safe environment, the Triage Nurse must ensure that equipment
+for basic life support (bag-valve mask and oxygen supply) is available at triage. Likewise,
+equipment which complies with standard precautions is required. At the beginning of each
+shift, the Triage Nurse should conduct a basic safety and environment check of the work
+area to optimise environmental and patient safety. 21
+General appearance
+This is an essential component of the triage assessment. Observation of the patient’s
+appearance and behaviour when they arrive tells us much about the patient’s physiological
+and psychological status. Take particular notice of the following:
+• Observe the patient’s mobility as they approach the reception area. Is it normal or
+restricted? If it is restricted, in what way?
+• Ask yourself the question ‘Does this patient look sick?’
+• Observe how the patient is behaving.
+The primary survey underpins safe practice in the ED. When an assessment of the
+environment and general appearance is complete (this should take seconds), the primary
+survey should begin.
+Airway
+Always check the airway for patency, and consider cervical spine precautions where indicated.
+An occluded airway or an immediate risk to airway must be allocated ATS category 1
+(this includes unresponsiveness with GCS of <9 and ongoing or prolonged seizure).
+In adults, stridor occurs when in excess of 75 per cent of the airway lumen has been
+obstructed: these patients have failed their primary survey and require defnitive airway
+
+
+
+Breathing
+Assessment of breathing includes determination of respiratory rate and work of breathing.
+Patients with evidence of respiratory dysfunction during the triage assessment warrant
+allocation to a high triage category (see Table 4.1).
+Patients allocated to lower triage categories (ATS 4 or 5) should have normal respiratory function.
+It is important to detect hypoxaemia. This can be detected using pulse oximetry.
+Circulation
+Assessment of circulation includes determining heart rate, pulse and pulse characteristics,
+skin indicators, oral intake and output. It is important that hypotension be detected during
+the triage assessment to facilitate early and aggressive intervention. Although it may not
+be possible to measure blood pressure at triage, other indicators of haemodynamic
+status should be considered, including peripheral pulses, skin status, conscious state and
+alterations in heart rate.
+22
+Patients with evidence of haemodynamic compromise (hypotension, severe hypertension,
+tachycardia or bradycardia) during the triage assessment warrant allocation to a high triage
+category (see Diagram 4.1).
+Patients allocated to lower triage categories (ATS 4 or 5) should have normal circulatory function.
+Disability
+This assessment includes determining AVPU (see Figure 4.1) GCS and/or activity level,
+assessing for loss of consciousness, and pain assessment. Altered level of consciousness is
+an important indicator of risk for serious illness or injury. Patients with conscious-state
+abnormalities should be allocated to a high triage category (Diagram 4.1).
+
+
+
+Figure 4.1: AVPU scale143
+A = Alert
+V = Responds to voice
+P = Responds to pain
+• Purposefully
+• Non-purposefully
+– Withdrawal/fexor response
+– Extensor response
+U = Unresponsive
+Eye injuries warrant careful assessment and are based on the mechanism of injury and the
+23
+potential for ongoing visual impairment. Table 4.2 shows considerations for triaging eye
+injury using the ATS descriptors.
+Table 4.2: Summary of ophthalmic emergency predictors for the ATS
+Category 1 Category 2 Category 3 Category 4 Category 5
+Immediate 10 minutes 30 minutes 60 minutes 120 minutes
+• Penetrating • Sudden • Normal vision • Normal
+eye injury abnormal vision
+• Mild eye pain,
+vision with or
+• Chemical injury e.g. • No eye pain
+without injury
+– blunt eye
+• Sudden loss
+• Moderate injury
+of vision with
+eye pain, e.g. – fash burns
+or without
+– blunt eye – foreign body
+injury
+injury
+• Sudden onset – fash burns
+severe eye pain – foreign body
+
+
+#### [Table Content]
+| Category 1 Immediate | Category 2 10 minutes | Category 3 30 minutes | Category 4 60 minutes | Category 5 120 minutes |
+| --- | --- | --- | --- | --- |
+|  | • Penetrating eye injury • Chemical injury • Sudden loss of vision with or without injury • Sudden onset severe eye pain | • Sudden abnormal vision with or without injury • Moderate eye pain, e.g. – blunt eye injury – fash burns – foreign body | • Normal vision • Mild eye pain, e.g. – blunt eye injury – fash burns – foreign body | • Normal vision • No eye pain |
+
+
+
+
+Environment
+Assess temperature. Hypothermia and hyperthermia are important clinical indicators and
+need to be identifed at triage.
+Other considerations
+Other risk factors should be considered during the triage assessment. In the patient who
+has normal physiological parameters at triage, these include the following:
+• Extremes of age (very young or very old) entail physiological differences that increase
+the risk of serious illness and injury, as such patients have decreased physiological
+reserve and altered physiological responses, and may present with non-specifc signs
+and symptoms.
+• High-risk features including chronic illness, cognitive impairment, communication
+defcit, multiple co-morbidities, poisoning or severe pain may warrant allocation to a
+high ATS category.
+• Patients with high risk alerts, such as a history of violence.
+• Trauma patients should be allocated an ATS category based on clinical urgency. There
+are specifc mechanisms of injury associated with risk of life-threatening injury that
+need to be incorporated in triage decisions. Examples include vehicle rollover, death
+24
+of same-vehicle occupant, ejection from a vehicle, and fall from a height greater than
+three metres.
+• The presence of a rash may also alert the Triage Nurse to the possibility of serious
+illness such as anaphylaxis or meningococcal disease; however, these types of
+presentations will usually have concurrent primary-survey abnormality.
+• Re-triage – see definition in Chapter 1.
+
+
+
+The Challenge of Triage
+Case Number: 1829/02 ventilation. He was stiffness and
+Case Precis Author: thereafter transferred photophobia had been
+A. Charles to a tertiary hospital examined for. The delay
+A previously well Intensive Care Unit. in the patient being
+18-year-old male Meningococcal seen could not be
+presented to a septicaemia was definitively connected
+peripheral suburban ED diagnosed and despite to his death.
+in the early hours of aggressive treatment he
+the morning with a 24 deteriorated and died Recommendation
+hour history of being 4 days later. The Coroner recommended
+generally unwell with that consideration be
+lethargy, headache and Coronial Investigation given to formalising a
+vomiting. He was The issues raised by process where a patient
+triaged as a category 4. the patient’s family is always reassessed by
+After waiting for were: the triage nurse once
+approximately four (1) a perceived the triage time has
+hours later he ‘felt a deficiency in the expired. In this case
+bit better’ so he left triage process and that would mean a
+the ED without being (2) the delay in being formal nurse review one
+assessed by a medical seen by a doctor hour after initial 25
+practitioner. He had, during the first assessment, it was
+however, been reviewed presentation. noted that this was in
+by the triage nurse fact performed
+on three separate Coronial Findings informally on three
+occasions. The Coroner found that occasions in this case.
+Five hours after the emergency
+arriving home he was department was Hospital Response
+found by his family to particularly busy on The hospital reviewed
+be agitated with an the evening that the its triage processes
+altered conscious state patient first and procedures and
+and to be developing a presented. concluded that any
+purpuric rash. He was The triage nurse’s patient who presented
+returned to the same assessment of the with similar symptoms
+emergency department by patient indicated should be triaged as a
+ambulance where non-specific flu like ATS Category 3 (to be
+advanced life support symptoms and therefore seen within 30 minutes
+was commenced, an appropriate triage of presentation).
+including endotracheal category allocation had
+intubation and been given. Neck
+Note: Triage category allocation is independent of local policies dictating activation of response teams, such as
+trauma team activation.
+Prioritisation of multiple patients at triage
+Although there is no research relating to triage of multiple patients who present simultaneously,
+a primary-survey approach theoretically prioritises patients in order of life threat. This approach
+means that patients with airway problems should take precedence over patients with breathing
+problems, who take precedence over patients with circulation problems. Table 4.1 outlines such
+a primary survey approach to prioritising patients.
+
+
+
+CHAPTER 5: MENTAL HEALTH
+TRIAGE
+Statement of purpose
+The purposes of this chapter are to:
+• Describe the clinical indicators for mental illness in the context of a generalist ED; and
+• Discuss the clinical descriptors for each of the five ATS categories for patients
+presenting to the ED with acute behavioural disturbance and/or mental illness.
+Learning outcomes
+After completing this chapter, participants will be able to describe the rapid assessment
+of mental illness related problems at triage, identify mental illness risk factors pertinent to
+triage, and apply an ATS category that refects the person’s need for emergency intervention.
+26
+Learning objectives
+• Describe common mental health related presentations for different life stages
+(youth, adult, elderly) that may be seen at triage in a generalist ED.
+• Identify specific risk factors associated with mental illness for ED triage.
+• Apply the principles of mental health assessment in this context.
+• Relate common types of mental health presentations with the descriptors provided
+within the ATS.
+• Analyse approaches to mental health assessment in terms of strengths and weaknesses.
+• Consider strategies that may improve mental health assessment at triage in your workplace.
+Key points
+• The usual primary-survey approach to assessing all incoming patients should be
+complete prior to commencing mental health assessment.
+• Mental health triage is based on assessment of appearance, behaviour and conversation.
+• The allocation of a triage code must be based on clinical criteria that are
+consistent with the ATS descriptors for acute behavioural disturbances and risk
+of harm to self or others.
+
+
+
+Content
+Background
+Since the late 1990s a number of tools have been developed and refned to optimise
+consistency of triage for patients presenting to EDs with acute behavioural disturbance or
+primary mental illness. For example, in New South Wales, Sutherland Hospital developed
+mental health triage guidelines for EDs.42 In Tasmania, Smart, Pollard and Walpole (1999)43
+introduced a four-point mental health triage rating scale to be used in conjunction with the
+ATS. In Victoria, further evaluation of the Tasmania tool found differences in use according
+to specialist training, and suggested that further education was needed to improve the
+utilisation of the tool.35 Later, the New South Wales Department of Health implemented
+guidelines for the management of mental health presentations to the ED.36 South Eastern
+Sydney Area Health Services (SESAHS) went on to develop a fve-point mental health triage
+tool to enhance consistency of triage in EDs for mental health presentations.37 Referenced
+as best practice by the National Institute of Clinical Excellence, the SESAHS tool has been
+further refned by Broadbent et al.47-49 and was recently implemented in all Victorian EDs.41
+27
+Approach
+There are two steps that are vital in determining time to treatment for people with mental
+health illness: obtaining accurate assessment data and applying an appropriate ATS code.
+These two steps should be conducted with an awareness of risk factors for harm
+(self-harm and harm to others).43 In particular, high risk is attached to those with pre-
+existing impairment from either severe or acute mental illness.44
+Assessment
+Patients may be brought to the ED by police, ambulance, community mental health workers
+or family members, as well as coming in by themselves.
+The usual primary-survey approach to assessing all incoming patients should be completed
+prior to commencing a mental health assessment. This involves asking the patient why they
+are in the ED today, and who brought them. It is important to be open, listen for verbal
+cues, clarify, and not be judgemental. The assessment is not intended to make a diagnosis,
+but to determine urgency and identify immediate needs for treatment.
+Psychotic illness, depressive illness, attempted suicide, suicidal thoughts, anxiety, acute
+situational crisis, substance-induced disorders, and physical symptoms in the absence of
+illness are the most common mental health presentations at triage.
+Always maintain your safety and the safety of others. If a patient’s behaviour escalates,
+withdraw and seek assistance immediately.
+
+
+
+Be aware also that not all aggressive behaviour is associated with mental illness. Some
+aggressive behaviour is associated with organic illnesses such as hypoglycaemia, delirium,
+acquired brain injury or intoxication. These organic causes of unusual or disturbing
+behaviour may look like mental illness when in fact they are not. The interplay of biological,
+psychological and socio-cultural factors related to ageing sometimes makes it diffcult to
+clearly identify mental health problems.
+The ABCs of mental health assessment44
+The ABCs of a mental health assessment are as follows.
+Appearance
+What does the patient look like?
+• Are they dishevelled, unkempt or well presented?
+• Are they wearing clothing appropriate for the weather?
+• Do they look malnourished or dehydrated?
+• Are they showing any visible injuries?
+• Do they appear intoxicated, flushed, with dilated or pinpoint pupils?
+28 • Are they tense, slumped over, displaying bizarre postures or facial grimaces?
+This information provides cues when assessing the person’s mood, thoughts and ability to self-care.
+Affect
+What is your observation of the patient’s current emotional state?
+• Are they flat, downcast, tearful, distressed or anxious?
+• Is their expression of emotion changing rapidly?
+• Is their emotion inconsistent with what they are talking about?
+• Are they excessively happy?
+This information provides cues when assessing the person’s mood.
+Behaviour
+How is the patient behaving?
+• Are they restless, agitated, hyperventilating or tremulous?
+• Are they displaying bizarre, odd or unpredictable actions?
+• Are they orientated?
+How is the patient reacting?
+• Are they angry, hostile, uncooperative, over-familiar, suspicious, guarded, withdrawn,
+inappropriate or fearful?
+• Are they responding to unheard voices or sounds, or unseen people or objects?
+• Are they attentive or refusing to talk?
+
+
+
+Possible questions:
+• ‘This must be distressing for you. Can you tell me what is happening?’
+• ‘I can see that you are very anxious. Do you feel safe?’
+• ‘I can see that you are angry. Can you tell me why?’
+• ‘Are your thoughts making sense to you?’
+• ‘Are you taking any medication?’
+Conversation and mood
+• What language is being spoken?
+• Is an interpreter needed?
+Conversation
+How is the patient talking?
+Does their conversation make sense?
+• Is it rapid, repetitive, slow or uninterruptible, or are they mute?
+• Are they speaking loudly, quietly or whispering?
+• Are they speaking clearly or slurring?
+29
+• Are they speaking with anger?
+• Are they using obscene language?
+• Do they stop in the middle of a sentence?
+• Do you think the patient’s speech is being interrupted because they are hearing voices?
+• Do they know what day and time it is and how they got to the ED?
+Mood
+How does the patient describe their mood? Do they say they feel:
+• Down, worthless, depressed or sad?
+• Angry or irritable?
+• Anxious, fearful or scared?
+• Sad, really happy or high?
+• Like they cannot stop crying all the time?
+What do you think is the risk of suicide/homicide?
+For example, does the patient tell you that they are thinking about suicide, wanting to hurt
+others, worrying about what people think about them, worrying that their thoughts don’t
+make sense, afraid that they are losing control, feeling that something dreadful is going to
+happen to them, and/or feeling unable to cope with everything that has happened to them
+lately in relation to recent stressors?
+Possible questions:
+• ‘Do you feel hopeless about everything?’
+• ‘Do you feel that someone or something is making you think these things?’
+• ‘Are you being told to harm yourself and/or others?’
+
+
+
+Presentations to the ED for self-harm or risk of self-harm are very common and are
+increasing, in all age groups. Regardless of the motivation or intent, these behaviours are
+associated with a high risk of death. Consider the use of the Mental Health Act 2000 and
+risk assessments (such as removal of weapons and close observation).
+Possible questions:
+• ‘How often do you have these thoughts?’
+• ‘Do you have a plan of what you might do?’
+• ‘Do you have access to tablets/a gun?’
+Presentations to the ED for self-harm or risk of self-harm are very common and are
+increasing, in all age groups. Regardless of the motivation or intent, these behaviours are
+associated with a high risk of death. Consider the use of the Mental Health Act 2000 and
+risk assessments (such as removal of weapons and close observation).
+Other Considerations
+30
+Other considerations within the mental health assessment include the following:
+Dementia
+Dementia is a common problem. It is not a diagnosis rather a cluster of progressive
+symptoms, the most common being:
+• memory loss and confusion
+• intellectual decline
+• personality changes.
+Subtypes include:
+• vascular dementia
+• Alzheimer’s disease
+• alcoholic dementia.
+Complications of dementia include:
+• delirium
+• physical illness
+• depression
+• psychotic symptoms.
+Delirium
+Delirium is not a disorder but a clinical syndrome. It is the cause of much distress and
+disability and contributes greatly to morbidity and mortality. It is a reversible organic
+condition characterised by:
+• fluctuations in conscious state
+• psychomotor agitation
+• disorganised thinking
+
+
+
+Youth
+Depression is the most common mental health problem for young people and is a
+well-recognised risk factor for suicidal behaviour.
+Young people with depression may:
+• Feel worthless
+• Cry a lot
+• Stop enjoying their life
+• Feel miserable all the time
+• Become very irritable
+• Be secretive
+• Take risks that are out of character (such as binge drinking and/or substance abuse)
+• Drop out of school or quit their job.
+Psychostimulants
+Psychostimulants are a group of drugs that stimulate the central nervous system, causing
+feelings of false confdence, euphoria, alertness and energy. Common psychostimulants include
+methamphetamines (meth, crystal meth, ice, base), which are amphetamine (speed) derivatives.
+31
+Psychostimulants may produce symptoms similar to paranoid psychosis, including delusions
+of persecution, ideas of reference, bizarre visual and auditory hallucinations, and violent
+outbursts. Symptoms are not related to the time of ingestion or the dose taken.
+Assessment and rapid and safe management of acute behavioural disturbance and
+medical complications is the priority.
+Applying the ATS
+The evidenced-based guidelines presented in Table 5.1 extend on those provided in the ATS,
+and should be used in conjunction with the ATS.47
+
+
+
+32
+05loot
+egairt
+htlaeh
+latneM
+:1.5
+el
+–
+edoc
+eg
+*selpicnirp
+tnemeganam
+lareneG
+noitatneserp
+lacipyT
+noitpircseD
+ytiuca
+tnemta
+noisivrepuS
+devresbO
+efil
+ot
+regnad
+etinfieD
+etaidemmI
+oitar
+1:1 ecnallievrus
+lausiv suounitnoC
+ruoivaheb
+tneloiV
+–
+)srehto
+ro
+fles(
+)woleb
+noitinfied ees(
+nopaew
+fo
+noissessoP
+–
+:setats
+1elacS
+egairT
+naisalartsuA
+noitcA
+DE ni
+noitcurtsed-fleS
+–
+redrosid
+laruoivaheb
+ereveS
+–
+ssensseltser
+ro noitatiga
+emertxE
+–
+fo
+taerht
+etaidemmi
+htiw
+yletaidemmi
+ffats
+lacidem DE trelA
+–
+tnelaviuqe
+ro egairt
+htlaeh
+latnem trelA
+–
+ruoivaheb
+detneirosid/erraziB
+–
+ecneloiv
+suoregnad
+srehto
+dna tneitap
+rof tnemnorivne
+efas edivorP
+–
+detropeR
+edivorp
+ot lennosrep
+etauqeda erusnE
+–
+ot mrah
+od ot sdnammoc
+labreV
+–
+sdradnats
+yrtsudni
+no desab
+noitneted/tniartser
+nosrep
+eht taht
+,srehto
+ro
+fles
+dnammoc(
+tsiser
+ot elbanu
+si
+redisnoC
+)snoitanicullah
+tneitap
+ro
+ffats fi ecilop
+-/+
+ytiruces gnillaC
+–
+ruoivaheb
+tneloiv
+tneceR
+–
+ot ffats
+lareves
+eriuqer yaM
+.desimorpmoc
+ytefas tneitap niatnoc noitavresbo 1:1
+–
+na esuac
+yam
+lohocla dna
+sgurd
+yb noitacixotnI
+–
+.tnemeganam
+seriuqer
+taht
+ruoivaheb
+ni noitalacse noisivrepuS
+devresbO
+fles
+ot
+regnad
+fo
+ksir elbaborP
+ycnegremE
+)woleb
+noitinfied
+ees( noisivrepus
+lausiv suounitnoC
+ssensseltser/noitatiga
+emertxE
+–
+srehto
+ro
+01
+nihtiW
+evissergga
+yllabrev/yllacisyhP
+–
+RO/DNA
+setunim
+noitcA
+etarepooc
+ot elbanu/desufnoC
+–
+ni
+deniartser
+yllacisyhp
+si tneilC
+yletaidemmi
+ffats
+lacidem DE trelA
+–
+aionarap/snoisuled/snoitanicullaH
+–
+tnemtraped
+ycnegreme
+egairt
+htlaeh
+latnem trelA
+–
+tnemniatnoc/tniartser
+seriuqeR
+–
+RO/DNA
+srehto
+dna tneitap
+rof tnemnorivne
+efas edivorP
+–
+ton dna
+gnidnocsba
+fo ksir
+hgiH
+–
+ecnabrutsid
+laruoivaheb
+ereveS
+emit
+,noitacidem
+laro( seuqinhc
+) e a t e g r n a i s r u e f t e e d iu e q s n U i
+–
+tnemtaert
+rof gnitiaw
+:setats
+1elacS
+egairT
+naisalartsuA
+:)fi(
+evissergga
+ro tneloiV
+noitneted/tniartser
+edivorp
+ot lennosrep
+etauqeda erusnE
+–
+detropeR
+srehto
+ro
+fles
+ot taerht
+etaidemmI
+–
+dednemmocer
+tneitap
+rof tnemssessa
+tpmorP
+–
+fo taerht/mrah-fles
+ta tpmettA
+–
+tniartser
+deriuqer
+sah
+ro seriuqeR
+–
+01
+noitceS
+rednu
+dedneherppa
+ro
+9 noitceS rednu
+mrah-fles
+noissergga
+ro
+noitatiga
+ereveS
+–
+.0002
+tcA
+htlaeH latneM fo
+srehto
+ot
+mrah
+fo taerhT
+–
+redisnoC
+ylefas
+tiaw
+ot elbanU
+–
+ot
+egairt-er
+,evitceffeni
+seuqinhcet
+gnisufed fI
+–
+)evoba
+ees( 1 yrogetac
+yrassecen
+fi
+detades
+tneitap litnu
+ecnadnetta
+ni ytiruceS
+–
+na esuac
+yam
+lohocla dna
+sgurd
+yb noitacixotnI
+–
+tnemeganam
+seriuqer
+taht
+ruoivaheb
+ni noitalacse
+
+
+#### [Table Content]
+| *selpicnirp tnemeganam lareneG | srehto sdradnats ot na .tnemeganam ffats esuac tneitap dna lareves tnelaviuqe oitar yletaidemmi tneitap edivorp yrtsudni ro yam seriuqer ffats eriuqer lohocla 1:1 ro rof ot no ecnallievrus lennosrep fi taht egairt tnemnorivne desab ecilop yaM dna ffats ruoivaheb .desimorpmoc sgurd )woleb htlaeh noitneted/tniartser -/+ lausiv lacidem etauqeda ytiruces tneitap noitavresbo yb noisivrepuS suounitnoC noitinfied DE latnem efas noitacixotnI ni noitalacse edivorP erusnE redisnoC gnillaC niatnoc noitcA trelA trelA ytefas 1:1 ees( – – – – – – – | noitneted/tniartser yrassecen 01 )woleb tnemeganam srehto emit dednemmocer noitceS na ot esuac fi noitinfied ,noitacidem egairt-er detades dna rednu yam yletaidemmi tneitap edivorp seriuqer ees( dedneherppa ,evitceffeni tneitap lohocla tneitap laro( noisivrepus egairt rof tnemnorivne seuqinhcet ot lennosrep .0002 litnu dna taht ffats rof tcA seuqinhcet )evoba ecnadnetta sgurd ruoivaheb htlaeh tnemssessa ro lausiv lacidem )aera etauqeda 9 noitceS htlaeH ees( yb latnem efas gnisufed noitacixotnI ni noisivrepuS suounitnoC DE edivorP reteiuq tpmorP latneM redisnoC gnisufed 1 yrogetac ni ytiruceS noitalacse noitcA trelA trelA esU erusnE rednu ni fo fI – – – – – – – – – |
+| --- | --- | --- |
+| noitatneserp lacipyT | ssensseltser ot ruoivaheb mrah nosrep dnammoc( ruoivaheb od nopaew DE eht ruoivaheb ni ro noitatiga detneirosid/erraziB ot sdnammoc taht tsiser noitcurtsed-fleS fo ,srehto )snoitanicullah tneloiv noissessoP ot devresbO tneloiV emertxE detropeR labreV ro elbanu tneceR fles si – – – – – – – | ssensseltser/noitatiga etarepooc aionarap/snoisuled/snoitanicullaH tnemniatnoc/tniartser ton fo evissergga dna taerht/mrah-fles srehto gnidnocsba tnemtaert ylefas ot yllabrev/yllacisyhP elbanu/desufnoC ot mrah tiaw devresbO emertxE seriuqeR fo ksir rof gnitiaw detropeR ta tpmettA mrah-fles fo taerhT ot elbanU hgiH – – – – – – – – – |
+| noitpircseD | :setats redrosid 1elacS fo efil taerht ot egairT laruoivaheb ecneloiv regnad )srehto etaidemmi naisalartsuA suoregnad etinfieD ereveS ro htiw fles( – | ni ecnabrutsid :setats srehto tniartser fles deniartser noissergga ot ro regnad tnemtraped 1elacS fles deriuqer :)fi( yllacisyhp laruoivaheb egairT evissergga ot taerht ro fo sah noitatiga ksir ycnegreme naisalartsuA etaidemmI ro elbaborP srehto RO/DNA si ro seriuqeR ereveS tneilC RO/DNA ereveS tneloiV ro – – – |
+
+
+
+
+)tnoc(05
+loot
+egairt
+htlaeh
+latneM
+:1.5
+el
+– edoc
+eg
+*selpicnirp
+tnemeganam
+lareneG
+noitatneserp
+lacipyT
+noitpircseD
+ytiuca
+tnemta
+noisivrepuS
+devresbO
+srehto
+ro
+fles
+ot
+regnad
+elbissoP
+tnegrU
+)woleb
+noitin
+fied ees(
+noitavresbo
+esolC
+ssensseltseR/noitatigA
+–
+ecnabrutsid
+ruoivaheb
+etaredoM
+–
+setunim
+03 nihtiW
+tuohtiw
+moor
+gnitiaw
+ni tneitap
+evael ton
+oD
+–
+ruoivaheb
+evisurtnI
+–
+ssertsid
+ereveS
+–
+nosrep
+troppus
+desufnoC
+–
+:setats
+1elacS
+egairT
+naisalartsuA
+noitcA
+tnemtaert
+tuoba
+ecnelavibmA
+–
+mrah-fles
+fo
+ksir
+,dessertsid
+yreV
+–
+egairt
+htlaeh
+latnem
+trelA
+–
+tnemtaert
+rof tiaw
+ot
+ylekil
+toN
+–
+ro citohcysp
+yletucA
+–
+srehto
+dna
+tneitap
+rof tnemnorivne
+efas erusnE
+–
+detropeR
+deredrosid-thguoht
+redisnoC
+noitaedi
+ladiciuS
+–
+mrah-fles
+etarebiled
+,sisirc
+lanoitautiS
+–
+laruoivaheb
+gnisaercni
+fo ecnedive
+fi egairt-eR
+–
+sisirc
+lanoitautiS
+–
+nwardhtiw/detatigA
+–
+.e.i
+ecnabrutsid
+smotpmys
+citohcysp
+fo ecneserP
+ssensseltseR
+–
+snoitanicullaH
+–
+ssenevisurtnI
+–
+snoisuleD
+–
+noitatigA
+–
+saedi
+dionaraP
+–
+ssenevisserggA
+–
+deredrosid
+thguohT
+–
+ssertsid
+gnisaercnI
+–
+ruoivaheb
+detatiga/erraziB
+–
+tnemtraped
+ni
+si
+tneitap
+taht
+ytiruces
+mrofnI
+–
+na
+esuac
+yam
+lohocla
+dna
+sgurd
+yb
+noitacixotnI
+–
+ecnabrutsid
+doom
+fo ecneserP
+tnemeganam
+seriuqer
+taht
+ruoivaheb
+ni noitalacse
+noisserped
+fo smotpmys
+ereveS
+–
+evitacinummocnu/nwardhtiW
+–
+yteixna
+ro/dna
+doom
+elbatirri
+ro detavelE
+–
+noisivrepuS
+devresbO
+naisalartsuA
+ssertsid
+etaredoM
+tnegru-imeS
+)woleb
+noitinfied
+ees(
+noitavresbo
+tnettimretnI
+ssensseltser/noitatiga
+oN
+–
+:setats
+1elacS
+egairT
+setunim
+06 nihtiW
+noitcA
+noissergga
+tuohtiw
+elbatirrI
+–
+melborp
+htlaeh
+latnem
+tnegru-imeS
+–
+esruN
+egairT
+htlaeh
+latnem
+htiw
+ssucsiD
+evitarepooC
+–
+on
+ro/dna
+noitavresbo
+rednU
+–
+yrotsih
+tnerehoc
+seviG
+–
+srehto
+ro
+fles ot
+ksir
+etaidemmi
+redisnoC
+detropeR
+laruoivaheb
+gnisaercni
+fo ecnedive
+fi egairt-eR
+–
+.e.i
+ecnabrutsid
+redrosid
+htlaeh
+latnem
+gnitsixe-erP
+–
+ssensseltseR
+–
+noisserped
+ro
+yteixna
+fo
+smotpmyS
+–
+noitaedi
+ladicius
+tuohtiw
+ssenevisurtnI
+–
+tiaw
+ot gnilliW
+–
+noitatigA
+–
+ssenevisserggA
+–
+ssertsid
+gnisaercnI
+–
+na
+esuac
+yam
+lohocla
+dna
+sgurd
+yb
+noitacixotnI
+–
+tnemeganam
+seriuqer
+taht
+ruoivaheb
+ni noitalacse
+33
+
+
+#### [Table Content]
+| *selpicnirp tnemeganam lareneG | tnemeganam srehto na tuohtiw laruoivaheb tnemtraped esuac dna )woleb moor tneitap yam seriuqer gnisaercni lohocla ni gnitiaw si noitin rof tneitap taht egairt tnemnorivne dna fied ni fo ruoivaheb ees( tneitap htlaeh ecnedive ssenevisserggA ssertsid taht sgurd noitavresbo nosrep .e.i ssensseltseR ssenevisurtnI ytiruces yb noisivrepuS evael latnem efas fi egairt-eR ecnabrutsid noitatigA gnisaercnI noitacixotnI ni noitalacse ton troppus erusnE redisnoC mrofnI noitcA trelA esolC oD – – – – – – – – – – – | na laruoivaheb tnemeganam )woleb esuac yam noitinfied esruN gnisaercni lohocla seriuqer ees( egairT dna taht fo noitavresbo htlaeh ecnedive ssertsid sgurd ruoivaheb ssenevisserggA latnem .e.i ssensseltseR ssenevisurtnI yb noisivrepuS tnettimretnI htiw redisnoC fi egairt-eR ecnabrutsid noitatigA gnisaercnI noitacixotnI ni noitalacse noitcA ssucsiD – – – – – – – |
+| --- | --- | --- |
+| noitatneserp lacipyT | smotpmys tnemtaert ecnabrutsid noisserped tnemtaert evitacinummocnu/nwardhtiW ruoivaheb doom ssensseltseR/noitatigA citohcysp rof ruoivaheb tuoba deredrosid fo elbatirri tiaw doom smotpmys noitaedi sisirc detatiga/erraziB snoitanicullaH saedi yteixna ecnelavibmA ot devresbO evisurtnI desufnoC ylekil detropeR ladiciuS lanoitautiS fo ecneserP snoisuleD dionaraP thguohT fo ecneserP ereveS ro/dna ro detavelE toN – – – – – – – – – – – – – – – | noisserped redrosid noissergga ssensseltser/noitatiga yrotsih htlaeh ro noitaedi yteixna latnem tuohtiw tnerehoc ladicius tiaw evitarepooC fo gnitsixe-erP smotpmyS ot devresbO elbatirrI detropeR tuohtiw gnilliW seviG oN – – – – – – – |
+| noitpircseD | srehto :setats mrah-fles ecnabrutsid mrah-fles ro 1elacS etarebiled fles fo ot ruoivaheb egairT ksir ro citohcysp deredrosid-thguoht nwardhtiw/detatigA regnad ssertsid ,dessertsid ,sisirc naisalartsuA etaredoM lanoitautiS elbissoP ereveS yletucA yreV – – – – – – | melborp naisalartsuA srehto on htlaeh ro/dna ro fles :setats latnem noitavresbo ssertsid ot ksir 1elacS tnegru-imeS etaidemmi etaredoM rednU egairT – – |
+
+
+
+
+34
+)tnoc(05
+loot
+egairt
+htlaeh
+latneM
+:1.5
+el
+– edoc
+eg
+*selpicnirp
+tnemeganam
+lareneG
+noitatneserp
+lacipyT
+noitpircseD
+ytiuca
+tnemta
+noisivrepuS
+devresbO
+srehto
+ro
+fles
+ot regnad
+oN
+tnegru-noN
+)woleb
+noitinfied
+ees(
+noitavresbo
+lareneG
+evitarepooC
+–
+ssertsid
+etuca
+oN
+–
+setunim
+021
+nihtiW
+egagne
+ot elba
+dna
+evitacinummoC
+–
+ecnabrutsid
+laruoivaheb
+oN
+–
+noitcA
+nalp
+tnemeganam
+gnipoleved
+ni
+egairt
+htlaeh
+latnem
+htiw
+ssucsiD
+–
+:setats
+1elacS
+egairTnaisalartsuA
+snrecnoc
+ssucsid
+ot
+elbA
+–
+deganam-esac
+fi
+maet
+gnitaert
+ot
+refeR
+–
+smotpmys
+cinorhc
+htiw
+tneitap
+nwonK
+–
+snoitcurtsni
+htiw
+tnailpmoC
+–
+tneitap
+llew
+yllacinilc
+,sisirc
+laicoS
+–
+detropeR
+cinorhc
+htiw
+tneitap
+nwonK
+–
+smotpmys
+citohcysp
+latnem
+etuca-non
+gnitsixe-erP
+–
+redrosid
+htlaeh
+cinorhc
+htiw
+tneitap
+nwonK
+–
+smotpmys
+citamos
+denialpxenu
+noitacidem
+rof
+tseuqeR
+–
+noitacidem
+fo
+tceffe
+esrevda
+roniM
+–
+,noitadommocca
+,laicos
+,laicnaniF
+–
+smelborp
+pihsnoitaler
+ro
+2snoitinfeD
+tneme
+semit
+lla ta noitavresbo
+lausiv tcerid
+rednu
+si nosrep
+= ecnallievrus
+lausiv
+suoun
+slavretni
+etunim
+01 fo mumixam
+a ta noitavresbo
+raluger
+= noitavresbo
+slavretni
+etunim
+03
+fo
+mumixam a
+ta noitavresbo
+raluger
+= noitavresbo
+tnetti
+slavretni
+ruoh
+1 fo
+mumixam
+a ta
+kcehc
+moor
+gnitiaw
+enituor
+= noitavresbo
+la
+.seitilicaf
+dna
+slocotorp
+ecivres
+htlaeh laudividni
+ot gnidrocca
+reffid
+yam
+selpicnirp
+tnemeg
+naisalartsuA
+eht
+fo noitatnemelpmi
+eht
+rof
+senilediuG
+.)0002(
+enicideM
+ycnegremE
+fo egelloC
+naisala
+.stnemtrapeD
+ycnegremE
+ni )STA(
+elacS
+stnemtrapeD
+ycnegremE
+rof
+senilediug
+egairT htlaeH
+latneM
+ecivreS
+htlaeH
+aerA
+yendyS
+nretsaE
+stnemegdelw
+htlaeH
+nowraB
+yb dedivorp
+sloot
+egairt
+gnitsixe
+segdelwonkc
+
+
+#### [Table Content]
+| *selpicnirp tnemeganam lareneG | )woleb deganam-esac noitinfied egairt htlaeh ees( fi latnem maet noitavresbo gnitaert htiw noisivrepuS ssucsiD ot lareneG noitcA refeR – – |
+| --- | --- |
+| noitatneserp lacipyT | egagne noitacidem ,noitadommocca nalp latnem smotpmys ot tnemeganam snoitcurtsni cinorhc cinorhc elba snrecnoc etuca-non noitacidem fo smelborp dna htiw smotpmys htiw citamos tceffe evitarepooC evitacinummoC gnipoleved ssucsid htiw tneitap gnitsixe-erP redrosid tneitap denialpxenu rof esrevda ,laicos pihsnoitaler tnailpmoC devresbO ot detropeR nwonK citohcysp nwonK tseuqeR ,laicnaniF htlaeh roniM elbA ni ro – – – – – – – – – – |
+| noitpircseD | :setats smotpmys tneitap srehto ecnabrutsid 1elacS cinorhc llew ro yllacinilc egairTnaisalartsuA fles ssertsid htiw laruoivaheb ot tneitap ,sisirc regnad etuca nwonK laicoS oN oN oN – – – – |
+
+
+
+
+CHAPTER 6: RURAL AND REMOTE
+TRIAGING
+Statement of purpose
+The purpose of this chapter is to examine the unique characteristics of the rural and
+remote emergency nursing environment and discuss how these characteristics may impact
+upon the assessment of clinical urgency in triage practice. Through reading the content and
+participating in the learning activities, nurses will identify strategies to promote accurate
+and consistent use of the ATS within the rural context.
+Learning outcomes
+After completing this chapter, participants will have enhanced knowledge of the rural
+and remote emergency nursing environment and of how this environment differs from
+the urban context, as well as an ability to perform accurate and consistent assessment of 35
+clinical urgency using the ATS within the rural and remote context.
+Learning objectives
+• Identify unique differences between urban and rural triage practices.
+• Discuss how these differences and challenges may impact, negatively or positively, on
+the performance of triage in a rural environment.
+• Identify and discuss strategies to support the rural triage practitioner in the
+accurate and consistent use of the ATS in their environment.
+• Demonstrate accurate and consistent application of the ATS within the rural and
+remote context.
+Key points
+• The triage process always involves the same skills and decision-making processes,
+regardless of where it is performed.
+• The contextual factors of rural or remote nursing practice may influence or impact
+upon the triage assessment process.
+• The ATS ‘time-to-treatment’ recommendations refer to the ideal maximum time
+that a patient in that category should wait for assessment and treatment. Local
+inability to meet these recommendations does not change the patient’s triage
+category, which is allocated according to the need for, not the availability of,
+emergency care.
+• Rural triage is often a role undertaken as part of the general responsibilities of the
+rural nurse.
+• Although the numbers and the casemix of patients that present to rural and
+remote EDs may be smaller than those in urban EDs, the full range of conditions
+
+
+
+Content
+The terms ‘rural’ and ‘remote’ refer to the 34 per cent of Australians who live outside a
+major city. The core difference between rural and remote nursing practice and its urban
+equivalent is the generalist advanced-practice role.136
+Bushy & Bushy (2001)137 describe the role of the rural nurse as an ‘expert generalist’ who
+is often expected to be a Geriatric Nurse, a Trauma Nurse and an Acute Care Nurse
+simultaneously, and who often functions without the immediate support of a medical
+practitioner.
+Rural and remote emergency departments/services
+It is appreciated that rural and remote triage may occur with very different levels of
+available resources from those available to an urban ED. Despite this, the principles of triage
+still apply. It may be, however, that the rural and remote Triage Nurse has a greater reliance
+on local practice and treatment guidelines.
+36 Within major urban EDs there is a multidisciplinary team available to provide the
+skill-mix required to ensure that each patient receives adequate assessment and care, and
+to support the novice Triage Nurse. In rural and remote areas, such support may not exist,
+and the Triage Nurse may need to provide immediate assessment and care without any
+support from other health professionals.
+One way to defne a rural or remote ED is to describe it as one without on-site medical
+staff.138-40 Current practice within rural facilities often involves patient care initiated
+by nurses. Therefore, a number of work practices have developed in response to local
+circumstances. These may include extension of the nursing role to initiate patient
+management while the doctor is en route. Some rural EDs have an arrangement with the
+local doctor whereby patients with non-urgent problems are asked to return at a later
+time. These practices rely heavily on the assessment skills, judgement and experience of
+the nurses in the rural facility. Some rural and remote EDs have developed local clinical
+guidelines for such situations; however, this is still the exception rather than the rule.139
+It is important to note that while the volume of patients in a rural ED is generally
+lower than that of an urban setting, and the caseload also varies, the range of presenting
+complaints is the same as that seen in urban EDs.141
+The ATS is applicable in rural and remote settings; however, the emphasis is on time until
+treatment is initiated, rather than time until seen by a doctor.139
+Triage in the rural context, therefore, does not just involve assessment of acuity; it may also
+involve early management decisions and treatment. The important principle to remember,
+however, is that although the boundaries or scope of triage practice may be different
+between rural and urban triage environments, these differences should not impact upon the
+consistent and accurate application of the ATS.
+
+
+
+Rural and remote nursing issues
+Although the ATS is applicable in the rural and remote triage contexts, and the expectation
+is of consistent and accurate application Australia wide, many factors impacting upon rural
+and remote nursing practice must be understood in order to ensure that this occurs.
+These factors may include access to continuing education, recruitment and retention issues,
+isolation and educational preparation for the generalist role.
+Rural Triage Nurses face unique issues that need to be recognised and considered. Features
+of the rural environment, and of the community and small local hospital services, may
+exacerbate these issues, and need to be considered as infuencing factors for rural triage.
+Some of the issues confronting rural Triage Nurses are listed below.30
+• Multiple jobs: Due to the spasmodic nature of the need for triage, rural Triage Nurses
+often have other jobs as well. Unlike their metropolitan counterparts, rural nurses
+do not dedicate their time to the triage desk. This can impact upon their opportunities
+for learning and maintaining skills through consistent practice.
+• Lack of a ‘safety net’: The Triage Nurse in a rural or remote environment may well be
+37
+alone in the facility, with no one around to provide support or advice.
+• Lack of other options for care: Patients in this environment cannot easily be triaged
+elsewhere in the immediate term. When the decision to triage elsewhere is made,
+consideration must include the distance, and the safest way for the patient to travel.
+• Time issues: The initial ‘wait’ time for patients is often not the key issue in this
+environment; rather, it may be the time it takes to get them to the hospital, and, once
+they have arrived, how to get them the most appropriate care in the fastest possible time.
+• Delivery of initial emergency care: This can be a source of anxiety for staff. Dealing
+with the unexpected, with limited support or specialised back-up, means that the
+rural Triage Nurse needs a broad range of knowledge and skills.
+• Personal and departmental safety:This can be a potential problem. Triaging without
+security, often without even another nurse, or a local police station, is a major source of
+anxiety in rural and remote triage practice.
+• The triage process may occur outside the hospital setting: For example, the triage
+process may occur as part of a district nursing community health care role, or via
+telephone, as patients try to avoid the inconvenience of travelling long distances to
+access health care advice or treatment. However, it must be emphasised here that the
+ATS is a face-to-face tool, and local protocols must guide other triage types.
+
+
+
+• Lack of anonymity within the community: This may result in a nurse being contacted
+at home, or within a social setting, to perform a triage assessment, and can present
+issues related to confdentiality. It may result in a nurse caring for a friend, acquaintance
+or relative. Personal relationships can also be unwittingly abused by patients seeking
+special treatment, which may make triage decisions more diffcult to make.
+• Decisions may carry enormous financial or social ramifications for patients and their
+families: This may be the case especially when a decision is made to triage away from
+the local health facility.
+• Decisions may carry collegial ramifications: This may be the case especially if a decision
+concerns the local doctor in a one-GP town, as a working relationship must still be maintained.
+• Awareness of budgetary pressures: Within a small facility this can be heightened, due
+to there being fewer buffers between hospital administration and the nurse.
+• Knowledge of the community: It can be easy to make assumptions when you know
+the community and the individual community members well. The Triage Nurse needs to
+be very careful to obtain detailed and clear information concerning the patients that
+38
+they are triaging and the history of their current complaint.
+It is vital that Triage Nurses in rural and remote emergency service areas are aware of the
+diffculties that these differences may present when assessing a patient using the ATS scale.
+Identifying strategies to preserve privacy, enhance communication and facilitate provision
+of appropriate emergency care are as important as ensuring that the nurse is supported in
+the role by having access to education and support. The latter may not be provided locally,
+but may be addressed through national initiatives such as this guide or through professional
+collegial memberships.
+
+
+
+CHAPTER 7: PAIN ASSESSMENT AT
+TRIAGE
+Statement of purpose
+The purposes of this chapter are to:
+• Provide a description of the physiological and behavioural indicators related to pain and
+pain assessment at triage; and
+• Identify the importance of providing early assessment of pain.
+Learning outcomes
+After completing this chapter, participants will be able to describe the assessment and
+measurement of pain, and to discuss how this informs triage decision-making.
+Learning objectives 39
+• Describe the factors influencing the perception and expression of pain.
+• Analyse the application of commonly used and validated pain assessment strategies in a
+triage setting.
+• Correlate possible pain assessment findings to the physiological discriminators used to
+guide triage acuity classifcation.
+• Construct and evaluate strategies to improve pain assessment and pain management
+from a triage perspective.
+Key points
+• Humane practice mandates the prompt assessment and relief of pain.
+• Pain is the reason most people present to the ED.
+• Pain is as severe as the patient reports.
+• Severity of pain influences triage category.
+
+
+
+Content
+Pain is the most common symptom reported by patients who present to the ED. Early
+assessment of pain enables effective management and relief of suffering.
+Pain is the response to actual or potential tissue damage, and involves physiological,
+behavioural and emotional responses. The patient’s self-report is regarded as the gold
+standard for measuring pain.57
+The experience of pain is recognised as being subjective, personal and as severe as the
+patient reports. However, this recognition does not currently extend into clinical practice,
+particularly in EDs, with numerous studies demonstrating that pain is often under-
+recognised, poorly assessed, and inappropriately treated.59
+Pain can be acute or chronic. Chronic pain differs from acute pain in that it has usually been
+present for more than three months. Chronic pain has a potential for under-treatment.58
+The incidence of chronic pain is increasing in Western populations, with an estimated
+one-third of the Australian population experiencing chronic pain, and is commonly
+associated with the elderly.
+40
+The ATS has included the severity of pain as a factor in determining the triage code.
+The inclusion of pain severity as a physiological discriminator in triage assessment is in
+recognition both of the humane factors associated with providing care to members of the
+community, and of the physiological effects of pain.61 These latter effects include increased
+risk of infection, delayed healing, and increased stress on cellular function and on
+organ-system stability.
+Assessment of pain
+Assessment should attempt to determine the mechanisms producing the pain, other factors
+infuencing the pain experience, and how pain has affected physical capacity, emotions and behaviour.
+As with the experience of pain itself, the assessment of pain requires a multifaceted
+approach, with no single tool able to provide an objective measurement of pain.
+Elements to be included in assessing pain include:
+• Descriptors and verbal expressions used by the patient
+• Information obtained from the patient relating to location, intensity, time factors
+such as onset and duration, and alleviating and aggravating factors
+• Heart rate, respiratory rate, blood pressure and other physiological parameters
+• Facial expressions and body language displayed by the patient
+• Pain severity scales.
+
+
+
+Self-reporting is considered the most reliable method of determining the severity of pain.
+Several tools have been created to assist with measuring a patient’s pain through self-report.
+However, no single tool is appropriate for the assessment of all patients, and nurses should
+have knowledge and skills in using a range of pain tools that can be applied as required,
+depending on age and cultural factors such as language.
+Suitable pain severity scales for use in a triage setting include a numerical rating scale (NRS),
+which is also known as a verbal pain score (VPS), and a visual analogue scale (VAS). These
+tools provide either a 100-point scale (NRS/VPS), or a 100-mm scale (VAS). For some patients,
+a verbal descriptor scale may be more suitable, using terms such as ‘no pain’, ‘mild pain’,
+‘moderate pain’ and ‘severe pain’, or other appropriate descriptors as identified by the patient.
+For young children, the Wong-Baker FACES Rating Scale is a commonly used tool.62 This
+scale has also been adapted for use in other populations, for example in patients with
+limited ability to communicate in English; however, this practice has attracted criticism as
+it may be construed as being demeaning to the adult patient. Several culture-specifc tools
+for both adult and paediatric patients have been developed with the recognition that care
+should be sensitive and responsive to cultural issues. Indeed, cultural variations need to be
+considered in the application of pain assessment tools.63,64
+41
+The Abbey Pain Scale (‘the Abbey’) is an Australian tool that has been designed to measure
+the severity of pain in people who have dementia and cannot verbalise their experience.65
+This tool provides a systematic approach to measuring the severity of pain at triage. A total
+score is calculated from responses to six items, each with a maximum score of three points
+(absent pain = 0; severe pain = 3). From a possible total of 18 points, a score of 0–2 is rated
+‘no pain’, 3–7 is rated ‘mild’, 8–13 is rated ‘moderate’, and >14 is rated ‘severe’. 66
+Pain severity scales can also be used to categorise self-reported pain into mild, moderate
+or severe pain. These categorisations can assist in determining an appropriate analgesia
+through the development of analgesic algorithms for paediatric and adult patients.67
+Application of a triage category
+The descriptive terms listed in Table 7.1 should be used as a guide to acuity for the ATS.
+Table 7.1: Determining a triage category2
+Descriptor ATS category
+Very severe 2
+Moderately severe 3
+Moderate 4
+Minimal 5
+
+
+#### [Table Content]
+| Descriptor | ATS category |
+| --- | --- |
+| Very severe | 2 |
+| Moderately severe | 3 |
+| Moderate | 4 |
+| Minimal | 5 |
+
+
+
+
+Validated methods for quantitative assessment of pain71
+Visual analogue scale
+Use a 100 mm line as shown below.
+0 100
+No pain Maximum pain
+Ask the patient to mark their level of pain on the line.
+Numerical rating scale
+The patient is asked to state a number that equates to their level of pain, where 0 = no
+pain, and 10 = the most severe pain, as shown in Table 7.2. (This scale is also known as the
+verbal analogue scale.)
+Table 7.2: The numerical rating scale
+Descriptive term Quantitative value
+42
+Severe pain 7–10
+Moderate pain 4–6
+Mild pain 1–3
+No pain 0
+Effective management of pain
+In a triage setting, musculoskeletal pain can be effectively reduced through simple
+measures such as rest, ice, compression and elevation (RICE).23,61,63 The administration of
+pharmacological agents within the triage area can be problematic. This practice needs to be
+supported by institutional policies and procedures, and should be considered by individual
+departments, taking into account the physical organisation of the triage area and the ability
+to reassess, monitor and evaluate patients.
+
+
+#### [Table Content]
+| Descriptive term | Quantitative value |
+| --- | --- |
+| Severe pain | 7–10 |
+| Moderate pain | 4–6 |
+| Mild pain | 1–3 |
+| No pain | 0 |
+
+
+
+
+CHAPTER 8: PAEDIATRIC TRIAGE
+Statement of purpose
+The purpose of this chapter is to provide a framework for applying the ATS to infants,
+children and adolescents.
+Learning outcomes
+After completing this chapter, participants will be able to identify the physiological and
+behavioural factors that inform the diagnosis of urgency in this population.
+Learning objectives
+• Discuss the application of the ATS to a paediatric population.
+• Identify the features of serious illness in children.
+43
+• Compare available assessment tools and consider their value to triage
+decision-making for this population.
+• Use a physiological approach to define clinical urgency and to apply the ATS to
+children presenting to the ED.
+Key points
+• The clinical priorities and the principles of urgency for infants, children and
+adolescents are the same as those for adults.
+• Determining urgency will require recognition of serious illness, some features of
+which may be different in infants and children.
+• The value of parents and their capacity to identify deviations from normal in their
+child’s level of function should not be underestimated.
+
+
+
+Content
+Infants and small children differ from adults physiologically and psychologically. Children
+and adolescents are also developmentally different from adults. The principles of paediatric
+assessment are the same as those for adult assessment; however, age infuences the pattern
+of presentation, assessment and management, as children are prone to rapid deterioration.
+Consistency of triage is optimised for this population when age, historical data and clinical
+presentation are all included in the triage assessment.2
+History-taking in paediatrics relies on information provided by primary carers and
+sometimes by the child or young person. It is important to develop a rapport with the
+patient and the carer in order to elicit the maximum amount of information in a relatively
+short timeframe.
+Interpreting the meaning of the information provided by carers is an additional challenge
+when triaging children, as the information that is given in this context will be infuenced by
+the carer’s own knowledge and experience.80
+44
+The importance of privacy for parents, children and young people at triage should not
+be ignored. Simple health problems may be an opportunity for parents to seek assistance
+regarding more sensitive issues.
+Young people have high mental and emotional needs and require greater privacy. They
+may wish to discuss their health concerns without the presence of their parents. (Refer to
+Chapter 5 for triage guidelines relating to mental health issues.)
+Clinical urgency
+A number of clinical features have been found to be signifcantly predictive of serious illness
+in infants and young children.81-89
+Hewson et al.90 demonstrated the value of several easily assessed parameters in positively
+identifying infants with serious illness, including activity levels, alertness, skin temperature,
+feeding patterns and fuid output. In particular, the following parameters were predictive of
+serious illness:
+• Decreased feeding (<½ normal intake in preceding 24 hours)
+• Breathing difficulty
+• Having fewer than four wet nappies in the preceding 24 hours
+• Decreased activity
+• Drowsiness
+• Being pale and hot
+• Febrile illness in a child under three months old.
+
+
+
+Several assessment tools use these known markers of serious illness in infants and
+young children as the basis for triage decision-making. These include the Triage Observation
+Tool91 and SAVE A CHILD.92 The Yale Observation Scale is another tool that may be helpful
+in detecting occult bacteraemia in infants.92-94 A brief summary of each of these tools is
+provided in the ‘Teaching resources’ section of this chapter.
+Physiological approach to triage assessment and decision-making
+General appearance
+Clinical data to contribute to the assessment of urgency can be gained from observing the
+general appearance of a child presenting to the ED. This is particularly signifcant in cases in which
+examination is likely to upset the infant or young child, making further examination diffcult.
+Airway
+Evaluation of the airway will concentrate on determining airway patency. 45
+Stridor is an indicator of airway obstruction, and therefore implies a high level of urgency.
+Evaluation of the extent of the airway obstruction in infants and young children should be
+made by assessing work of breathing.
+Cervical spine management forms a component of airway evaluation where the
+presentation is the result of trauma.
+Assessment and management of likely cervical injury in children is particularly challenging
+and may increase the relative urgency of the presentation.
+Breathing
+It is widely recognised that infants and young children tolerate respiratory distress
+poorly, and increased work of breathing has been shown to be an indicator of serious
+illness in infants.82,95
+Work of breathing and mental status are the most useful indicators of the severity of
+asthma. These parameters are also thought to be predictive of severity for most respiratory
+presentations in infants and young children.96,97
+Although the presence of elevated respiratory rate, retraction, nasal faring and a range of
+other clinical signs are an indication of signifcant illness, their absence may not always be a
+negative predictor of serious illness.88,98,99
+
+
+
+Circulation
+Hypotension is a very late sign of haemodynamic compromise in infants and children. Initial
+assessment should be dependent upon general appearance, pulse and central capillary refll.
+• Onset of pallor in infants is a significant finding and an indicator of serious illness.
+• Capillary refill time is an indicator of central perfusion and therefore an indirect
+measure of cardiovascular function.
+• Estimation of the level of dehydration is important – see Table 8.1.
+Table 8.1: Assessment of dehydration levels in infants142
+Signs Severity
+Mild Moderate Severe
+General condition Thirsty, restless, Thirsty, restless, Withdrawn, somnolent
+agitated irritable or comatose; rapid
+deep breathing
+Pulse Normal Rapid, weak Rapid, weak
+Anterior fontanelle Normal Sunken Very sunken
+46
+Eyes Normal Sunken Very sunken
+Tears Present Absent Absent
+Mucous membranes Slightly dry Dry Dry
+Skin turgor Normal Decreased Decreased with tenting
+Urine Normal Reduced, concentrated None for several hours
+Weight loss 4–5% 6–9% >10%
+Disability
+An abnormal conscious level always requires urgent assessment. An alteration in the level
+of activity can be an indicator of serious illness in infants and children.82,95
+Decreased conscious level can be a result of serious derangement of oxygenation
+or circulation.
+The different developmental levels of children will complicate conscious state and neurological
+assessment. The AVPU scale is a good method to assess level of consciousness at triage.
+Never underestimate the contribution of the parents or carer. They will often be able to
+identify subtle deviations from normal which you may not be able to detect clinically.
+Pain assessment should also form a component of the neurological assessment. Assessment
+of pain in children may require adaptation of pain measurement tools, and will be dependent
+on the child’s age. For example, behavioural tools would be appropriate for pre-verbal children,
+
+
+#### [Table Content]
+| Signs | Severity |  |  |
+| --- | --- | --- | --- |
+|  | Mild | Moderate | Severe |
+| General condition | Thirsty, restless, agitated | Thirsty, restless, irritable | Withdrawn, somnolent or comatose; rapid deep breathing |
+| Pulse | Normal | Rapid, weak | Rapid, weak |
+| Anterior fontanelle | Normal | Sunken | Very sunken |
+| Eyes | Normal | Sunken | Very sunken |
+| Tears | Present | Absent | Absent |
+| Mucous membranes | Slightly dry | Dry | Dry |
+| Skin turgor | Normal | Decreased | Decreased with tenting |
+| Urine | Normal | Reduced, concentrated | None for several hours |
+| Weight loss | 4–5% | 6–9% | >10% |
+
+
+
+
+History of presenting complaint
+History can be gathered from a number of sources, including the child and/or the caregiver.
+Children suffer different patterns of injury from adults in trauma. Mechanism of injury
+is an important part of assessment, as it is in adults, and can be used to predict patterns
+of injury. For example, a greenstick fracture is typical in a young child suffering from a fall.
+Child protection issues must be a consideration (see Chapter 10 – Mandatory reporting).
+It is important to ascertain recent potential contact with infectious diseases, such as
+chicken pox.
+Past history
+Co-morbid factors should be evaluated for the likely effect on their acute condition and
+therefore clinical urgency. For example, premature infants or children with congenital
+heart or lung disease have a greater propensity to developing signifcant cardiorespiratory
+dysfunction from respiratory infections.
+47
+Paediatric past history should also consider perinatal and immunisation history.
+Table 8.2 shows paediatric physiological discriminators for the ATS using the primary
+survey method.
+
+
+
+48
+811srotanimircsid
+lacigoloisyhp
+cirtaideaP
+:2.8
+el
+– 5
+yrogetaC
+– 4 yrogetaC
+–
+3 yrogetaC
+ycnegremE
+– 2 yrogetaC
+etaidemmI
+– 1 yrogetaC
+tnegru
+-noN
+tnegru -imeS
+tnegrU
+setunim
+01 nihtiW
+setunim
+021
+nihtiW
+setunim
+06 nihtiW
+setunim
+03 nihtiW
+tnetaP
+tnetaP
+tnetaP
+tnetaP
+detcurtsbO
+yaw
+detcurtsbo
+yllaitraP
+detcurtsbo
+yllaitraP
+detcurtsbo
+yllaitraP
+yrotaripser
+dlim
+htiw
+etaredom
+htiw
+yrotaripser
+ereves
+htiw
+ssertsid
+ssertsid
+yrotaripser
+ssertsid
+tneserp
+noitaripseR
+tneserp
+noitaripseR
+tneserp
+noitaripseR
+tneserp
+noitaripseR
+noitaripser
+tnesbA
+gnihta
+noitalitnevopyh
+ro
+ssertsid
+yrotaripser
+oN
+ssertsid
+yrotaripser
+oN
+yrotaripser
+dliM
+yrotaripser
+etaredoM
+yrotaripser
+ereveS
+noitaluc
+yrossecca
+esu
+on
+–
+yrossecca
+esu on
+–
+.g.e
+,ssertsid
+.g.e ,ssertsid
+.g.e ,ssertsid
+noitardyhed
+selcsum
+selcsum
+yrossecca
+esu
+dlim
+–
+esu
+etaredom
+–
+yrossecca
+esu ereves
+–
+ytivitca/C
+.noitcarter
+on
+–
+.noitcarter
+on
+–
+selcsum
+selcsum
+yrossecca
+selcsum
+ces
+2<
+llfer
+p
+noitcarter
+dlim
+–
+noitcarter
+etaredom
+–
+noitcarter
+ereves
+–
+asocum
+laro
+yr
+.knip
+niks
+–
+.elap niks
+–
+.sisonayc
+etuca
+–
+seye
+nekn
+rogrut
+eus
+tneserp
+noitalucriC
+tneserp
+noitalucriC
+tneserp
+noitalucriC
+tneserp
+noitalucriC
+noitalucric
+tnesbA
+sraet
+tnes
+,aidracydarb
+tnac
+fingiS
+tnafni
+na
+ni
+06< RH
+.g.e
+snoitaripser
+pee
+eslup
+kaew/ydaer
+cimanydomeah
+oN
+cimanydomeah
+oN
+cimanydomeah
+dliM
+cimanydomeah
+etaredoM
+cimanydomeah
+ereveS
+aidracyhc
+.g.e
+,esimorpmoc
+.g.e
+,esimorpmoc
+.g.e
+,esimorpmoc
+.g.e
+,esimorpmoc
+.g.e
+,esimorpmoc
+tuptuo
+enir
+larehpirep
+elbaplap
+–
+larehpirep
+elbaplap
+–
+larehpirep
+elbaplap
+–
+ydaerht/kaew
+–
+larehpirep
+tnesba
+–
+seslup
+seslup
+seslup
+eslup
+laihcarb
+seslup
+.yrd
+,mraw
+,knip
+niks
+–
+.yrd
+,mraw
+,knip niks
+–
+mraw
+,elap
+niks
+–
+,looc
+,elap niks
+–
+,tsiom
+,dloc
+,elap niks
+–
+.aidracyhcat
+dlim
+–
+aidracyhcat
+etaredom
+–
+delttom
+.sces
+4–2
+l lfer
+yrallipac
+–
+aidracyhcat
+tnacfingis
+–
+.sces
+4>
+l lfer
+yrallipac
+–
+noitardyhed
+s/s
+oN
+noitardyhed
+s/s
+3<
+noitardyhed
+s/s
+6–3
+noitardyhed
+s/s
+6>
+dellortnocnU egahrromeah
+etuca
+on
+ro
+SCG
+lamroN
+on
+ro
+SCG lamroN
+31>
+SCG
+21–9
+SCG
+8<SCG
+ytiliba
+.SCG
+lausu
+ot
+egnahc
+ot
+egnahc etuca
+ni esaerced
+etaredoM
+ni
+esaerced
+ereveS
+.g.e
+,ytivitca
+ot
+noitaretla
+oN
+.SCG lausu
+.g.e
+,ytivitca
+.g.e ,ytivitca
+gniyalp
+–
+ni
+esaerced dliM
+cigrahtel
+–
+,tcatnoc
+eye on
+–
+.gnilims
+–
+.g.e ,ytivitca
+nehw
+tcatnoc
+eye
+–
+elcsum
+desaerced
+–
+tcatnoc
+eye
+tub teiuq
+–
+.debrutsid
+.enot
+htiw
+stcaretni
+–
+.stnerap
+
+
+#### [Table Content]
+| setunim – 5 tnegru 021 yrogetaC nihtiW -noN | tnetaP | tneserp noitaripseR | ssertsid yrossecca .noitcarter yrotaripser selcsum esu on on oN – – | tneserp noitalucriC | .yrd larehpirep cimanydomeah ,mraw .g.e ,esimorpmoc ,knip elbaplap seslup niks oN – – | noitardyhed s/s oN | etuca .g.e ,ytivitca .SCG on ro lausu ot SCG noitaretla ot gniyalp .gnilims lamroN egnahc oN – – |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| setunim – 4 tnegru 06 yrogetaC nihtiW -imeS | tnetaP | tneserp noitaripseR | ssertsid yrossecca .noitcarter yrotaripser selcsum esu on on oN – – | tneserp noitalucriC | .yrd larehpirep cimanydomeah ,mraw .g.e ,esimorpmoc ,knip elbaplap seslup niks oN – – | noitardyhed s/s 3< | tcatnoc on ro ot ni eye htiw SCG egnahc esaerced .SCG .g.e tub stcaretni .stnerap lamroN ,ytivitca teiuq etuca lausu dliM – – |
+| setunim – 3 yrogetaC 03 tnegrU nihtiW | yrotaripser detcurtsbo dlim yllaitraP ssertsid tnetaP htiw | tneserp noitaripseR | yrossecca noitcarter yrotaripser .g.e esu selcsum .knip ,ssertsid dlim dlim niks dliM – – – | tneserp noitalucriC | larehpirep cimanydomeah .aidracyhcat mraw .g.e ,esimorpmoc ,elap elbaplap seslup niks dlim dliM – – – | noitardyhed s/s 6–3 | ni nehw esaerced tcatnoc .debrutsid .g.e cigrahtel 31> etaredoM ,ytivitca eye SCG – – |
+| ycnegremE setunim – 2 01 yrogetaC nihtiW | detcurtsbo ssertsid etaredom yrotaripser yllaitraP tnetaP htiw | tneserp noitaripseR | noitcarter yrotaripser selcsum esu .g.e etaredom yrossecca etaredom .elap etaredoM ,ssertsid niks – – – | tneserp noitalucriC | cimanydomeah aidracyhcat .sces 4–2 .g.e ydaerht/kaew eslup ,looc l lfer ,esimorpmoc ,elap etaredom laihcarb yrallipac etaredoM niks – – – – | noitardyhed s/s 6> | elcsum ni ,tcatnoc esaerced desaerced 21–9 .g.e eye .enot ereveS ,ytivitca on SCG – – |
+| etaidemmI – 1 yrogetaC | yrotaripser detcurtsbo detcurtsbO ereves yllaitraP ssertsid htiw | noitaripser noitalitnevopyh tnesbA ro | yrossecca noitcarter yrotaripser .sisonayc esu .g.e selcsum ereves ereves ,ssertsid etuca ereveS – – – | tnafni ,aidracydarb noitalucric na ni 06< tnac tnesbA RH fingiS .g.e | ,tsiom aidracyhcat .sces cimanydomeah larehpirep 4> .g.e ,dloc l lfer ,esimorpmoc ,elap tnacfingis delttom yrallipac tnesba seslup ereveS niks – – – – | dellortnocnU egahrromeah | 8<SCG |
+
+
+
+
+)tnoc(
+811srotanimircsid
+lacigoloisyhp
+cirtaideaP
+:2.8
+el
+– 5 yrogetaC
+– 4 yrogetaC
+–
+3 yrogetaC
+ycnegremE
+– 2
+yrogetaC
+etaidemmI
+–
+1
+yrogetaC
+tnegru -noN
+tnegru-imeS
+tnegrU
+setunim
+01
+nihtiW
+setunim
+021 nihtiW
+setunim
+06 nihtiW
+setunim
+03
+nihtiW
+.g.e ,niap
+dlim ro oN
+.g.e
+,niap dliM
+.g.e
+,niap
+etaredoM
+.g.e
+,niap
+ereveS
+stnerap/tneitap
+–
+stnerap/tneitap
+–
+stnerap/tneitap
+–
+stnerap/tneitap
+–
+niap
+dlim
+troper
+niap
+dlim
+troper
+niap
+etaredom
+troper
+niap ereves
+troper
+mraw
+,knip ,niks
+–
+mraw
+,knip
+,niks
+–
+mraw
+,elap
+,niks
+–
+looc
+,elap
+,niks
+–
+lativ
+ni noitaretla
+on
+–
+ni
+noitaretla
+on
+–
+sngis
+lativ
+ni noitaretla
+–
+sngis
+lativ
+ni noitaretla
+–
+sngis
+sngis
+lativ
+.aiseglana
+stseuqer
+–
+.aiseglana
+stseuqer
+–
+.aiseglana
+senilced
+–
+.aiseglana
+stseuqer
+–
+ralucsavoruen
+oN
+ralucsavoruen
+dliM
+ralucsavoruen
+etaredoM
+ralucsavoruen
+ereveS
+esimorpmoc
+.g.e
+,esimorpmoc
+.g.e ,esimorpmoc
+.g.e
+,esimorpmoc
+tneserp
+eslup
+–
+tneserp
+eslup
+–
+sseleslup
+–
+noitasnes
+/lamron
+–
+looc
+–
+dloc
+–
+tnemevom
+/lamron
+–
+noitasnes
+–
+noitasnes
+lin
+–
+.l
+lfer
+yrallipac
+lamron
+–
+tnemevom
+–
+tnemevom
+lin
+–
+.llfer
+yrallipac
+–
+.llfer
+yrallipac
+–
+yrujni ro
+ssenlli
+suoires
+rof srotcaf
+ksiR
+.atad
+lacigoloisyhp
+dna
+stneve
+fo
+yrotsih
+fo
+thgil
+eht
+ni
+deredisnoc
+eb
+dluohs
+es
+.yrujni
+suoires
+fo
+ksir
+desaercni
+=
+srotcaf
+ksir
+elpit
+.ytiuca
+rehgih
+fo
+yrogetac
+egairt
+fo noitacolla
+ni
+tluser
+yam
+srotcaf
+ksir
+erom
+ro
+eno
+fo
+ecneserp
+.g.e
+,rehtO
+stneve
+.g.e ,selbairav
+lacirotsiH
+dna
+shtnom
+3<
+egA
+.g.e
+,seitidibrom
+oC
+.g.e
+,yrujni
+fo msinah
+hsar
+•
+DE
+ot
+noitatneserp
+gnidecerp
+elirbef
+•
+ytirutamerp
+xH
+yrujni
+gnitarten
+fo stceffe
+laitnetop/lautca
+•
+edosipe
+citonayc/cieonpa
+•
+gnideef
+ot
+egnahc
+etuca
+•
+esaesid
+yrotaripser
+•
+thgieh
+–
+2>
+ll
+lohocla/sgurd
+ytivitca
+eruzies
+•
+nrettap
+esaesid
+ralucsavoidrac
+•
+hpk
+06>
+AC
+erusopxe
+lacimehc
+•
+ekatni
+desaerced
+•
+gnipeels
+ot
+egnahc
+etuca
+•
+esaesid
+laner
+•
+hpk
+03>
+tsilcyc/AB
+noitamonevne
+•
+tuptuo
+desaerced
+•
+nrettap
+amonicrac
+•
+nairtsed
+noisremmi
+•
+loots yllej
+tnerruc
+der
+•
+.g.e
+,ecneloiv
+fo smitciV
+setebaid
+•
+revollor/noitce
+ydob
+ni noitaretla
+•
+.gnitimov
+deniats
+elib
+•
+ksir
+ta dlihc
+•
+esuba
+ecnatsbus
+•
+noitacirtxe
+degnolo
+.erutarepmet
+nrecnoc
+latneraP
+tluassa
+lauxes
+•
+desimorpmoc-onummi
+•
+)setunim
+0
+.tcelgen
+•
+esaesid
+latinegnoc
+•
+tnapucco
+rac
+emas
+hta
+.xH
+lacidem
+xelpmoc
+•
+.noisolp
+49
+
+
+#### [Table Content]
+| setunim – 5 tnegru 021 yrogetaC nihtiW -noN | lativ .g.e stnerap/tneitap niap mraw ni .aiseglana ,niap noitaretla dlim ,knip dlim senilced troper ,niks sngis ro on oN – – – – | ralucsavoruen esimorpmoc oN |
+| --- | --- | --- |
+| setunim – tnegru-imeS 4 yrogetaC 06 nihtiW | .aiseglana stnerap/tneitap niap mraw ni noitaretla dlim .g.e ,knip sngis stseuqer ,niap troper ,niks lativ on dliM – – – – | .l tnemevom lfer noitasnes ralucsavoruen yrallipac .g.e tneserp ,esimorpmoc /lamron /lamron lamron eslup dliM – – – – |
+| setunim – 3 yrogetaC 03 tnegrU nihtiW | niap sngis .aiseglana .g.e stnerap/tneitap etaredom mraw lativ ,niap ni ,elap noitaretla stseuqer etaredoM troper ,niks – – – – | ralucsavoruen .llfer .g.e tneserp ,esimorpmoc noitasnes tnemevom yrallipac etaredoM eslup looc – – – – – |
+| ycnegremE setunim – 2 01 yrogetaC nihtiW | sngis niap .aiseglana stnerap/tneitap ereves looc lativ .g.e ni ,niap ,elap noitaretla stseuqer troper ereveS ,niks – – – – | ralucsavoruen .llfer .g.e tnemevom noitasnes ,esimorpmoc yrallipac sseleslup ereveS dloc lin lin – – – – – |
+| etaidemmI – 1 yrogetaC |  |  |
+
+| fo stceffe erusopxe ydob laitnetop/lautca lohocla/sgurd noitamonevne .erutarepmet ni noisremmi .g.e lacimehc noitaretla ,rehtO hsar • • • • • • |
+| --- |
+| stneve DE ot edosipe .g.e noitatneserp loots .gnitimov ,selbairav citonayc/cieonpa ytivitca ekatni tuptuo yllej nrecnoc tnerruc deniats desaerced desaerced lacirotsiH gnidecerp eruzies latneraP der elib • • • • • • |
+| gnideef gnipeels .g.e dna ,ecneloiv ot ot shtnom egnahc egnahc tluassa ksir nrettap nrettap fo ta .tcelgen 3< elirbef etuca etuca smitciV dlihc lauxes egA • • • • • • |
+| esaesid desimorpmoc-onummi .xH esaesid .g.e esaesid esuba lacidem ,seitidibrom ytirutamerp ralucsavoidrac esaesid yrotaripser amonicrac ecnatsbus latinegnoc setebaid xelpmoc laner oC xH • • • • • • • • • |
+
+
+
+
+CHAPTER 9: PREGNANCY AND
+TRIAGE
+Statement of purpose
+The purpose of this chapter is to:
+• Provide an outline of the physiological adaptations that occur in pregnancy; and
+• Discuss the factors that influence the triage code allocation for pregnant women.
+Learning outcomes
+After completing this chapter, participants will be able to state the main physiological
+changes that occur in pregnancy and explain how these adaptations will infuence the
+allocation of a triage code. Participants will also be able to identify common and
+life-threatening complications that present to triage and discuss how urgency is determined
+50 for these conditions.
+Learning objectives
+• Outline the physiological changes in pregnancy that may modify triage decision-making.
+• Describe the relevant questions to ask about a woman’s obstetric history.
+• Discuss common non-obstetric conditions that may adversely impact on a pregnant
+woman and the unborn child.
+• Explain the maternal factors that may alert the Triage Nurse that urgent foetal
+assessment is required.
+• Discuss significant obstetric complications of pregnancy that impact on the pregnant
+woman and the unborn child.
+Key points
+• All women of child-bearing age should be considered to be pregnant until
+proven otherwise.
+• An assessment of urgency must be made on the basis of both the woman and
+the foetus.
+• An elevated BP is an ominous sign: the higher the BP the more urgent the review.
+• Pregnant women are at an increased risk of a number of conditions, including
+cerebral haemorrhage, cerebral thrombosis, severe pneumonia, atrial arrhythmias,
+venous thrombosis and embolus, spontaneous arterial dissection, cholelithiasis
+and pyelonephritis, than non-pregnant women of child-bearing age.
+• Presentations may include concerns about normal manifestations or progression
+of pregnancy.
+
+
+
+Content
+Triage and the pregnant patient
+A pregnant woman presenting to an ED raises a number of unique challenges to the Triage
+Nurse.
+• The Triage Nurse needs to be aware of the normal physiological and anatomical
+adaptations of pregnancy because these will infuence assessment.
+• Triaging should consider the wellbeing of both the mother and the foetus and potential
+threats to either.
+• The pregnant woman may present with any disease.
+The presentation of some diseases is modifed by pregnancy and some diseases only occur
+in pregnancy.
+Pregnancy and the primary survey
+51
+Airway
+Any pregnant women presenting to the ED with a potentially compromised airway needs
+urgent medical attention. Pregnant women are often diffcult intubations due to patient
+size, patient positioning and different induction agent requirements due to cardiovascular
+physiological changes.
+Breathing
+Progesterone is thought to be responsible for altering the sensitivity of the respiratory
+centre and increasing the drive to breathe.119
+• Pregnant women commonly experience increased nasal and airway vascularisation and
+mucosal oedema. This presents as an increase in complaints about nasal congestion.
+• About one-third of women with asthma suffer a deterioration of their illness
+during pregnancy.120
+Circulation
+Pregnancy is described as a hyperdynamic state and physiological changes occur as early
+as 6–8 weeks gestation. Progesterone causes widespread vasodilatation and oestrogen is
+thought to contribute to a 40–50 per cent increase of blood volume. The diastolic blood
+pressure falls on average 6–17 mmHg, with BP lowest during the second trimester. Cardiac
+output (CO) increases by 30–50 per cent.
+At 20 weeks gestation, the weight of the uterus compresses the inferior vena cava if
+the woman is lying on her back. The subsequent reduction in placental fow is enough
+to compromise foetal wellbeing and the drop in venous return reduces maternal CO
+and BP. Unspecified changes occur to blood vessels that predispose pregnant women to
+spontaneous arterial dissections.
+
+
+
+The splenic artery, subclavian artery and aorta, for example, have an increased tendency to
+spontaneous dissection, even in women with no previous medical history.
+Domestic violence is more common during pregnancy and is associated with an increase in
+obstetric complications for the mother and adverse neonatal outcomes.123
+Important points to note:
+• Pregnant women often describe palpitations during pregnancy, which is usually due to
+the hyperdynamic fow.
+• The high volume and dynamic blood flow is thought to contribute to the increased
+likelihood of cerebral haemorrhage (especially sub-arachnoid haemorrhage (SAH))
+in pregnancy.
+• It is not uncommon for pregnant women to experience a sudden and serious
+deterioration of their condition therefore pregnant women showing signs of
+haemodynamic de-compensation require urgent medical assessment.124
+• All pregnant women >20 weeks gestation should have a left lateral tilt (wedge under
+their right hip, or whole bed tilted if wedge is contraindicated) if they are lying down.
+• Pulmonary embolus is relatively common during pregnancy due to the changes in the
+coagulation system associated with pregnancy.
+52
+• In the setting of trauma, all usual trauma criteria should be considered. Additional
+considerations include trauma to the uterus, placenta or foetus, particularly in the third
+trimester when the foetus is viable. The maternal vital signs may remain stable even
+when loss of one-third of blood volume may have occurred.125
+• ‘The best initial treatment for the foetus is the optimum resuscitation of the mother.’125
+Common conditions that present to ED according to gestational age
+Problems occurring prior to 20 weeks
+Pregnant women frequently present to the ED with vaginal bleeding. Common causes
+include the various types of miscarriage (i.e. threatened, inevitable, complete, incomplete
+and septic).
+• Knowledge of the volume and colour of per vaginal (PV) loss will assist the Triage
+Nurse with categorising the urgency of the case.
+• Bright red blood loss is usually indicative of active bleeding, while brownish red blood
+loss is usually old.
+• Many women may also complain of associated abdominal pain that may be likened to
+severe period pain.
+• Shoulder tip pain can be indicative of a bleeding ectopic pregnancy.
+• The first and foremost diagnosis to exclude in the female of child-bearing age,
+including those who have undergone sterilisation procedures presenting with vaginal
+bleeding, is an ectopic pregnancy.126
+
+
+
+Abdominal pain is the most common symptom in ruptured ectopic pregnancy.127
+Non-ruptured ectopic pregnancies generally present with bleeding (brown being the most
+common) due to low progesterone and consequent shedding of the decidua.
+Regardless of the diagnosis, vital signs that deviate from normal and severe pain (such as
+torsion or ruptured cysts) warrant prompt medical assessment.
+Problems occurring from 20 weeks onwards
+Pregnant women from 20 weeks gestation may present with the following obstetric conditions:
+• Antepartum haemorrhage
+• Preeclampsia (including eclampsia)
+• Pre-term rupture of the membranes and labour.
+Hypertension (>140/90) is a particularly important sign to alert the Triage Nurse to a more
+serious problem. The presence of the associated symptoms of severe preeclampsia warrant
+urgent medical assessment. These include:
+• Headache
+• Visual disturbances 53
+• Epigastric pain
+• Right upper quadrant (RUQ) pain
+• Non-dependent oedema.
+These women are at risk of ftting and placental abruption, and the foetus has a higher risk
+of placental insuffciency.
+There is a correlation between the degree of hypertension and complications such as
+cerebral haemorrhage.
+• Antepartum haemorrhage is defined as >15 mL of blood loss from the vagina from
+20 weeks gestation.
+• Common causes include placenta praevia and placental abruption.
+• In placenta praevia, blood loss is usually visible PV and is not usually accompanied
+by pain.
+• In placental abruption, the primary symptom is abdominal pain. The associated blood
+loss may be concealed between the placenta and uterus. Haemodynamic changes are
+only seen with big bleeds, smaller bleeds may be diffcult to detect or more easily
+detected with an abnormal cardiotocograph (CTG).The main signs and symptoms are
+haemodynamic changes associated with hypovolaemic shock and abdominal pain.
+Postnatal women may present with the following:
+• Secondary postpartum haemorrhage ± puerperal sepsis
+• Mastitis
+• Wound infection
+• Eclampsia
+• Postpartum cardiomyopathy
+
+
+
+Urgent threats to foetal wellbeing
+• Changes in oxygen saturations in the mother are of direct relevance to foetal wellbeing.
+A small reduction in maternal oxygenation can severely impact on foetal oxygenation
+because of the left shift in the oxyhaemoglobin dissociation curve associated with foetal
+haemoglobin.129 Consider oxygen saturation at triage on all pregnant women.
+• Major alterations in blood pressure (whether high or low) are not well tolerated by
+the foetus.
+• Active vaginal bleeding at any gestation presents a risk to the foetus.
+• Abdominal pain during pregnancy may represent a pathological process threatening
+the foetus.
+• Pregnant women normally feel foetal movement from 18–20 weeks gestation. A regular
+pattern of foetal movement is a reassuring sign of foetal wellbeing. Absent or diminished
+foetal movements require prompt assessment.
+54
+
+
+
+CHAPTER 10: MEDICO–LEGAL
+ISSUES
+Statement of purpose
+The purpose of this chapter is to outline the legal responsibilities associated with the
+professional practice of triage.
+Learning outcomes
+After completing this chapter, participants will be able to apply medico–legal concepts to
+triage practice.
+Learning objectives
+55
+• Discuss the role of education and supervised practice in relation to triaging; and
+• Describe the medico–legal responsibilities of the nurse performing the triage role including:
+– Informed consent
+– Duty of care
+– Negligence
+– Documentation
+– Confdentiality
+– Preservation of forensic evidence.
+Key points
+• Nurses performing the role of triage must have appropriate education and
+supervised practice prior to practicing independent triage.
+• Documentation must be accurate and contemporaneous.
+• There should be a clear understanding of duty of care.
+• Nurses must appreciate the importance of re-triaging.
+• Policies and protocols should be readily accessible for the nurse performing the
+triage role.
+
+
+
+Content
+Role of the Triage Nurse
+A nurse performing triage must have an appropriate level of knowledge and skills to
+perform the role. Nurses have a legal and professional duty to perform the role of Triage
+Nurse utilising a systematic approach.
+Emergency Nurses, as professionals, are accountable for their practice. The accountability
+comes from the utilisation of available protocols, the completion of the correct
+documentation, and adherence to standards and quality guidelines. Protocols ideally help in
+the maintenance of a consistently high standard of care at the institution and can be utilised if
+necessary to provide evidence of the clinical practice encouraged at the health care facility.
+The physiological discriminators and Australasian Triage Scale (ATS) are examples of
+the guidelines that are available for the nurse to utilise. It is not assumed that following
+protocols blindly will protect the nurse from any legal liability. With this in mind,
+consideration should also be given to the autonomy of the role, with use made of the Triage
+56 Nurses’ independent judgement for each triage episode, and the ability to utilise his or her
+expertise to individualise the assessment of the patient.
+Protocols should be viewed as the minimum standard of care required to be delivered.
+Position statements that describe the roles and responsibilities of the Triage Nurse
+including the minimum practice standard have been produced by the professional bodies.
+All nurses should know some basic legal principles, which include consent, the elements of
+negligence, defnition and sources of the standards of care, and how policies and guidelines
+can infuence practice. There is an expectation that the nurse performing the role of the
+Triage Nurse will have had adequate experience, training and supervision to perform
+the role. The employing institution also has a responsibility to ensure that the staff are
+adequately prepared to perform the role.
+Consent
+The fve elements of consent are as follows:
+1. Consent must be given voluntarily.
+2. A person must have the legal capacity to give consent.
+3. Consent should be informed.
+4. Consent must be specifc.
+5. Consent must cover what is actually done.
+
+
+
+The absence of any one element renders the consent invalid. Consent may be given in
+several ways:
+• Implied consent: Implied consent is the most straightforward. With implied consent, by
+virtue of the patient presenting at the triage area to be assessed does not necessarily
+imply consent, but consent is often implied by the patient’s behaviour. This implied
+consent becomes less defned if the patient is confused or unable to communicate for
+any other reason.
+• Verbal consent: This form of consent is more valid than implied consent. For example, if
+the Triage Nurse states that he or she is going to ask the patient a couple of questions,
+and the patient agrees to this, this implies verbal consent.
+• Written consent: This form of consent is not something that is necessarily obtained by
+the Triage Nurse during his or her assessment, however there should be awareness of
+the local policies and procedures regarding obtaining of written consent.
+Duty of care
+By engaging with a patient as they present to the ED, the Triage Nurse enters into a health
+professional–patient relationship. The nurse shares the responsibility of the hospital to
+ensure that patients who present to the ED are offered an appropriate assessment of their
+57
+treatment needs.
+A ‘duty’ is an obligation that is recognised by law, and the nurse’s duty to a patient is to
+provide the same level or degree of care that would be employed by a nurse practising
+under similar or the same circumstances. The Triage Nurse then has an obligation to try to
+protect the patient from any foreseeable harm or injury ensuring a reasonable standard of
+care. This reasonable standard of care may be informed by policies such as the Minimum
+Standards for Triage and other documents such as the Australian Nursing and Midwifery
+Council (ANMC) competencies.
+Scales such as the ATS are also utilised to guide decision-making, remembering that the ATS
+are guidelines for care.
+There are certain circumstances when the Triage Nurse may be forced to rapidly detain
+a patient because if they leave they pose a risk of harming themselves or others in the
+community. Such action is covered by legislation (which is different in different jurisdictions)
+and may be initiated under the principle of necessity under common law. It is important
+that such circumstances are immediately referred to the senior clinician on duty.
+The proportion of patients who do not wait for medical treatment in EDs may be up to
+20 per cent of presentations. This is regarded as representing a failure to access the health
+system. Patients may choose to leave the hospital without being seen by the medical staff
+in the ED, and if the patient is competent the Triage Nurse cannot restrain them. However,
+the Triage Nurse has a responsibility to warn the patient of the consequences of such a
+decision, and appropriate documentation recording this decision should be completed by
+the patient and witnessed.
+
+
+
+However, patients who have cognitive impairment from drug use, alcohol use or mental
+illness are at risk from adverse events in such situations. The Triage Nurse must therefore
+consider their duty of care in such cases.
+The Triage Nurse must be aware of his or her responsibilities with these patients and abide
+by any local policies or protocols.
+Negligence
+Negligence laws vary between states and have recently undergone signifcant changes.
+Nurses have a responsibility to behave in a reasonable manner. If there is any breach from
+this responsible approach which results in some type of injury to another, this breach
+constitutes negligence.
+For negligence to be proven it requires the establishment of all of the following elements:
+• Duty to meet the standard of care
+• Breach of the duty to meet the standard of care
+• Breach of that duty which causes foreseeable harm
+• Causing actual harm and injury
+58
+• Causing loss.
+Documentation requirements
+Communication with and by the staff leads to increased information shared and clear advice
+given. Medical records are a method of communication for health care team members and
+are a contemporaneous record of events. They must be accurate, clear and succinct. It is also
+expected that the records will be easily accessible and able to be understood.
+Documentation of each interaction between the nurse performing triage and the patient
+and/or signifcant others are another area of accountability for practice. The Australasian
+College for Emergency Medicine (ACEM) is clear in its guidelines about the minimum
+information that is required to be recorded for any triage episode.
+Documentation standards that are required by ACEM are:
+• Date and time of triage assessment
+• Name of the Triage Nurse
+• Chief complaint/presenting problem
+• Limited relevant history
+• Relevant assessment findings
+• Initial triage category allocated
+• Re-triage category with time and reason
+• Assessment and treatment area allocated
+• Diagnostic, first aid or treatment initiated at triage.
+Any change in the patient’s condition should be documented clearly. T his documentation
+should include the time of the re-triage, the reason for the re-triage and who was responsible
+
+
+
+The Triage Nurse should be aware of the management systems in place at the individual
+institutions to facilitate this documentation.
+Similarly, if it is the practice of the institution to transfer the care of patients to other health
+care providers such as general practitioners, accurate and concise documentation of any
+treatment administered and any recommended course of action should be made.
+Some patients choose to leave prior to medical assessment. If such a patient advises the
+Triage Nurse they are not waiting, the Triage Nurse should document this decision, as well
+as any advice given to the patient, including possible adverse outcomes.
+Confdentiality
+Health professionals must maintain any information that has been provided in-confdence to
+them. It is also expected that the patient is in receipt of privacy from health professionals.
+Safeguards are in place to protect patient’s information. These include health legislation at
+both federal and state level.
+The Triage Nurse also has a responsibility to ensure the patient’s privacy is respected both
+59
+during the triage assessment and while the patient waits in the waiting room. The hospital
+policy regarding patient’s privacy and rights should also be readily accessible to the Triage
+Nurse.
+A health care professional is obliged to treat the patient’s medical information as private
+and confdential. However, in certain circumstances there is a legal requirement to override
+a patient’s privacy and confdentiality; for example, children at risk. Otherwise, a breach of a
+patient’s privacy constitutes a breach of the duty of care.
+Mandatory reporting responsibilities
+If there is any suspicion that a child or children may be in need of care or may be being
+maltreated, the nurse has a legal responsibility to report it to the relevant authorities and
+refer to their jurisdiction.
+Although this reporting may not occur from the triage desk, the nurse needs to be aware
+of the legal requirements and of the procedures and documentation requirements of the
+hospital, in order to fulfl these obligations.
+Preservation of forensic evidence
+Nurses performing the triage role must be familiar with the hospital’s procedures for
+dealing with the preservation of forensic evidence involving a patient who is a possible
+victim of crime (e.g. rape or assault). These procedures should include liaison with police
+offcers as appropriate, with the patient’s consent.
+
+
+
+INDEX C
+A
+Canadian Triage and Acuity Scale, 6
+capillary refll time, paediatric triage, 46, 48
+Abbey Pain Rating Scale, 41 cardiac output, pregnant patients, 51
+ABCs of mental health assessment, 28–9 cardiotocograph, 53
+abdominal pain, pregnant patients, 54 carers, information provided by, 44, 46
+accountability, 56 cerebral haemorrhage, 52
+ACEM, see Australasian College for Emergency cervical spine management, paediatric triage, 45
+Medicine challenging communications, 17
+acuity, measuring, 6 children, see paediatric triage
+acute behavioural disturbance, 31 chronic pain, 40
+acute pain, 40 circulation problems, 19
+affect, 28 paediatric triage, 46, 48
+age factors, 19, see also paediatric triage pregnant patients, 51
+extremes of age, 24 clinical urgency, see urgency
+gestational age, 52–4 co-morbid factors, 47
+young patients, 31 cognitive impairments, see conscious-state
+airway obstruction, 19, 21 abnormalities; mental health triage
+paediatric triage, 45, 48 collegial ramifcations, 38
+pregnant patients, 51 comfort, need for, 17
+60 altered consciousness, 22, 46, 58 communication issues, 13–17
+analgesia, 42 community knowledge, 38
+antepartum haemorrhage, 53 conditions, criteria based on, 19, 28, 46
+aorta, 52 confdentiality issues, 44, 59, see also privacy issues
+appearance criteria, 21, 28, 45
+conscious-state abnormalities, 22, 46, 58
+application procedures
+consent, 56–7
+Australasian Triage Scale, 10
+consistency of triage, 11
+pain assessment, 42
+conversation criteria, 29
+assessment techniques, 21
+coronial investigations, 25
+mental health, 27–31
+correct triage decisions, 7
+pain, 40–1
+CTAS, 6
+assumptions, 16
+cultural diversity, 16
+asthma, 45, 51
+ATS, see Australasian Triage Scale D
+Australasian College for Emergency Medicine, 58
+decision-making, factors in, 12
+Australasian Triage Scale, vii, 5–6, 9–12, 56
+defnitions, 3
+AVPU scale, 23, 46
+dehydration, paediatric triage, 46, 48
+B delirium, 30
+dementia, 30
+behaviour
+acute behavioural disturbance, 31 detention of patients, 57
+in mental health assessment, 28 disability rating, 19, 22–3, 46, 48–9
+blood pressure, 53, see also hypotension district nursing, 37
+Box Hill Hospital System, 10 documentation requirements, 58–9
+breathing duty of care, 57–8
+paediatric triage, 45, 48
+respiratory distress, 19, 22
+
+
+
+E I
+eclampsia, 53 Immediate treatment criteria
+ectopic pregnancy, 52–3 mental health assessment, 32
+education for Triage Nurses, 3, 8 paediatric triage, 48–9
+elderly patients, 19, 24 implied consent, 57
+emergency departments importance, need to feel, 17
+activity in, 14 infectious diseases, 47
+rural and remote, 36 injury patterns, 47
+triage in, 4 Ispwich Triage Scale (ITS), 10
+emergency nurses, see Triage Nurses L
+Emergency Severity Index, 7
+Emergency treatment criteria language use, 16
+mental health assessment, 32 left lateral tilt, 52
+paediatric triage, 48–9 lesson plans, 3
+emergency triage scales, 5–6 life support equipment, 21
+emotions, 16 life-threatening conditions, 19
+environmental criteria, 24 M
+environmental hazards, 21
+equipment, 21 management of pain, 42
+ESI, 7 Manchester Triage Scale, 6
+expectations, 16 mandatory reporting responsibilities, 59 61
+expected triage decision, 7 mass casualty incident triage, 4
+eye injuries, 23 mastitis, 53
+F maternal oxygenation, 54
+MCI triage, 4
+fnancial issues, rural and remote nursing, 38 medico-legal issues, 55–9
+foetal wellbeing, 54 Mental Health Act, 30
+‘footprints’, 11 mental health triage, 26–34, 58
+forensic evidence, preservation of, 59 mood factors, in mental health assessment, 29
+function of triage, 5 MTS, 6
+G multiple jobs, 37
+musculoskeletal pain, 42
+GCS, see disability rating
+N
+general appearance criteria, 21, 28, 45
+gestational age, 52–4 nasal congestion, 51
+H National Health Workforce Strategic Framework, vii
+National Specialisation Framework for Nursing and
+haemodynamic compromise, 22 Midwifery, vii
+high-risk conditions, 24 National Triage Scale, 5–6, 10, see also Australasian Triage
+history of triage, 4 Scale
+history-taking in paediatric triage, 44, 47 needs, human, 17
+homicide risk, 29 negligence laws, 58
+human needs, 17 ‘noise’, 16
+hypertension in pregnant patients, 53 Non-urgent treatment criteria
+hyperthermia, 24 mental health assessment, 34
+hypotension, 22 paediatric triage, 48–9
+paediatric triage, 46 non-verbal behaviours, 16
+pregnant patients, 51, 54 NTS, 5–6, 10, see also Australasian Triage Scale
+hypothermia, 24 numerical pain rating scales, 42
+hypoxaemia, 22 nurses, see Triage Nurses
+
+
+
+O remote location triaging, 35–8
+reporting, 59
+obstetrics, 50–4 respiration, see breathing
+occluded airways, see airway obstruction rest, ice, compression and elevation (RICE)
+on-site medical staff, 36 treatment, 42
+ophthalmologic injuries, 23 risk assessments, 30, 49
+organic illnesses, mental conditions caused by, 28 rural and remote triaging, 35–8
+outcomes, Australasian Triage Scale, 11 S
+over-triage, 7
+oxygenation and foetal wellbeing, 54 safety issues, 5, 21, 37
+P SAVE A CHILD assessment tool, 45
+secondary postpartum haemorrhage, 53
+paediatric triage, 43–7 secondary triage decisions, 7
+children at risk, 59 self-report of pain, 41
+pain assessment, 39–42 Semi-urgent treatment criteria
+pallor, paediatric triage, 46 mental health assessment, 33
+palpitations, 52 paediatric triage, 48–9
+parents of patients, 44, 46 South Eastern Sydney Area Health Service
+participants in program, 3 (SESAHS) triage tool, 27
+past history, paediatric triage, 47 splenic artery, 52
+patients, prioritising, 25 spontaneous arterial dissection, 52
+62 per vagina loss, 52, 54 stridor, 21, 45
+performance indicators, time-to-treatment, 11 sub-arachnoid haemorrhage, 52
+philosophy of ATS, 10 subclavian artery, 52
+physical environment, 16 suicide risk, 29–30
+physiological abnormalities, 19, 28, 46 Sutherland Hospital guidelines, 38
+placental conditions, 53
+position statements, 56 T
+postnatal patients, 53
+postpartum cardiomyopathy, 53 T
+predictors of outcome, 19 tachycardia, paediatric triage, 48
+preeclampsia, 53 Tasmanian triage rating, 27
+pregnancy and triage, 50–4 telephone triage, 37
+premature labour, 53 time constraints, 16, 37
+primary-survey approach, 27, 51–2 time-to-treatment, 4, 11
+primary triage decisions, 7 tissue turgor, paediatric triage, 48
+prioritisation of patients, 25 training for Triage Nurses, 3, 8
+privacy issues, 44, 59 trauma patients, 24
+progesterone, respiratory effects, 51 triage, 3, 7, 18–25
+program structure, 2 Triage Education Resource Book, vii
+protocols, 56 Triage Nurses
+psychostimulant drugs, 31 communication skills, 14
+pulmonary embolus, 52 medico-legal issues, 55–9
+PV loss, 52 position statements, 56
+R rural and remote, 37
+Triage Observation Tool, 45
+rashes, 24
+re-triage, 3, 24, 58
+reactions of patient, 28
+reasonable standard of care, 57–8
+recommended triage method, 19
+reliability of scale, 5
+
+
+
+U
+under-triage, 7
+understanding, need for, 17
+urgency
+defned, 3
+paediatric triage, 44–5
+Urgent treatment criteria
+mental health assessment, 33
+paediatric triage, 48–9
+urine output, paediatric triage, 48
+utility of scale, 5
+V
+vaginal bleeding, 52, 54
+validity of scale, 5
+verbal communication, 14
+verbal consent, 57
+verbal pain rating scales, 42
+visual analogue pain rating, 42
+W
+63
+Wong-Baker FACES Rating Scale, 41
+written consent, 57
+Y
+Yale Observation Scale, 45
+young patients, 31, see also paediatric triage
+
+
+
+
+
+
+EMERGENCY
+TRIAGE
+EDUCATION
+KIT
