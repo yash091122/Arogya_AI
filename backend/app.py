@@ -3,6 +3,7 @@ import shutil
 from fastapi import FastAPI, HTTPException, File, UploadFile, Query
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi import Form, Optional
 import speech_recognition as sr
 
 # Force bypass of the OpenMP duplicate runtime error
@@ -35,24 +36,28 @@ def home():
     return {"status": "online", "system": "ArogyaAI Conversational Audio Engine Active"}
 
 @app.post("/api/triage")
-def execute_text_triage(request: TriageRequest):
+def execute_text_triage(
+    transcript: str = Form(...),
+    session_id: str = Form("default_session")
+):
     """
-    Handles multi-turn text input tracking from the frontend interface.
+    Handles multi-turn text input tracking from the frontend interface using Form data.
+    This aligns perfectly with how Yash sends multipart form packets!
     """
-    if not request.transcript.strip():
+    if not transcript.strip():
         raise HTTPException(status_code=400, detail="Transcript cannot be empty.")
     try:
         # Route the query string and its identifier to the RAG memory layer
-        ai_structured_response = run_arogya_triage(request.transcript, session_id=request.session_id)
+        ai_structured_response = run_arogya_triage(transcript, session_id=session_id)
         return {
             "success": True,
-            "input_transcript": request.transcript,
+            "input_transcript": transcript,
             "structured_triage": ai_structured_response
         }
     except Exception as e:
         print(f"❌ Text Triage Pipeline Error: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
-
+    
 @app.post("/api/triage-audio")
 def execute_audio_triage(
     session_id: str = Query("default_session", description="Unique session token for tracking conversation multi-turn context"),
